@@ -2,6 +2,8 @@
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
+
+
 靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 龍華日韓台,https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
 TVBS欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
@@ -130,7 +132,130 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 
 
- 0603,#genre#
+
+
+
+📺歐飛嗅探,#genre#
+parse=1 
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+SMART知識,https://www.ofiii.com/channel/watch/litv-longturn19
+華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
+TVBS政論,https://www.ofiii.com/channel/watch/ofiii56
+TVBS綜藝,https://www.ofiii.com/channel/watch/ofiii42
+中天亞洲精采,https://www.ofiii.com/channel/watch/ofiii36
+公視金獎,https://www.ofiii.com/channel/watch/ofiii13
+龍華戲劇,https://www.ofiii.com/channel/watch/litv-longturn18
+龍華經典,https://www.ofiii.com/channel/watch/litv-longturn21
+龍華偶像,https://www.ofiii.com/channel/watch/litv-longturn12
+龍華日韓,https://www.ofiii.com/channel/watch/litv-longturn11
+龍華電影,https://www.ofiii.com/channel/watch/litv-longturn03
+龍華卡通,https://www.ofiii.com/channel/watch/litv-longturn01
+東森娛樂,https://www.ofiii.com/channel/watch/ofiii32
+
+華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
+台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+中天新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv009
+寰宇財經,https://www.ofiii.com/channel/watch/litv-longturn23
+寰宇新聞,https://www.ofiii.com/channel/watch/litv-longturn14
+寰宇新聞台灣,https://www.ofiii.com/channel/watch/litv-longturn15
+
+亞洲旅遊,https://www.ofiii.com/channel/watch/litv-longturn17
+ELTV生活英語,https://www.ofiii.com/channel/watch/litv-longturn20
+cawd-679,https://jable.tv/videos/cawd-679/
+
+YES TV,#genre#
+
+
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+
+
+
+緯來體育台,https://yeslivetv.com/channels/videoland-sports/
+ELEVEN體育1台(DAZN1),https://yeslivetv.com/channels/eleven-sports-1/
+ELEVEN體育2台(DAZN2),https://yeslivetv.com/channels/eleven-sports-2/
+愛爾達體育1台,https://yeslivetv.com/channels/elta-tv-1/
+愛爾達體育2台,https://yeslivetv.com/channels/elta-tv-2/
+愛爾達體育3台,https://yeslivetv.com/channels/elta-tv-3/
+博斯無限台,https://yeslivetv.com/channels/sportcast-mod208/
+智林體育台,https://yeslivetv.com/channels/oursport/
+
+
+緯來日本台,https://yeslivetv.com/channels/videoland-japan/
+靖天日本台,https://yeslivetv.com/channels/goldentv-japan/
+龍華日韓台,https://yeslivetv.com/channels/ltv-japan-korea/
+華視,https://yeslivetv.com/channels/cts-hd/
+中視HD,https://yeslivetv.com/channels/ctv-hd/
+民視HD,https://yeslivetv.com/channels/ftv-hd/
+
+Taiwan+(台灣+),https://yeslivetv.com/channels/taiwanplus/
+TVBS 42 歡樂台,https://yeslivetv.com/channels/tvbs42/
+TVBS 55台,https://yeslivetv.com/channels/tvbs55/
+TVBS 56台,https://yeslivetv.com/channels/tvbs56/
+TVBS精采台,https://yeslivetv.com/channels/tvbs-e/
+八大綜合台(CH28),https://yeslivetv.com/channels/gtv-ch28/
+三立綜合台,https://yeslivetv.com/channels/set/
+中天亞洲台,https://yeslivetv.com/channels/ctiasia/
+中天綜合台,https://yeslivetv.com/channels/ctitv-ch36/
+中視菁采台,https://yeslivetv.com/channels/ctv-bravo/
+中視經典台,https://yeslivetv.com/channels/ctv-classic/
+公視台語台,https://yeslivetv.com/channels/pts2/
+公視戲劇,https://yeslivetv.com/channels/pts-drama/
+民視台灣台,https://yeslivetv.com/channels/ftvhd/
+民視旅遊台,https://yeslivetv.com/channels/ftv-travel/
+民視第一台,https://yeslivetv.com/channels/ftvone/
+民視綜藝台,https://yeslivetv.com/channels/ftv-variety-show/
+民視影劇台,https://yeslivetv.com/channels/ftv-film/
+華視綜藝頻道,https://yeslivetv.com/channels/cts-entertainment/
+華視戲劇頻道,https://yeslivetv.com/channels/cts-drama/
+愛爾達娛樂台,https://yeslivetv.com/channels/eltatv-entertainment/
+靖天綜合台,https://yeslivetv.com/channels/goldentv-mod303/
+靖天戲劇台,https://yeslivetv.com/channels/goldentv-mod356/
+靖洋戲劇台,https://yeslivetv.com/channels/goldentv-mod357/
+緯來育樂台,https://yeslivetv.com/channels/videoland-maxtv/
+龍華戲劇台,https://yeslivetv.com/channels/ltv-drama/
+台視財經台,https://yeslivetv.com/channels/ttv-finance/
+年代新聞台,https://yeslivetv.com/channels/era-news/
+東森財經台(股市),https://yeslivetv.com/channels/ebc-stock/
+非凡商業台,https://yeslivetv.com/channels/ustvbiz/
+非凡新聞台,https://yeslivetv.com/channels/ustv/
+
+
+
+
+
+ 
+YT watch,#genre#
+ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+核心訓練必知,https://www.youtube.com/watch?v=VgMMHrwWU3Y
+棒式三分鐘,https://www.youtube.com/watch?v=XOWNz7f_8QM
+
+TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+東森新聞台, https://www.youtube.com/live/LuQ4S-i5zoE?si=XkUZWb4eh1oLdBlE
+东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
+华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
+中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+
+
+
+ 0603 mitv,#genre#
 
 纬来日本台,mitv://135.148.104.228:19806/5f9d37ba1fc04a04aaec6979908294a2
 国兴卫视,mitv://135.148.104.228:19806/18aaee00d2af442ebb4592e15f7b2a20
@@ -287,35 +412,6 @@ MTV,mitv://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 
 
-
-61 125,#genre#
- 
-纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-三立台湾台,http://125.227.210.55:8160/VideoInput/play.ts
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
-TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
-三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
-Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
-HBO,http://125.227.210.55:8153/VideoInput/play.ts
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
-探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
-CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
- 
- 
- 
- 
  
  
 🇹🇼臺灣電視,#genre#
@@ -326,168 +422,6 @@ CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
 非凡新闻台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
  
-RTMP,#genre#
-纬来日本台,rtmp://220.130.201.73/sat/tv771
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来日本台,rtmp://twcdn.top/sat/tv771
-东森超视,rtmp://220.130.201.73/sat/tv331
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-华视,rtmp://220.130.201.73/sat/tv111
-华视,rtmp://f13h.mine.nu/sat/tv111
-华视,rtmp://twcdn.top/sat/tv112
-中视,rtmp://220.130.201.73/sat/tv091
-中视,rtmp://f13h.mine.nu/sat/tv091
-中视,rtmp://twcdn.top/sat/tv091
-台视,rtmp://220.130.201.73/sat/tv071
-台视,rtmp://f13h.mine.nu/sat/tv071
-台视,rtmp://twcdn.top/sat/tv071
-民视,rtmp://220.130.201.73/sat/tv051
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视,rtmp://twcdn.top/sat/tv051
-民视,rtmp://twcdn.top/sat/tv052
-MoMo综合台,rtmp://220.130.201.73/sat/tv761
-MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
-MoMo综合台,rtmp://twcdn.top/sat/tv761
-TVBS欢乐台,rtmp://twcdn.top/sat/tv421
-TVBS欢乐台,rtmp://twcdn.top/sat/tv422
-纬来育乐台,rtmp://220.130.201.73/sat/tv701
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来育乐台,rtmp://twcdn.top/sat/tv701
-纬来育乐台,rtmp://twcdn.top/sat/tv702
-纬来体育台,rtmp://220.130.201.73/sat/tv721
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-纬来体育台,rtmp://twcdn.top/sat/tv721
-ELEVEN1,rtmp://220.130.201.73/sat/tv731
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://220.130.201.73/sat/tv741
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN2,rtmp://twcdn.top/sat/tv741
-ELTA体育1台,rtmp://twcdn.top/sat/md011
-博斯运动二台,rtmp://twcdn.top/sat/md051
-Fox Sport 1,rtmp://twcdn.top/sat/tv731
-TVBS新闻台,rtmp://twcdn.top/sat/tv551
-东森财经新闻台,rtmp://twcdn.top/sat/tv571
-食尚玩家,rtmp://twcdn.top/sat/tv552
- 
- 
-
-📺歐飛嗅探,#genre#
-parse=1 
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-SMART知識,https://www.ofiii.com/channel/watch/litv-longturn19
-華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
-中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
-台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
-Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
-TVBS政論,https://www.ofiii.com/channel/watch/ofiii56
-TVBS綜藝,https://www.ofiii.com/channel/watch/ofiii42
-中天亞洲精采,https://www.ofiii.com/channel/watch/ofiii36
-公視金獎,https://www.ofiii.com/channel/watch/ofiii13
-龍華戲劇,https://www.ofiii.com/channel/watch/litv-longturn18
-龍華經典,https://www.ofiii.com/channel/watch/litv-longturn21
-龍華偶像,https://www.ofiii.com/channel/watch/litv-longturn12
-龍華日韓,https://www.ofiii.com/channel/watch/litv-longturn11
-龍華電影,https://www.ofiii.com/channel/watch/litv-longturn03
-龍華卡通,https://www.ofiii.com/channel/watch/litv-longturn01
-東森娛樂,https://www.ofiii.com/channel/watch/ofiii32
-
-華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
-中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
-台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
-中天新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv009
-寰宇財經,https://www.ofiii.com/channel/watch/litv-longturn23
-寰宇新聞,https://www.ofiii.com/channel/watch/litv-longturn14
-寰宇新聞台灣,https://www.ofiii.com/channel/watch/litv-longturn15
-
-亞洲旅遊,https://www.ofiii.com/channel/watch/litv-longturn17
-ELTV生活英語,https://www.ofiii.com/channel/watch/litv-longturn20
-cawd-679,https://jable.tv/videos/cawd-679/
-
-YES TV,#genre#
-
-
-parse=1
-ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-
-
-
-
-緯來體育台,https://yeslivetv.com/channels/videoland-sports/
-ELEVEN體育1台(DAZN1),https://yeslivetv.com/channels/eleven-sports-1/
-ELEVEN體育2台(DAZN2),https://yeslivetv.com/channels/eleven-sports-2/
-愛爾達體育1台,https://yeslivetv.com/channels/elta-tv-1/
-愛爾達體育2台,https://yeslivetv.com/channels/elta-tv-2/
-愛爾達體育3台,https://yeslivetv.com/channels/elta-tv-3/
-博斯無限台,https://yeslivetv.com/channels/sportcast-mod208/
-智林體育台,https://yeslivetv.com/channels/oursport/
-
-
-緯來日本台,https://yeslivetv.com/channels/videoland-japan/
-靖天日本台,https://yeslivetv.com/channels/goldentv-japan/
-龍華日韓台,https://yeslivetv.com/channels/ltv-japan-korea/
-華視,https://yeslivetv.com/channels/cts-hd/
-中視HD,https://yeslivetv.com/channels/ctv-hd/
-民視HD,https://yeslivetv.com/channels/ftv-hd/
-
-Taiwan+(台灣+),https://yeslivetv.com/channels/taiwanplus/
-TVBS 42 歡樂台,https://yeslivetv.com/channels/tvbs42/
-TVBS 55台,https://yeslivetv.com/channels/tvbs55/
-TVBS 56台,https://yeslivetv.com/channels/tvbs56/
-TVBS精采台,https://yeslivetv.com/channels/tvbs-e/
-八大綜合台(CH28),https://yeslivetv.com/channels/gtv-ch28/
-三立綜合台,https://yeslivetv.com/channels/set/
-中天亞洲台,https://yeslivetv.com/channels/ctiasia/
-中天綜合台,https://yeslivetv.com/channels/ctitv-ch36/
-中視菁采台,https://yeslivetv.com/channels/ctv-bravo/
-中視經典台,https://yeslivetv.com/channels/ctv-classic/
-公視台語台,https://yeslivetv.com/channels/pts2/
-公視戲劇,https://yeslivetv.com/channels/pts-drama/
-民視台灣台,https://yeslivetv.com/channels/ftvhd/
-民視旅遊台,https://yeslivetv.com/channels/ftv-travel/
-民視第一台,https://yeslivetv.com/channels/ftvone/
-民視綜藝台,https://yeslivetv.com/channels/ftv-variety-show/
-民視影劇台,https://yeslivetv.com/channels/ftv-film/
-華視綜藝頻道,https://yeslivetv.com/channels/cts-entertainment/
-華視戲劇頻道,https://yeslivetv.com/channels/cts-drama/
-愛爾達娛樂台,https://yeslivetv.com/channels/eltatv-entertainment/
-靖天綜合台,https://yeslivetv.com/channels/goldentv-mod303/
-靖天戲劇台,https://yeslivetv.com/channels/goldentv-mod356/
-靖洋戲劇台,https://yeslivetv.com/channels/goldentv-mod357/
-緯來育樂台,https://yeslivetv.com/channels/videoland-maxtv/
-龍華戲劇台,https://yeslivetv.com/channels/ltv-drama/
-台視財經台,https://yeslivetv.com/channels/ttv-finance/
-年代新聞台,https://yeslivetv.com/channels/era-news/
-東森財經台(股市),https://yeslivetv.com/channels/ebc-stock/
-非凡商業台,https://yeslivetv.com/channels/ustvbiz/
-非凡新聞台,https://yeslivetv.com/channels/ustv/
-
-
-
-
-
- 
-YT watch,#genre#
- ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-核心訓練必知,https://www.youtube.com/watch?v=VgMMHrwWU3Y
-棒式三分鐘,https://www.youtube.com/watch?v=XOWNz7f_8QM
-
-TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-
-東森新聞台, https://www.youtube.com/live/LuQ4S-i5zoE?si=XkUZWb4eh1oLdBlE
-东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
-华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
-民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
-中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
-寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 
 
 unblock,#genre#
@@ -815,7 +749,7 @@ HT123,#genre#
 
 香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
 惊艳成人电影台,http://125.227.210.55:8156/VideoInput/play.ts
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+
 🌲️松视1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 🌲️松视2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 🌲️松视3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
@@ -879,42 +813,995 @@ WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c
 
 
 
+0608,#genre#
+0608,#genre#
+Smart知识台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn19
+Smart知识台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn19
+Smart知识台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn19
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来日本台,rtmp://twcdn.top/sat/tv771
+纬来日本台,rtmp://220.130.201.73/sat/tv771
+纬来日本台,http://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+纬来日本台,http://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+纬来日本台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=videoland-japan
+纬来日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-japan
+纬来日本台,https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+国兴卫视,https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
+靖天日本台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv047
+靖天日本台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv047
+靖天日本台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtrb
+靖天日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv047
+靖天日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtrb
+靖天日本台,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+龙华日韩台,http://cdn.1678520.xyz/litv.php?id=litv-longturn11
+龙华日韩台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn11
+龙华日韩台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn11
+龙华日韩台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ltv-rihan
+龙华日韩台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn11
+龙华日韩台,https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+纬来综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=videoland
+纬来综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,rtmp://220.130.201.73/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+东森超视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-super
+东森超视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvsuper
+东森超视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-super
+美食星球,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=food-planet
+美食星球,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=foodplanet_twn
+美食星球,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=food-planet
+华视,rtmp://f13h.mine.nu/sat/tv111
+华视,rtmp://twcdn.top/sat/tv112
+华视,rtmp://220.130.201.73/sat/tv111
+华视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv041
+华视,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv041
+华视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cts
+华视,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctshd_twn
+华视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
+华视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
+华视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts
+中视,rtmp://f13h.mine.nu/sat/tv091
+中视,rtmp://twcdn.top/sat/tv091
+中视,rtmp://220.130.201.73/sat/tv091
+中视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv040
+中视,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv040
+中视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctv
+中视,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=zhongshihd_twn
+中视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhongshihd_twn
+中视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv040
+中视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv
+中视,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+台视,rtmp://twcdn.top/sat/tv071
+台视,rtmp://220.130.201.73/sat/tv071
+台视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv066
+台视,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv066
+台视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ttv
+台视,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ttv_taiwan
+台视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv_taiwan
+台视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
+台视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视,rtmp://twcdn.top/sat/tv052
+民视,rtmp://twcdn.top/sat/tv051
+民视,rtmp://220.130.201.73/sat/tv051
+民视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv002
+民视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv155
+民视,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv155
+民视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv
+民视,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftvhd_taiwan
+民视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvhd_taiwan
+民视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv155
+民视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv
+公视,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=pts
+公视,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctv_taiwan
+公视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv_taiwan
+公视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts
+公视,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+ELTA综合,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-zonghe
+ELTA综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-zonghe
+ELTA影剧,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-ylt
+EYE戏剧,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eyetvxiju_twn
+EYE戏剧,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
+JET综合台,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
+MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
+MoMo综合台,rtmp://twcdn.top/sat/tv761
+MoMo综合台,rtmp://220.130.201.73/sat/tv761
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv073
+TVBS,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv073
+TVBS,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-hd
+TVBS,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs
+TVBS,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs
+TVBS,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
+TVBS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-hd
+TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS台剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-taiju
+TVBS台剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-taiju
+TVBS欢乐台,rtmp://twcdn.top/sat/tv552
+TVBS欢乐台,rtmp://twcdn.top/sat/tv422
+TVBS欢乐台,rtmp://twcdn.top/sat/tv421
+TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS欢乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv068
+TVBS欢乐台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv068
+TVBS欢乐台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-huanle
+TVBS欢乐台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbshuanle_twn
+TVBS欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv068
+TVBS欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-huanle
+TVBS欢乐台,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
+TVBS综艺台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-zongyi
+TVBS综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-zongyi
+TVBS精采台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv067
+TVBS精采台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv067
+TVBS精采台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv067
+TVBS精采台,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
+TVN台湾版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+七彩戏剧,http://ygbh.live/best.php?id=qcxj
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+八大戏剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gtv-41
+八大戏剧台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=badadrama
+八大戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badadrama
+八大戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-41
+八大戏剧台,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
+八大娱乐台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gtv-86
+八大娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-86
+八大娱乐台,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大第一台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gtv27
+八大第一台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=badafirst
+八大第一台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badafirst
+八大第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv27
+八大第一台,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大综合台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大综合台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv039
+八大综合台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv039
+八大综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gtv28
+八大综合台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=badazhonghe
+八大综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badazhonghe
+八大综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
+八大综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv28
+八大综合台,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
+八大综艺,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=grt
+八大综艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=grt
+八大精彩台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv034
+八大精彩台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv034
+八大精彩台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gtv-jct
+八大精彩台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv034
+三立台湾台,http://125.227.210.55:8160/VideoInput/play.ts
+三立台湾台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-taiwan
+三立台湾台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sanlitaiwan
+三立台湾台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlitaiwan
+三立台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-taiwan
+三立台湾台,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-drama
+三立戏剧台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sanlixiju_twn
+三立戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlixiju_twn
+三立戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-drama
+三立戏剧台,https://z88.ubtvfans.com/live/rx1/64/73393c10a0588bd9119eaed578fb81d5/index.m3u8
+三立国际台,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
+三立综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-zonghe
+三立综合台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sanlizhonghe
+三立综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlizhonghe
+三立综合台,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
+三立都会台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-city
+三立都会台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-city
+三立都会台,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+中天亚洲台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv109
+中天亚洲台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv109
+中天亚洲台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cti-asia
+中天亚洲台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctiasia_twn
+中天亚洲台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctiasia_twn
+中天亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv109
+中天亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-asia
+中天娱乐台,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+中天娱乐台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cti-yule
+中天娱乐台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctient
+中天娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-yule
+中天娱乐台,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+中天综合台,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctitv36
+中天综合台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctizhonghe
+中天综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctizhonghe
+中天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctitv36
+中天综合台,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+中视经典,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv080
+中视经典,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv080
+中视经典,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctv-classic
+中视经典,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv080
+中视菁采台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv064
+中视菁采台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv064
+中视菁采台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=bravo
+中视菁采台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv064
+中视菁采台,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
+公视三台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=pts-3
+公视台语台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=pts-ty
+公视三台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
+公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
+公视戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv042
+公视戏剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv042
+公视戏剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=gsxj
+公视戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv042
+公视戏剧台,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
+天映经典频道,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
+东森亚洲卫视,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+东森戏剧台,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+东森戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvdrama
+东森戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-drama
+东森戏剧台,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+东森综合台,http://220.134.196.147:9553/.m3u8
+东森综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-ettv
+东森综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
+东森综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-ettv
+台湾戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn22
+民视台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv001
+民视台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv156
+民视台湾台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv001
+民视台湾台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-tw
+民视台湾台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftvtaiwan_twn
+民视台湾台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvtaiwan_twn
+民视台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
+民视台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-tw
+民视台湾台,https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
+民视第一台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv003
+民视第一台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv003
+民视第一台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-one
+民视第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
+民视第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-one
+民视综艺台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv004
+民视影剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv09
+民视综艺台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv004
+民视影剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv09
+民视影剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-drama
+民视综艺台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-reality
+民视综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv004
+民视影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv09
+民视影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-drama
+民视综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-reality
+龙华戏剧,http://cdn.1678520.xyz/litv.php?id=litv-longturn18
+龙华戏剧,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn18
+龙华戏剧,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn18
+龙华戏剧,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ltv-xiju
+龙华戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn18
+龙华戏剧,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+龙华经典,http://cdn.1678520.xyz/litv.php?id=litv-longturn21
+龙华经典,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn21
+龙华经典,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn21
+龙华经典,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn21
+龙华经典,https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
+龙华偶像,http://cdn.1678520.xyz/litv.php?id=litv-longturn12
+龙华偶像,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn12
+龙华偶像,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn12
+龙华偶像,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn12
+龙华偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+纬来戏剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=videoland-drama
+纬来戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-drama
+纬来戏剧台,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来育乐台,rtmp://twcdn.top/sat/tv702
+纬来育乐台,rtmp://twcdn.top/sat/tv701
+纬来育乐台,rtmp://220.130.201.73/sat/tv701
+纬来育乐台,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来精采,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
+采昌影剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv049
+采昌影剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv049
+采昌影剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=caichang
+采昌影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv049
+采昌影剧台,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
+爱尔达娱乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv070
+爱尔达娱乐台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv070
+爱尔达娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv070
+爱尔达娱乐台,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+博斯魅力台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn04
+博斯魅力台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn04
+猪哥亮歌厅秀,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv006
+猪哥亮歌厅秀,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv006
+猪哥亮歌厅秀,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=zglgtx
+猪哥亮歌厅秀,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv006
+猪哥亮歌厅秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
+靖天戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv058
+靖天戏剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv058
+靖天戏剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtxjt
+靖天戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv058
+靖天戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtxjt
+靖天欢乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv054
+靖天欢乐台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv054
+靖天欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv054
+靖天欢乐台,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
+靖天育乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv062
+靖天育乐台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv062
+靖天育乐台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtyl
+靖天育乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv062
+靖天育乐台,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
+靖天国际,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv063
+靖天国际,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv063
+靖天国际,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtgj
+靖天国际,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv063
+靖天国际,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+靖天映画,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv055
+靖天映画,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv055
+靖天映画,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtyh
+靖天映画,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv055
+靖天资讯台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv065
+靖天资讯台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv065
+靖天资讯台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtzx
+靖天资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv065
+靖天综合台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv046
+靖天综合台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv046
+靖天综合台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtzh
+靖天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv046
+靖天综合台,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+靖洋戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv045
+靖洋戏剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv045
+靖洋戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv045
+靖洋戏剧台,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
+影迷数位纪实台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ymswjst
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来体育台,rtmp://twcdn.top/sat/tv721
+纬来体育台,rtmp://220.130.201.73/sat/tv721
+纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
+纬来体育台,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育台,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-sport
+纬来体育台,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN1,rtmp://220.130.201.73/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN2,rtmp://twcdn.top/sat/tv741
+ELEVEN2,rtmp://220.130.201.73/sat/tv741
+ELEVEN2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELTA体育1台,rtmp://twcdn.top/sat/md011
+ELTA体育1台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-sport1
+ELTA体育1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport1
+ELTA体育1台,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+ELTA体育2台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-sport2
+ELTA体育2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport2
+ELTA体育2台,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+ELTA体育3台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-sport3
+ELTA体育3台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport3
+ELTA体育3台,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+爱尔达体育4台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=elta-sport4
+爱尔达体育4台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport4
+智林体育台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv101
+智林体育台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv101
+智林体育台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=zl-sports
+智林体育台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv101
+博斯运动一台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn07
+博斯运动一台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn07
+博斯运动一台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast1
+博斯运动一台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn07
+博斯运动一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast1
+博斯运动一台,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+博斯运动二台,rtmp://twcdn.top/sat/md051
+博斯运动二台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn08
+博斯运动二台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn08
+博斯运动二台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast2
+博斯运动二台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn08
+博斯运动二台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast2
+博斯运动二台,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+博斯无限台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn10
+博斯无限台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn10
+博斯无限台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast-wx
+博斯无限台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn10
+博斯无限台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-wx
+博斯无限二台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn13
+博斯无限二台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn13
+博斯无限二台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn13
+博斯魅力网,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn04
+博斯魅力网,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast-meili
+博斯魅力网,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-meili
+博斯网球台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn09
+博斯网球台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn09
+博斯网球台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast-tennis
+博斯网球台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bositennis_twn
+博斯网球台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn09
+博斯网球台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-tennis
+博斯高球台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn05
+博斯高球台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn05
+博斯高球1台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn05
+博斯高球1台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast-golf1
+博斯高球1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf1
+博斯高球2台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn06
+博斯高球2台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn06
+博斯高球2台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sportcast-golf2
+博斯高球2台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bosigolf2_twn
+博斯高球2台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn06
+博斯高球2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf2
+Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
+Fox Sport 1,rtmp://twcdn.top/sat/tv731
+TRACE Sport Stars,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv077
+TRACE Sport Stars,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv077
+TRACE Sport Stars,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv077
+五星体育,http://ygbh.live/best.php?id=wxty
+时尚运动,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv014
+时尚运动,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv014
+时尚运动,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv014
+魅力足球,http://ygbh.live/best.php?id=mlzq
+TVBS新闻台,rtmp://twcdn.top/sat/tv551
+TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv072
+TVBS新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv072
+TVBS新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-news
+TVBS新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs_n
+TVBS新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs_n
+TVBS新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv072
+TVBS新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-news
+TVBS亚洲台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvbs-asia
+TVBS亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-asia
+东森新闻台,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+东森新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv152
+东森新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv152
+东森新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-news
+东森新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv152
+东森新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-news
+东森新闻台,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
+东森财经新闻台,rtmp://twcdn.top/sat/tv571
+东森财经新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv153
+东森财经新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv153
+东森财经新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-finance
+东森财经新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv153
+东森财经新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-finance
+华视新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv052
+华视新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv052
+华视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv052
+华视新闻台,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+中视新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv074
+中视新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv074
+中视新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctv-news
+中视新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=zhongshinews_twn
+中视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv074
+台视新闻台,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv051
+台视新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv051
+台视新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ttv-news
+台视新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ttvnews_twn
+台视新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttvnews_twn
+台视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv051
+台视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv-news
+台视财经台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv056
+台视财经台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv056
+台视财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv056
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv13
+民视新闻台,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
+民视新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv13
+民视新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-news
+民视新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftvnew_taiwan
+民视新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvnew_taiwan
+民视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv13
+民视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-news
+三立iNEWS,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-inews
+三立iNEWS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-inews
+三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
+三立新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=settv-news
+三立新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=inews_twn
+三立新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=inews_twn
+三立新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-news
+三立新闻台,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+中天新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv009
+中天新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv009
+中天新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cti-news
+中天新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ctinews
+中天新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctinews
+中天新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv009
+中天新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-news
+年代新闻台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=era-news
+年代新闻台,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=niandainews_twn
+年代新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=era-news
+年代新闻台,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
+非凡商业台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv048
+非凡商业台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv048
+非凡商业台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv048
+非凡新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv010
+非凡新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv010
+非凡新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=unique-business-news
+非凡新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv010
+非凡新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=unique-business-news
+壹新闻,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=nexttv
+壹新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nexttv
+壹新闻,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+寰宇财经,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn23
+寰宇财经,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=global-finance
+寰宇财经,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn23
+寰宇新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn14
+寰宇新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn14
+寰宇新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=global-news
+寰宇新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn14
+寰宇新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-news
+寰宇新闻台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn15
+寰宇新闻台湾台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn15
+寰宇新闻台湾台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=global-news-tw
+寰宇新闻台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn15
+镜新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv075
+镜新闻,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=mnews
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+VOA美国之音,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv03
+VOA美国之音,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv03
+半岛国际新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv10
+半岛国际新闻台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv10
+半岛国际新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=aljazeera
+半岛国际新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv10
+第1商业台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv104
+第1商业台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv104
+国际财经,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv104
+美国之音,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv03
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC電影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv017
+AXN亚洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+CATCHPLAY,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv076
+CATCHPLAY,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv076
+CATCHPLAY,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv076
+CI 罪案侦查频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ci
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
+HBO,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
+凤凰电影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
+东森电影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-movie
+东森电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvmovie
+东森电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-movie
+东森电影台,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+东森洋片台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-emovie
+东森洋片台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvwestern
+东森洋片台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-emovie
+东森洋片台,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+龙华电影台,http://cdn.1678520.xyz/litv.php?id=litv-longturn03
+龙华电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn03
+龙华电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
+龙华电影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ltv-movies
+龙华电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn03
+龙华电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-movies
+龙华洋片台,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
+龙祥电影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=lstime
+龙祥电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lstime
+全球大片,http://ygbh.live/best.php?id=qqdp
+纬来电影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=videoland-movie
+纬来电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-movie
+星卫电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xingwei_movie
+星光影院,http://ygbh.live/best.php?id=xgyy
+星空卫视,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+美亞電影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=meiah-movies
+美亞電影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=meiah-movies
+壹电视电影台,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+靖天电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv061
+靖天电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv061
+靖天电影台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtdy
+靖天电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv061
+靖天电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtdy
+靖天电影台,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+影迷数位电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv011
+影迷数位电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv011
+影迷数位电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv011
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+Discovery科学,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+DMAX,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=dmax
+DMAX,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dmax
+DMAX,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
+Love Nature,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=love-nature
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+动物星球,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AnimalPlanet
+动物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+达文西频道,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv018
+达文西频道,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv018
+达文西频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=da-vinci
+达文西频道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv018
+国家地理野生频道,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeohd_twn
+探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
+探索亚洲频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=discovery-asia
+探索亚洲频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery-asia
+探索亚洲频道,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+探索频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=discovery
+探索频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery
+探索频道,https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
+视纳华仁纪实频道,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv013
+视纳华仁纪实频道,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv013
+视纳华仁纪实频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cnex
+视纳华仁纪实频道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv013
+CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
+CN卡通频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=cn-cartoon
+CN卡通频道,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+DreamWorks 梦工厂动画,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=dreamworks
+i-Fun动漫台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv15
+i-Fun动漫台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv15
+i-Fun动漫台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv15
+MOMO亲子台,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
+MOMO亲子台,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+东森幼幼台,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+东森幼幼台,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+东森幼幼台,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+东森幼幼台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ebc-yoyo
+东森幼幼台,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+尼克儿童频道,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=nickelodeon
+龙华动画,http://cdn.1678520.xyz/litv.php?id=litv-longturn01
+龙华动画,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn01
+龙华动画,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn01
+龙华动画,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn01
+迪士尼,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=disney
+靖天卡通台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv044
+靖天卡通台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv057
+靖天卡通台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv044
+靖天卡通台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv057
+靖天卡通台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=jtkt
+靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv044
+靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv057
+靖天卡通台,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+靖天卡通台,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+嘉佳卡通,http://ygbh.live/best.php?id=jjkt
+EYE TV旅游台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=eye-travel
+EYE TV旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eye-travel
+民视旅游台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv07
+民视旅游台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv07
+民视旅游台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=ftv-travel
+民视旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv07
+民视旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel
+亚洲旅游台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn17
+亚洲旅游台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn17
+亚洲旅游台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=asia-travel
+亚洲旅游台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asiatravel_twn
+亚洲旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn17
+亚洲旅游台,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+亞洲美食afn,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=afc_twn
+旅游生活,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc_twn
+古典音乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv059
+Mezzo Live,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv083
+Mezzo Live,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv083
+Mezzo Live,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv083
+MTV Live,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=mtv
+MTV Live,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mtv
+韩国娱乐台 KMTV,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=kmtv
+ELTV生活英语台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn20
+ELTV生活英语台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=eltv
+ELTV生活英语台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn20
+生活英语台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn20
+ARIRANG阿里郎频道,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv079
+ARIRANG阿里郎频道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv079
+GINX Esports TV,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv053
+GINX Esports TV,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
+GinxTV,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv053
+GLOBETROTTER,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv016
+TRACE Urban,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv082
+TRACE Urban,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv082
+TRACE Urban,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv082
+大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=daai1
+大爱1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai1
+大爱2台,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2台,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=daai2
+大爱2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai2
+JStar极限电影台,http://u9v.cn/5FZsLd
+松视3台,http://mtw.so/6wCBqQ
+松视3台,https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
+香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
+香蕉台,http://u6v.cn/6p6iQd
+彩虹K频道,http://mtw.so/6a470f
+惊艳成人电影台,http://125.227.210.55:8156/VideoInput/play.ts
+潘朵拉完美台,http://u9v.cn/6hAvUu
+♥️惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+♥️潘朵啦玩美Perfect,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+🌲️松视1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+🌲️松视2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+🌲️松视3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+🍌️香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+🔞奥视2,http://125.227.210.55:55643/VideoInput/play.ts
+🔞奥视3,http://125.227.210.55:8917/VideoInput/play.ts
 
-📺歐盟,#genre#
-parse=1
-ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
-O0 LaLa,http://hochu.tv/o-la-la.html
-Dorcel,http://hochu.tv/dorcel-tv.html
-Hustler HD,http://hochu.tv/hustler-hd.html
-French,http://hochu.tv/french-lover-tv.html
-Blue Hustler,http://hochu.tv/blue-hustler.html
-FAP anal,http://hochu.tv/fap-tv-anal.html
-Private HD,http://hochu.tv/private-tv.html
-FAP parody,http://hochu.tv/fap-tv-parody.html
-ox-ax HD,http://hochu.tv/oh-ah-hd.html
-XXL,http://hochu.tv/xxl.html
-Redlight HD,http://hochu.tv/redlight-hd.html
-Penthouse,http://hochu.tv/penthouse-2.html
-XY MIX,http://hochu.tv/xy-mix.html
-FAP tenns,http://hochu.tv/fap-tv-teens.html
-FAP lesbian,http://hochu.tv/fap-tv-lesbian.html
-Playboy TV,http://hochu.tv/playboy-tv.html
-Kinoxxx,http://hochu.tv/kinoxxx.html
-XY MAX,http://hochu.tv/xy-max.html
-Babes TV,http://hochu.tv/babes-tv.html
-Vivid red,http://hochu.tv/vivid-red.html
-FAP 2,http://hochu.tv/fap-tv-2.html
-FAP 3,http://hochu.tv/fap-tv-3.html
-FAP 4,http://hochu.tv/fap-tv-4.html
-FAP bbw,http://hochu.tv/fap-tv-bbw.html
-FAP comp,http://hochu.tv/fap-tv-compilation.html
-Barely legal,http://hochu.tv/barely-legal-tv.html
-Extasy HD,http://hochu.tv/extasy-hd.html
-Red lips,http://hochu.tv/red-lips.html
-Waayh,http://hochu.tv/shalun-tv.html
-XY plus,http://hochu.tv/xy-plus.html
 
-parse=1
-ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0
-Fashion TV,https://adultstvlive.com/fashion-tv-hd-live/
+
+
+histar(端午快乐),#genre#
+
+纬来日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-japan
+靖天日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtrb
+龙华日韩台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-rihan
+纬来综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland
+东森超视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-super
+美食星球,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=food-planet
+华视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts
+中视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv
+台视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv
+民视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv
+公视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts
+ELTA 娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-ylt
+ELTA综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-zonghe
+TVBS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-hd
+TVBS台剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-taiju
+TVBS欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-huanle
+TVBS综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-zongyi
+八大戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-41
+八大娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-86
+八大第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv27
+八大综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv28
+八大综艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=grt
+八大精彩台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-jct
+三立台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-taiwan
+三立戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-drama
+三立综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-zonghe
+三立都会台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-city
+中天亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-asia
+中天娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-yule
+中天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctitv36
+中视经典,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv-classic
+中视菁采台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bravo
+公视三台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
+公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
+公视戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gsxj
+东森戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-drama
+东森综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-ettv
+民视台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-tw
+民视第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-one
+民视综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-reality
+民视影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-drama
+龙华戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-xiju
+纬来戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-drama
+采昌影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=caichang
+猪哥亮歌厅秀,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zglgtx
+靖天戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtxjt
+靖天育乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtyl
+靖天国际,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtgj
+靖天映画,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtyh
+靖天资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtzx
+靖天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtzh
+靖洋戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jyxj
+影迷数位纪实台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ymswjst
+纬来体育台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-sport
+ELTA体育1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport1
+ELTA体育2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport2
+ELTA体育3台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport3
+爱尔达体育4台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport4
+博斯运动一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast1
+博斯运动二台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast2
+博斯无限台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-wx
+博斯魅力网,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-meili
+博斯网球台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-tennis
+博斯高球1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf1
+博斯高球2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf2
+TVBS新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-news
+TVBS亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-asia
+东森新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-news
+东森财经新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-finance
+华视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts-news
+中视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv-news
+台视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv-news
+民视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-news
+三立iNEWS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-inews
+三立新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-news
+中天新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-news
+年代新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=era-news
+非凡新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=unique-business-news
+壹新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nexttv
+寰宇财经,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-finance
+寰宇新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-news
+寰宇新闻台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-news-tw
+鏡新聞,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mnews
+半岛国际新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=aljazeera
+CI 罪案侦查频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ci
+东森电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-movie
+东森洋片台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-emovie
+龙华电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-movies
+龙祥电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lstime
+纬来电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-movie
+美亞電影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=meiah-movies
+靖天电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtdy
+DMAX,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dmax
+Love Nature,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=love-nature
+达文西频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=da-vinci
+探索亚洲频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery-asia
+探索频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery
+视纳华仁纪实频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnex
+CN卡通频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cn-cartoon
+DreamWorks 梦工厂动画,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dreamworks
+东森幼幼台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-yoyo
+尼克儿童频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nickelodeon
+迪士尼,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=disney
+靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtkt
+EYE TV旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eye-travel
+民视旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel
+亚洲旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asia-travel
+MTV Live,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mtv
+韩国娱乐台 KMTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kmtv
+ELTV生活英语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eltv
+大爱1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai1
+大爱2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai2
+车迷TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=motorvision
+好消息,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=goodtv
+客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
+TVBS 精采台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-jc
+Animax 卡通,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=animax-cartoon
+ARIRANG 阿里郎频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=arirang
+Asian Food Network,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asian-food-network
+Boomerang HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=boomerang-hd
+ELTA 生活旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-lifetravel
+History 频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=history
+History-2 频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=history-2
+i-Fun 动漫台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=i-fun
+LiveABC 互动英语频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=liveabc
+MOMO 亲子台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=momo-kids
+SBN 全球财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbn
+TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc
+小尼克频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nick-jr
+动物星球频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=animal-planet
+国家地理 野生频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeo-wild
+探索科学频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery-sci
+滚动力 rollor,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rollor
+靖洋卡通 NiceBingo,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nice-bingo
+影迷数字电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=fans-cinema
+
+
+
+4GTV(端午快乐),#genre#
+
+Smart知识台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn19
+靖天日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv047
+龙华日韩台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn11
+华视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
+中视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv040
+台视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
+民视,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv155
+TVBS,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
+TVBS欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv068
+TVBS精采台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv067
+八大综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
+八大精彩台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv034
+中天亚洲台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv109
+中视经典,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv080
+中视菁采台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv064
+公视戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv042
+民视台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
+民视第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
+民视综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv004
+民视影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv09
+龙华戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn18
+龙华经典,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn21
+龙华偶像,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn12
+采昌影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv049
+爱尔达娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv070
+博斯魅力台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn04
+靖天戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv058
+靖天欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv054
+靖天育乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv062
+靖天国际,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv063
+靖天映画,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv055
+靖天资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv065
+靖天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv046
+靖洋戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv045
+智林体育台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv101
+博斯运动一台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn07
+博斯运动二台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn08
+博斯无限台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn10
+博斯无限二台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn13
+博斯网球台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn09
+博斯高球台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn05
+博斯高球2台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn06
+TRACE Sport Stars,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv077
+时尚运动,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv014
+TVBS新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv072
+东森新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv152
+东森财经新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv153
+华视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv052
+中视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv074
+台视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv051
+台视财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv056
+民视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv13
+中天新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv009
+非凡商业台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv048
+非凡新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv010
+寰宇财经,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn23
+寰宇新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn14
+寰宇新闻台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn15
+半島國際新聞台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv10
+VOA美国之音,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv03
+第1商业台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv104
+CATCHPLAY,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv076
+龙华电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn03
+靖天电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv061
+影迷数位电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv011
+达文西频道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv018
+i-Fun动漫台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv15
+龙华卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn01
+靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv044
+靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv057
+民视旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv07
+亞洲旅遊台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn17
+Mezzo Live,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv083
+ELTV生活英语台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn20
+ARIRANG阿里郎頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv079
+GINX Esports TV,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
+TRACE Urban,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv082
+好消息,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv16
+好消息2台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv17
+客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv043
+視納華仁紀實頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv013
+豬哥亮歌廳秀,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv006
+CLASSICA古典樂,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv059
+國會頻道1台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv084
+國會頻道2台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv085
+東森購物1台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv102
+東森購物2台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv103
+
+
+
+斯玛特(端午快乐),#genre#
+
+东森超视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvsuper
+美食星球,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=foodplanet_twn
+华视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
+中视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhongshihd_twn
+台视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv_taiwan
+民视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvhd_taiwan
+公视,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv_taiwan
+EYE戏剧,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eyetvxiju_twn
+TVBS,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs
+TVBS欢乐台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbshuanle_twn
+八大戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badadrama
+八大娱乐台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badaentertain
+八大第一台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badafirst
+八大综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badazhonghe
+三立台湾台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlitaiwan
+三立戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlixiju_twn
+三立综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlizhonghe
+卫视中文台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=weishichinese_twn
+中天亚洲台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctiasia_twn
+中天综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctizhonghe
+中视经典,http://https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhongshi_twn
+东森戏剧台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvdrama
+东森综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
+台视综合台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttvzhonghe_twn
+民视台湾台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvtaiwan_twn
+龙华戏剧,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lunghuaxiju_twn
+龙华偶像,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lunghuaidol_twn
+靖天国际,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jingtianintl_twn
+ELTA体育2台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eltasport2_twn
+ELTA体育3台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eltasport3_twn
+博斯运动一台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bosisport1_twn
+博斯运动二台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bosisport2_twn
+博斯网球台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bositennis_twn
+博斯高球2台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bosigolf2_twn
+TVBS新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs_n
+东森财经新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvcaijing_twn
+中视新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhongshinews_twn
+台视新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttvnews_twn
+民视新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvnew_taiwan
+三立新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=inews_twn
+中天新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctinews
+年代新闻台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=niandainews_twn
+非凡新闻台,http://https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=feifannews_twn
+卫视电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=weishimovie_twn
+东森电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvmovie
+东森洋片台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvwestern
+龙华洋片台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lunghuawestern_twn
+好莱坞电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hollywoodmovies_twn
+星卫电影台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xingwei_movie
+动物星球,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AnimalPlanet
+国家地理频道,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeohd_twn
+探索亚洲频道,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discoverytwn_twn
+东森幼幼台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=yoyo_twn
+龙华卡通台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jingtiancartoon_twn
+靖天卡通台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jingtiancartoon_twn
+EYE TV旅游台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=?id=eyetvtravel_twn
+亚洲旅游台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asiatravel_twn
+亞洲美食afn,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=afc_twn
+旅游生活,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc_twn
+大爱2台,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=catchplay_twn
+中天娱乐 ,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctient
+龙详时代,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lungxiangtime_twn
+美亚电影,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=meiyamovie_twn
+动物星球1,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=animalplanet_twn
+野生动物,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeowild_twn
+地理野生,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeowildtamil_raj
