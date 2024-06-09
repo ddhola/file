@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 ,纬来日本台
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 ,纬来日本台
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 ,纬来日本台
+rtmp://twcdn.top/sat/tv771
+#EXTINF:-1 ,纬来日本台
+http://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+#EXTINF:-1 ,纬来日本台
+http://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+#EXTINF:-1 ,纬来日本台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-japan
+#EXTINF:-1 ,靖天日本台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv047
+#EXTINF:-1 ,靖天日本台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtrb
+#EXTINF:-1 ,龙华日韩台
+http://cdn.1678520.xyz/litv.php?id=litv-longturn11
+#EXTINF:-1 ,龙华日韩台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn11
+#EXTINF:-1 ,纬来综合台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland
+#EXTINF:-1 ,东森超视
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 ,东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 ,东森超视
+http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 ,东森超视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvsuper
+#EXTINF:-1 ,东森超视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-super
+#EXTINF:-1 ,美食星球
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=foodplanet_twn
+#EXTINF:-1 ,美食星球
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=food-planet
+#EXTINF:-1 ,华视
+rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1 ,华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 ,华视
+rtmp://twcdn.top/sat/tv112
+#EXTINF:-1 ,华视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
+#EXTINF:-1 ,华视
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
+#EXTINF:-1 ,华视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts
+#EXTINF:-1 ,中视
+rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1 ,中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 ,中视
+rtmp://twcdn.top/sat/tv091
+#EXTINF:-1 ,中视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhongshihd_twn
+#EXTINF:-1 ,中视
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv040
+#EXTINF:-1 ,中视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv
+#EXTINF:-1 ,台视
+rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 ,台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 ,台视
+rtmp://twcdn.top/sat/tv071
+#EXTINF:-1 ,台视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv_taiwan
+#EXTINF:-1 ,台视
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
+#EXTINF:-1 ,台视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv
+#EXTINF:-1 ,民视
+rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1 ,民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 ,民视
+rtmp://twcdn.top/sat/tv051
+#EXTINF:-1 ,民视
+rtmp://twcdn.top/sat/tv052
+#EXTINF:-1 ,民视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftvhd_taiwan
+#EXTINF:-1 ,民视
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv155
+#EXTINF:-1 ,民视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv
+#EXTINF:-1 ,公视
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv_taiwan
+#EXTINF:-1 ,公视
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts
+#EXTINF:-1 ,ELTA综合
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-zonghe
+#EXTINF:-1 ,EYE戏剧
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eyetvxiju_twn
+#EXTINF:-1 ,MoMo综合台
+rtmp://220.130.201.73/sat/tv761
+#EXTINF:-1 ,MoMo综合台
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 ,MoMo综合台
+rtmp://twcdn.top/sat/tv761
+#EXTINF:-1 ,TVBS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 ,TVBS
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 ,TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 ,TVBS
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs
+#EXTINF:-1 ,TVBS
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
+#EXTINF:-1 ,TVBS
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-hd
+#EXTINF:-1 ,TVBS台剧台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-taiju
+#EXTINF:-1 ,TVBS欢乐台
+rtmp://twcdn.top/sat/tv421
+#EXTINF:-1 ,TVBS欢乐台
+rtmp://twcdn.top/sat/tv422
+#EXTINF:-1 ,TVBS欢乐台
+rtmp://twcdn.top/sat/tv552
+#EXTINF:-1 ,TVBS欢乐台
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 ,TVBS欢乐台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?
+#EXTINF:-1 ,TVBS欢乐台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv068
+#EXTINF:-1 ,TVBS欢乐台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-huanle
+#EXTINF:-1 ,TVBS综艺台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-zongyi
+#EXTINF:-1 ,TVBS精采台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv067
+#EXTINF:-1 ,八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 ,八大戏剧台
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 ,八大戏剧台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badadrama
+#EXTINF:-1 ,八大戏剧台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-41
+#EXTINF:-1 ,八大娱乐台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-86
+#EXTINF:-1 ,八大第一台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 ,八大第一台
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 ,八大第一台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badafirst
+#EXTINF:-1 ,八大第一台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv27
+#EXTINF:-1 ,八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 ,八大综合台
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 ,八大综合台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=badazhonghe
+#EXTINF:-1 ,八大综合台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
+#EXTINF:-1 ,八大综合台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv28
+#EXTINF:-1 ,八大综艺
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=grt
+#EXTINF:-1 ,八大精彩台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv034
+#EXTINF:-1 ,三立台湾台
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 ,三立台湾台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlitaiwan
+#EXTINF:-1 ,三立台湾台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-taiwan
+#EXTINF:-1 ,三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 ,三立戏剧台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?
+#EXTINF:-1 ,三立戏剧台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-drama
+#EXTINF:-1 ,三立综合台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sanlizhonghe
+#EXTINF:-1 ,三立都会台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-city
+#EXTINF:-1 ,中天亚洲台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctiasia_twn
+#EXTINF:-1 ,中天亚洲台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv109
+#EXTINF:-1 ,中天亚洲台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-asia
+#EXTINF:-1 ,中天娱乐台
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 ,中天娱乐台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctient
+#EXTINF:-1 ,中天娱乐台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-yule
+#EXTINF:-1 ,中天综合台
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 ,中天综合台
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctizhonghe
+#EXTINF:-1 ,中天综合台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctitv36
+#EXTINF:-1 ,中视经典
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv080
+#EXTINF:-1 ,中视菁采台
+https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv064
+#EXTINF:-1 ,公视三台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
+#EXTINF:-1 ,公视台语台
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
