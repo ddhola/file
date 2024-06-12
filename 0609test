@@ -26,36 +26,30 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 61 125,#genre#
  
  
- 
-纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-八大综合台61,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS 歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
-探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
-凤凰资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
- 
-TVBS125,http://125.227.210.55:8188/VideoInput/play.ts
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 三立台湾台,http://125.227.210.55:8160/VideoInput/play.ts
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
+纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
 三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
+凤凰资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
-BBC new,http://125.227.210.55:8165/VideoInput/play.ts
-CNN new,http://125.227.210.55:8166/VideoInput/play.ts
-JTV,http://125.227.210.55:8169/VideoInput/play.ts
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
 
 RTMP,#genre#
