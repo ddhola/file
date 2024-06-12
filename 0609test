@@ -23,7 +23,89 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 
+61 125,#genre#
+ 
+ 
+ 
+纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+八大综合台61,http://61.221.215.25:8800/hls/56/index.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+凤凰资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
+ 
+TVBS125,http://125.227.210.55:8188/VideoInput/play.ts
+三立台湾台,http://125.227.210.55:8160/VideoInput/play.ts
+纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
+TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
+三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+JTV,http://125.227.210.55:8169/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 
+
+RTMP,#genre#
+纬来日本台,rtmp://twcdn.top/sat/tv771
+TVBS欢乐台,rtmp://twcdn.top/sat/tv421
+TVBS欢乐台,rtmp://twcdn.top/sat/tv422
+MoMo综合台,rtmp://twcdn.top/sat/tv761
+华视,rtmp://twcdn.top/sat/tv112
+中视,rtmp://twcdn.top/sat/tv091
+台视,rtmp://twcdn.top/sat/tv071
+民视,rtmp://twcdn.top/sat/tv051
+民视,rtmp://twcdn.top/sat/tv052
+纬来育乐台,rtmp://twcdn.top/sat/tv701
+纬来育乐台,rtmp://twcdn.top/sat/tv702
+纬来体育台,rtmp://twcdn.top/sat/tv721
+ELEVEN2,rtmp://twcdn.top/sat/tv741
+ELTA体育1台,rtmp://twcdn.top/sat/md011
+博斯运动二台,rtmp://twcdn.top/sat/md051
+Fox Sport 1,rtmp://twcdn.top/sat/tv731
+TVBS新闻台,rtmp://twcdn.top/sat/tv551
+TVBS新闻台,rtmp://twcdn.top/sat/tv552
+东森财经新闻台,rtmp://twcdn.top/sat/tv571
+ 
+ 
+
+纬来日本台,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+MoMo综合台,rtmp://220.130.201.73/sat/tv761
+华视,rtmp://220.130.201.73/sat/tv111
+中视,rtmp://220.130.201.73/sat/tv091
+台视,rtmp://220.130.201.73/sat/tv071
+民视,rtmp://220.130.201.73/sat/tv051
+纬来育乐台,rtmp://220.130.201.73/sat/tv701
+纬来体育台,rtmp://220.130.201.73/sat/tv721
+ELEVEN1,rtmp://220.130.201.73/sat/tv731
+ELEVEN2,rtmp://220.130.201.73/sat/tv741
+ 
+ 
+
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
+华视,rtmp://f13h.mine.nu/sat/tv111
+中视,rtmp://f13h.mine.nu/sat/tv091
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 
 TW,#genre#
