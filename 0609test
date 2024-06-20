@@ -21,7 +21,11 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 
-chou chiawei:
+chou,#genre#
+
+ua=Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.179 Mobile Safari/537.36 OPR/82.6.4342.80044
+
+
 民視,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan
 台視,http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
 大愛,http://fm1077.serv00.net/Smart.php?id=daai_twn
