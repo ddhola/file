@@ -1242,7 +1242,6 @@ BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663
 histar0613,#genre#
 纬来日本台,https://histar.zapi.us.kg/?id=videoland-japan
 靖天日本台,https://histar.zapi.us.kg/?id=jtrb
-x龙华日韩台,https://histar.zapi.us.kg/?id=ltv-rihan
 纬来综合台,https://histar.zapi.us.kg/?id=videoland
 东森超视,https://histar.zapi.us.kg/?id=ebc-super
 华视,https://histar.zapi.us.kg/?id=cts
@@ -1250,48 +1249,32 @@ x龙华日韩台,https://histar.zapi.us.kg/?id=ltv-rihan
 台视,https://histar.zapi.us.kg/?id=ttv
 民视,https://histar.zapi.us.kg/?id=ftv
 公视,https://histar.zapi.us.kg/?id=pts
-xELTA 娱乐台,https://histar.zapi.us.kg/?id=elta-ylt
 ELTA综合,https://histar.zapi.us.kg/?id=elta-zonghe
 TVBS,https://histar.zapi.us.kg/?id=tvbs-hd
 TVBS台剧台,https://histar.zapi.us.kg/?id=tvbs-taiju
 TVBS欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
 TVBS综艺台,https://histar.zapi.us.kg/?id=tvbs-zongyi
-xTVBS精采台,https://histar.zapi.us.kg/?id=tvbs-jc
 八大戏剧台,https://histar.zapi.us.kg/?id=gtv-41
 八大娱乐台,https://histar.zapi.us.kg/?id=gtv-86
 八大第一台,https://histar.zapi.us.kg/?id=gtv27
 八大综合台,https://histar.zapi.us.kg/?id=gtv28
 八大综艺,https://histar.zapi.us.kg/?id=grt
-x八大精彩台,https://histar.zapi.us.kg/?id=gtv-jct
 三立台湾台,https://histar.zapi.us.kg/?id=settv-taiwan
 三立戏剧台,https://histar.zapi.us.kg/?id=settv-drama
-x三立综合台,https://histar.zapi.us.kg/?id=settv-zonghe
 三立都会台,https://histar.zapi.us.kg/?id=settv-city
 中天亚洲台,https://histar.zapi.us.kg/?id=cti-asia
 中天娱乐台,https://histar.zapi.us.kg/?id=cti-yule
 中天综合台,https://histar.zapi.us.kg/?id=ctitv36
-x中视经典,https://histar.zapi.us.kg/?id=ctv-classic
-x中视菁采台,https://histar.zapi.us.kg/?id=bravo
 公视三台,https://histar.zapi.us.kg/?id=pts-3
 公视台语台,https://histar.zapi.us.kg/?id=pts-ty
-x公视戏剧台,https://histar.zapi.us.kg/?id=gsxj
 东森戏剧台,https://histar.zapi.us.kg/?id=ebc-drama
 东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
 民视台湾台,https://histar.zapi.us.kg/?id=ftv-tw
 民视第一台,https://histar.zapi.us.kg/?id=ftv-one
 民视综艺台,https://histar.zapi.us.kg/?id=ftv-reality
 民视影剧台,https://histar.zapi.us.kg/?id=ftv-drama
-x龙华戏剧,https://histar.zapi.us.kg/?id=ltv-xiju
 纬来戏剧台,https://histar.zapi.us.kg/?id=videoland-drama
-x采昌影剧台,https://histar.zapi.us.kg/?id=caichang
-x猪哥亮歌厅秀,https://histar.zapi.us.kg/?id=zglgtx
 靖天戏剧台,https://histar.zapi.us.kg/?id=jtxjt
-x靖天国际,https://histar.zapi.us.kg/?id=jtgj
-x靖天映画,https://histar.zapi.us.kg/?id=jtyh
-x靖天资讯台,https://histar.zapi.us.kg/?id=jtzx
-x靖天综合台,https://histar.zapi.us.kg/?id=jtzh
-x靖洋戏剧台,https://histar.zapi.us.kg/?id=jyxj
-x影迷数位纪实台,https://histar.zapi.us.kg/?id=ymswjst
 纬来体育台,https://histar.zapi.us.kg/?id=videoland-sport
 DAZN 1,https://histar.zapi.us.kg/?id=eleven-sport1
 DAZN 2,https://histar.zapi.us.kg/?id=eleven-sport2
@@ -1299,7 +1282,6 @@ ELTA体育1台,https://histar.zapi.us.kg/?id=elta-sport1
 ELTA体育2台,https://histar.zapi.us.kg/?id=elta-sport2
 ELTA体育3台,https://histar.zapi.us.kg/?id=elta-sport3
 爱尔达体育4台,https://histar.zapi.us.kg/?id=elta-sport4
-x智林体育台,https://histar.zapi.us.kg/?id=zl-sports
 博斯运动一台,https://histar.zapi.us.kg/?id=sportcast1
 博斯运动二台,https://histar.zapi.us.kg/?id=sportcast2
 博斯无限台,https://histar.zapi.us.kg/?id=sportcast-wx
@@ -1307,30 +1289,21 @@ x智林体育台,https://histar.zapi.us.kg/?id=zl-sports
 博斯网球台,https://histar.zapi.us.kg/?id=sportcast-tennis
 博斯高球1台,https://histar.zapi.us.kg/?id=sportcast-golf1
 博斯高球2台,https://histar.zapi.us.kg/?id=sportcast-golf2
-xESPN,https://histar.zapi.us.kg/?id=espn
-xESPN 2,https://histar.zapi.us.kg/?id=espn2
 NBA,https://histar.zapi.us.kg/?id=nba
 SPOTV,https://histar.zapi.us.kg/?id=spotv
-xTRACE Sport Stars,https://histar.zapi.us.kg/?id=trace-sport-stars
 TVBS新闻台,https://histar.zapi.us.kg/?id=tvbs-news
 TVBS亚洲台,https://histar.zapi.us.kg/?id=tvbs-asia
 东森新闻台,https://histar.zapi.us.kg/?id=ebc-news
 东森财经新闻台,https://histar.zapi.us.kg/?id=ebc-finance
-x华视新闻台,https://histar.zapi.us.kg/?id=cts-news
 中视新闻台,https://histar.zapi.us.kg/?id=ctv-news
 台视新闻台,https://histar.zapi.us.kg/?id=ttv-news
 民视新闻台,https://histar.zapi.us.kg/?id=ftv-news
 三立iNEWS,https://histar.zapi.us.kg/?id=settv-inews
 三立新闻台,https://histar.zapi.us.kg/?id=settv-news
 中天新闻台,https://histar.zapi.us.kg/?id=cti-news
-x年代新闻台,https://histar.zapi.us.kg/?id=era-news
 非凡新闻台,https://histar.zapi.us.kg/?id=unique-business-news
 壹新闻,https://histar.zapi.us.kg/?id=nexttv
-x寰宇财经,https://histar.zapi.us.kg/?id=global-finance
 寰宇新闻台,https://histar.zapi.us.kg/?id=global-news
-x寰宇新闻台湾台,https://histar.zapi.us.kg/?id=global-news-tw
-x鏡新聞,https://histar.zapi.us.kg/?id=mnews
-x半岛国际新闻台,https://histar.zapi.us.kg/?id=aljazeera
 东森电影台,https://histar.zapi.us.kg/?id=ebc-movie
 东森洋片台,https://histar.zapi.us.kg/?id=ebc-emovie
 龙华电影台,https://histar.zapi.us.kg/?id=ltv-movies
@@ -1338,13 +1311,9 @@ x半岛国际新闻台,https://histar.zapi.us.kg/?id=aljazeera
 纬来电影台,https://histar.zapi.us.kg/?id=videoland-movie
 美亞電影台,https://histar.zapi.us.kg/?id=meiah-movies
 靖天电影台,https://histar.zapi.us.kg/?id=jtdy
-x视纳华仁纪实频道,https://histar.zapi.us.kg/?id=cnex
 MTV Live,https://histar.zapi.us.kg/?id=mtv
-x韩国娱乐台 KMTV,https://histar.zapi.us.kg/?id=kmtv
-xGINX Esports TV,https://histar.zapi.us.kg/?id=ginx-esports
 大爱1台,https://histar.zapi.us.kg/?id=daai1
 大爱2台,https://histar.zapi.us.kg/?id=daai2
-x好消息,https://histar.zapi.us.kg/?id=goodtv
 客家电视台,https://histar.zapi.us.kg/?id=hakkatv
 WWE,https://histar.zapi.us.kg/?id=wwe
 
@@ -1555,61 +1524,6 @@ MTV Live,https://histar.zapi.us.kg/?id=mtv
 ARIRANG 阿里郎频道,https://histar.zapi.us.kg/?id=arirang
 cnex,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv013
 DAAI2,http://extraott.com:80/live/7921751389/6097373662/5547.m3u8
-DAAI2,http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
-davinci,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv018
-ELTA娱乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv070
-ESPN 3,https://histar.zapi.us.kg/?id=espn3
-ESPN 4,https://histar.zapi.us.kg/?id=espn4
-FGM,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv011
-FTV台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv004
-ginx,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv053
-GOOD2,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
-KATV,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv043
-LiveABC 互动英语频道,https://histar.zapi.us.kg/?id=liveabc
-MEZZ,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv083
-myTV SUPER 18,https://histar.zapi.us.kg/?id=mytvsuper-18
-myTV SUPER直播足球1台,https://histar.zapi.us.kg/?id=mytv-super-soccer1
-myTV SUPER直播足球2台,https://histar.zapi.us.kg/?id=mytv-super-soccer2
-myTV SUPER直播足球3台,https://histar.zapi.us.kg/?id=mytv-super-soccer3
-myTV SUPER直播足球4台,https://histar.zapi.us.kg/?id=mytv-super-soccer4
-SBN 全球财经台,https://histar.zapi.us.kg/?id=sbn
-SPORT STARS,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv077
-URBAN,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv082
-中视精彩台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv064
-龙翔时代,http://extraott.com:80/live/7921751389/6097373662/5513.m3u8
-全球旅游台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv016
-好莱坞,http://extraott.com:80/live/7921751389/6097373662/5526.m3u8
-戏剧,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
-财经台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv104
-国会频道一,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv084
-国会频道二,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv085
-环宇新闻台,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
-运动一,http://extraott.com:80/live/7921751389/6097373662/5567.m3u8
-运动七,http://extraott.com:80/live/7921751389/6097373662/5573.m3u8
-运动九,http://extraott.com:80/live/7921751389/6097373662/5575.m3u8
-运动二,http://extraott.com:80/live/7921751389/6097373662/5568.m3u8
-运动八,http://extraott.com:80/live/7921751389/6097373662/5574.m3u8
-运动十,http://extraott.com:80/live/7921751389/6097373662/5576.m3u8
-运动十一,http://extraott.com:80/live/7921751389/6097373662/5577.m3u8
-运动十七,http://extraott.com:80/live/7921751389/6097373662/5583.m3u8
-运动十二,http://extraott.com:80/live/7921751389/6097373662/5578.m3u8
-运动十三,http://extraott.com:80/live/7921751389/6097373662/5579.m3u8
-运动十五,http://extraott.com:80/live/7921751389/6097373662/5581.m3u8
-运动十六,http://extraott.com:80/live/7921751389/6097373662/5582.m3u8
-运动十四,http://extraott.com:80/live/7921751389/6097373662/5580.m3u8
-运动三,http://extraott.com:80/live/7921751389/6097373662/5569.m3u8
-运动五,http://extraott.com:80/live/7921751389/6097373662/5571.m3u8
-运动六,http://extraott.com:80/live/7921751389/6097373662/5572.m3u8
-运动四,http://extraott.com:80/live/7921751389/6097373662/5570.m3u8
-采昌台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv049
-金奥运,http://extraott.com:80/live/7921751389/6097373662/5483.m3u8
-娱乐,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv039
-娱乐二台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv006
-旅游台,http://194.87.101.118/live.m3u8?c=3
-旅游台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv063
-旅游台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
-靖天咨询台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv065
-影迷数字电影台,https://histar.zapi.us.kg/?id=fans-cinema
 
 📺歐盟1,#genre#
 parse=1
