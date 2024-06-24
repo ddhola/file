@@ -1,3 +1,26 @@
+
+YT watch,#genre#
+
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+ 
+ 
+臀部肌肉痛,https://youtu.be/gQlZgWC0wG4?si=BIyKuRXnAK587B1M
+核心訓練必知,https://www.youtube.com/watch?v=VgMMHrwWU3Y
+棒式三分鐘,https://www.youtube.com/watch?v=XOWNz7f_8QM
+TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞台,https://www.youtube.com/watch?v=LuQ4S-i5zoE
+东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
+华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
+中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+
 台灣頻道,#genre#
 纬来日本台,https://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 纬来日本台,https://z02.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
