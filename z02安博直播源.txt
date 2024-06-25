@@ -279,7 +279,8 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 
-
+非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新闻台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 
 HOY资讯台,https://z02.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
