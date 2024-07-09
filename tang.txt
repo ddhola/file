@@ -1,0 +1,195 @@
+
+Taiwan,#genre#
+
+
+爱尔达体育2台,https://tang.hz.cz/zb/Smart.php?id=badb43973866cb8faf3bf09b3eb04840
+爱尔达体育3台,https://tang.hz.cz/zb/Smart.php?id=babe53d5543902e806c3be4a6e2255d7
+
+
+TVBS News 新闻台,https://tang.hz.cz/zb/Smart.php?id=10d8dcb0ff0242c1b28507a9b0ccff44
+TVBS 欢乐台 （备份）,https://tang.hz.cz/zb/Smart.php?id=e2d335f422d540c7c626642b83a17ca6
+TVBS HD,https://tang.hz.cz/zb/Smart.php?id=83bd5da725f36ca9037bc2fb57487dcb
+中天新闻 HD,https://tang.hz.cz/zb/Smart.php?id=605dd87cdd90344d147fe8183d26938c
+中天娱乐 CTI Entertaiment,https://tang.hz.cz/zb/Smart.php?id=f2732e069da1395762b8f6499f3f4a33
+中天综合 CTI Metro,https://tang.hz.cz/zb/Smart.php?id=d2749eac637842532120d7147a5456a4
+中天亚洲台,https://tang.hz.cz/zb/Smart.php?id=979d728417031bb8badaeca999a840b4
+台视 TTV HD,https://tang.hz.cz/zb/Smart.php?id=3e333e692349df85205186c9eae4cb2f
+台视新闻台,https://tang.hz.cz/zb/Smart.php?id=725ad6c7ca8ca0fdda740ea8bb5314e9
+台视综合台,https://tang.hz.cz/zb/Smart.php?id=829640c75c755d454e10590c6d9da4cd
+中视 HD,https://tang.hz.cz/zb/Smart.php?id=8f479c048f1e98b51c8f1064093db146
+中视新闻台,https://tang.hz.cz/zb/Smart.php?id=227537268b13f2310f4797fd7853104e5b2ac4628eda604470e404e62faa2251
+民视 HD,https://tang.hz.cz/zb/Smart.php?id=e06401a94e46a288204d384f29511e5c
+民视新闻台 FTV News,https://tang.hz.cz/zb/Smart.php?id=21fe1fd3915f7f1169d5bd2967444f58
+民视台湾台,https://tang.hz.cz/zb/Smart.php?id=6486aacfafc85c592b3c5cf54fa41002
+华视 CTS HD,https://tang.hz.cz/zb/Smart.php?id=cde16d9770934081effa7d753a625e31
+公视 CTV,https://tang.hz.cz/zb/Smart.php?id=45f8a71c83191179cf8fd3648301c32e
+八大第一 GTV First,https://tang.hz.cz/zb/Smart.php?id=a79e71bf905a83a221dc5556d4ee9a6c
+八大综合 GTV Metro,https://tang.hz.cz/zb/Smart.php?id=5b2ef74bf75589e14c46ccf5909ecb3d
+八大戏剧 GTV Drama,https://tang.hz.cz/zb/Smart.php?id=a5068ea12f574bfb92c536099661cd22
+八大娱乐 GTV Entertainment,https://tang.hz.cz/zb/Smart.php?id=b336ed14c03ff501a960e121667bf9e6
+HBO_HD,https://tang.hz.cz/zb/Smart.php?id=ab05564eff4f6a103c304839cd722982
+HBO_HITS,https://tang.hz.cz/zb/Smart.php?id=5ba43501c3bffd960344dceb95ff0017
+Hollywood Movies,https://tang.hz.cz/zb/Smart.php?id=9f486c3c64264aca33ad3e6951af631cd1ce94b9443c931d67259f0885024b96
+三立台湾 Sanli Taiwan,https://tang.hz.cz/zb/Smart.php?id=9878a7959e4258920e12d82cb3664741
+三立戏剧台,https://tang.hz.cz/zb/Smart.php?id=cf1fee24e870fb0162e32173eaab7d62
+三立综合 Sanli Metro,https://tang.hz.cz/zb/Smart.php?id=042a0c332128f67d9da84b125b53d21e
+三立都会台,https://tang.hz.cz/zb/Smart.php?id=53308bdff0c5316b3a28d038ba4e7ca6
+东森新闻 ETTV News,https://tang.hz.cz/zb/Smart.php?id=61d5198c05391723d8f89cd3fc47ed04
+CINEMAX,https://tang.hz.cz/zb/Smart.php?id=99330788b20d460101059bbea1ce7a99
+东森综合 ETTV Metro,https://tang.hz.cz/zb/Smart.php?id=e5f8d84267448d6ba543b16fea6f395a
+东森戏剧 ETTV Drama,https://tang.hz.cz/zb/Smart.php?id=720f452e6135f65e4580c9060151b66f
+东森超视,https://tang.hz.cz/zb/Smart.php?id=e030f8afba06a879c03128ae09dd4699
+东森财经新闻 ETTV Business,https://tang.hz.cz/zb/Smart.php?id=95d0850f3174fba0c8977f5833641c69
+寰宇财经,https://tang.hz.cz/zb/Smart.php?id=584084f77101ac8be3b3a567e0a16d263b509e31285e2a9434b55d5d65d56619
+寰宇新闻台,https://tang.hz.cz/zb/Smart.php?id=f36858bd12bdc95a401fe3b0ae954ba296faea71c7a38d0ca02b333799acc7eb
+大爱1台,https://tang.hz.cz/zb/Smart.php?id=2827ab0c8530eee50e0ecbca69a03fa5
+非凡新闻台,https://tang.hz.cz/zb/Smart.php?id=221c2d190281a75ef939c8499f4d079c
+龙华戏剧 Lunghua Drama,https://tang.hz.cz/zb/Smart.php?id=e38732421cb5b4ba12849fa3d1e4d3bf
+龙华戏剧台,https://tang.hz.cz/zb/Smart.php?id=e38732421cb5b4ba12849fa3d1e4d3bf
+龙华经典台,https://tang.hz.cz/zb/Smart.php?id=925dccea67fbae001300514c4750f74684169598917b98511157edb8ab7bd213
+龙华偶像,https://tang.hz.cz/zb/Smart.php?id=2171b8d8f799c69def6f8540c233ec81
+AXN Taiwan,https://tang.hz.cz/zb/Smart.php?id=998e4ffe949d929cf0b490064c011812
+靖天国际台,https://tang.hz.cz/zb/Smart.php?id=5dc10d940fe39cae16e54f8201fe30e688b4c1864a9a21cefa487a58b4284256
+年代新闻,https://tang.hz.cz/zb/Smart.php?id=6e5d7e9e16a1ad40b97b0eb5e6ac0ed3
+纬来日本台,https://tang.hz.cz/zb/Smart.php?id=deb606c922e9fa230c39627ae520aa76
+纬来电影台,https://tang.hz.cz/zb/Smart.php?id=b7b207787a5021659df07d89d10876e5e37d3711ac3cf9888b398a75fa011d83
+纬来体育台,https://tang.hz.cz/zb/Smart.php?id=aa19c3a30dbbb3bbfe8d809b8bfce896
+纬来综合台,https://tang.hz.cz/zb/Smart.php?id=094c209d3d99e22e72aa194069af6296
+纬来育乐,https://tang.hz.cz/zb/Smart.php?id=9e6fa1af1780d721d56286f099c2bf39
+纬来精彩,https://tang.hz.cz/zb/Smart.php?id=9ac89fc7f4816b1e831725eb3aa97d52709ebe871f1c5bc51f1582e76fe9987f
+好消息 2,https://tang.hz.cz/zb/Smart.php?id=2082dca286c797a0954e9c3061395c6a
+大爱2台,https://tang.hz.cz/zb/Smart.php?id=4db58062886880b92e881b169e2a85e9
+亚洲美食,https://tang.hz.cz/zb/Smart.php?id=3bf19f5e66ff69d422ca27f8dcf26e71
+美食星球,https://tang.hz.cz/zb/Smart.php?id=d082040af1266c60521697c65246bdef
+亚洲旅游 TLC Asia,https://tang.hz.cz/zb/Smart.php?id=22b4481add9aebbbbafdbff7cf79de56
+东森电影 ETTV Movie,https://tang.hz.cz/zb/Smart.php?id=1a1f6437c2227cc60498fd67c4911c65
+阿里郎 Arirang,https://tang.hz.cz/zb/Smart.php?id=976f060b75ecd4d658605f6aed003879
+博斯运动 1,https://tang.hz.cz/zb/Smart.php?id=3cdb8df641a62c4fcc6aa263c6e94334
+博斯运动 2,https://tang.hz.cz/zb/Smart.php?id=de9ce4d2b5cc7975984ba4d2dbe97d8a
+博斯高球2 HD,https://tang.hz.cz/zb/Smart.php?id=9a7da50dd4a88841dc338f280c45f78e
+博斯网球 HD,https://tang.hz.cz/zb/Smart.php?id=0d10c72eef38645331ab2122b4472b15
+东森洋片 ETTV Western,https://tang.hz.cz/zb/Smart.php?id=c2855bce754e15e0bd91b52dbfbfc0bd
+龙华洋片 Lunghua Western,https://tang.hz.cz/zb/Smart.php?id=e53b67b8493a7683fd38401b8e3ed0952f5ab4d87adfe54d2ab7e26af6a4e976
+博斯无限,https://tang.hz.cz/zb/Smart.php?id=e528b0203eaca02774a23d5b539c48cf8635570ac2b985325ed5162a584a6bed
+MTV Live,https://tang.hz.cz/zb/Smart.php?id=3852beea5cadd2b2ce85e129dd54f6bf
+龙详时代,https://tang.hz.cz/zb/Smart.php?id=d8cebc4657e3c1599598361cb6067c81557f23c4349f497f92792b86f12884ad
+EYETV 旅游,https://tang.hz.cz/zb/Smart.php?id=fba36508f2c676040c47e243c56cb796
+靖天卡通台,https://tang.hz.cz/zb/Smart.php?id=8db5f2238c19d6d464cc8c14e91954408aa66bd11d8b914aa07c12c1adf2d744
+EYETV 戏剧,https://tang.hz.cz/zb/Smart.php?id=bb97b4633dca935655d86f0de408dc57
+卫视中文台 Star Movies Chinese,https://tang.hz.cz/zb/Smart.php?id=7938584f00cdd67f393c13a2ff5f432f0513c69d757a65442ec9792d330e08fb
+东森幼幼 Yoyo TV,https://tang.hz.cz/zb/Smart.php?id=726e32d3c496db9db3d80ee105265cd4
+卫视电影台,https://tang.hz.cz/zb/Smart.php?id=bd897f81b41e799d5c35d2f33ef45c5b
+美亚电影,https://tang.hz.cz/zb/Smart.php?id=542955c2f301de8ba283bee1b2158e59
+爱尔达影剧台,https://tang.hz.cz/zb/Smart.php?id=1e69dce5a3d8e3e7c9ebe7770aa270fb
+爱尔达综合台,https://tang.hz.cz/zb/Smart.php?id=befb46c86848bb87b09b6fb3b64fa2df
+星卫电影,https://tang.hz.cz/zb/Smart.php?id=1c5aa5d56221fe87400a1d0a2cb060d3
+爱尔达影剧,https://tang.hz.cz/zb/Smart.php?id=1e69dce5a3d8e3e7c9ebe7770aa270fb
+爱尔达体育2台,https://tang.hz.cz/zb/Smart.php?id=badb43973866cb8faf3bf09b3eb04840
+AFC 亚洲旅游台,https://tang.hz.cz/zb/Smart.php?id=01895cf0dcbf24af5ae1d41487b80b7d
+爱尔达体育3台,https://tang.hz.cz/zb/Smart.php?id=babe53d5543902e806c3be4a6e2255d7
+
+
+
+
+
+
+
+
+Movie,#genre#
+HBO_HD,https://tang.hz.cz/zb/Smart.php?id=ab05564eff4f6a103c304839cd722982
+HBO_HITS,https://tang.hz.cz/zb/Smart.php?id=5ba43501c3bffd960344dceb95ff0017
+Hollywood Movies,https://tang.hz.cz/zb/Smart.php?id=9f486c3c64264aca33ad3e6951af631cd1ce94b9443c931d67259f0885024b96
+CCTV-6,https://tang.hz.cz/zb/Smart.php?id=5dc1fb58541fb7ee7c18dc153d074e9d
+CINEMAX,https://tang.hz.cz/zb/Smart.php?id=99330788b20d460101059bbea1ce7a99
+Cinemax,https://tang.hz.cz/zb/Smart.php?id=753a732f4238bb1d68631fadc1c20901
+AXN Taiwan,https://tang.hz.cz/zb/Smart.php?id=998e4ffe949d929cf0b490064c011812
+大爱2台,https://tang.hz.cz/zb/Smart.php?id=4db58062886880b92e881b169e2a85e9
+东森电影 ETTV Movie,https://tang.hz.cz/zb/Smart.php?id=1a1f6437c2227cc60498fd67c4911c65
+东森洋片 ETTV Western,https://tang.hz.cz/zb/Smart.php?id=c2855bce754e15e0bd91b52dbfbfc0bd
+龙华洋片 Lunghua Western,https://tang.hz.cz/zb/Smart.php?id=e53b67b8493a7683fd38401b8e3ed0952f5ab4d87adfe54d2ab7e26af6a4e976
+龙详时代,https://tang.hz.cz/zb/Smart.php?id=d8cebc4657e3c1599598361cb6067c81557f23c4349f497f92792b86f12884ad
+Animax,https://tang.hz.cz/zb/Smart.php?id=3cc8faec0e9c67d52b55559a6275852e
+Movies Now HD,https://tang.hz.cz/zb/Smart.php?id=a23b74a42fe9b28722d2a2a8664f8d1b
+Star Movies HD,https://tang.hz.cz/zb/Smart.php?id=4608b7ed9ed95814726ccb771070cd32
+卫视中文台 Star Movies Chinese,https://tang.hz.cz/zb/Smart.php?id=7938584f00cdd67f393c13a2ff5f432f0513c69d757a65442ec9792d330e08fb
+HBO Family,https://tang.hz.cz/zb/Smart.php?id=650489f1f4c0b131783dc47f84649da3
+卫视电影台,https://tang.hz.cz/zb/Smart.php?id=bd897f81b41e799d5c35d2f33ef45c5b
+HBO HD,https://tang.hz.cz/zb/Smart.php?id=1c58e84bb261de928208a3c83862eadc
+Hits,https://tang.hz.cz/zb/Smart.php?id=bea34b18109efdfbdbf7986ddde079f1
+Warner TV,https://tang.hz.cz/zb/Smart.php?id=a236a8e6ce968f2a437ab7b8c447634e
+美亚电影,https://tang.hz.cz/zb/Smart.php?id=542955c2f301de8ba283bee1b2158e59
+HBO Signature,https://tang.hz.cz/zb/Smart.php?id=32abe6a98b1ddc2f4d2e1641ac7a4752
+HBO Hits,https://tang.hz.cz/zb/Smart.php?id=b54615202b57b5789da13da3ba236c3e
+星卫电影,https://tang.hz.cz/zb/Smart.php?id=1c5aa5d56221fe87400a1d0a2cb060d3
+SCM,https://tang.hz.cz/zb/Smart.php?id=1fb3e75c8d57028afb08ea2ae24d13be
+Dreamworks,https://tang.hz.cz/zb/Smart.php?id=c92a57b410347470c126e817bcc6a999
+Thrill,https://tang.hz.cz/zb/Smart.php?id=1700fdac3ee5dc66bb947c8c16e3303b
+Hits Movie,https://tang.hz.cz/zb/Smart.php?id=7aca9cf1df60fcd2f51e9a77095b0371
+One,https://tang.hz.cz/zb/Smart.php?id=41b99a5c2f3879856e8973ec3dd1e353
+tvN Movie,https://tang.hz.cz/zb/Smart.php?id=77a14c25783eb4b4b37d531698596cf1
+Celestial Classic,https://tang.hz.cz/zb/Smart.php?id=54fdb2f74543faad023be4d6cc62f712
+Celestial Movies HD,https://tang.hz.cz/zb/Smart.php?id=8eb40f855802f9170616274d560d92c1
+Axn HD,https://tang.hz.cz/zb/Smart.php?id=ecdb1664ca6cd665b939e498b01c2032
+Paramount Network,https://tang.hz.cz/zb/Smart.php?id=397becb49361664e710fa56fd8b04bde070306d6279d52e2615d20d53cccff91
+Astrol Kplus,https://tang.hz.cz/zb/Smart.php?id=d3aa5ec8914a369f4c498c84f7929823
+Rock Actions,https://tang.hz.cz/zb/Smart.php?id=5ec0eaeeb811bcc8c624ac95bba19e7e
+Sony Pix HD,https://tang.hz.cz/zb/Smart.php?id=5063e5020e3e3722121b625ba7b48fc5
+Rock Entertainment,https://tang.hz.cz/zb/Smart.php?id=18519e7177dc482db1298237d35aebf1
+Documentary,#genre#
+Natgeo_HD,https://tang.hz.cz/zb/Smart.php?id=4976288344e3002e984f4b357fe7d658
+NatGeo_Wild HD,https://tang.hz.cz/zb/Smart.php?id=15bb96a29da57f1b206d08692a03de61
+Animal_Planet,https://tang.hz.cz/zb/Smart.php?id=2f26b1e125731cdc1013f04604811717e9ce3988730c253b210e638a2580fa1c
+Discovery Asia,https://tang.hz.cz/zb/Smart.php?id=1aad69c70fb8b65a7275a8b0a4dba12cfc3f4eb6fa804a2d05e5e03192ca6c36
+CI,https://tang.hz.cz/zb/Smart.php?id=bb1fd2eeff44d3ed8e01dba9b820333b
+Asia Travel,https://tang.hz.cz/zb/Smart.php?id=01895cf0dcbf24af5ae1d41487b80b7d
+Discovery HD,https://tang.hz.cz/zb/Smart.php?id=aec119411b8ce55eda4b996e5f90ab51
+亚洲美食,https://tang.hz.cz/zb/Smart.php?id=3bf19f5e66ff69d422ca27f8dcf26e71
+美食星球,https://tang.hz.cz/zb/Smart.php?id=d082040af1266c60521697c65246bdef
+亚洲旅游 TLC Asia,https://tang.hz.cz/zb/Smart.php?id=22b4481add9aebbbbafdbff7cf79de56
+NatGeo HD,https://tang.hz.cz/zb/Smart.php?id=ed6a255c7a025a3d7f944212c8228a45
+Fashion TV,https://tang.hz.cz/zb/Smart.php?id=c6b8745b9cfc214b10a1ecc06c3b983c
+History,https://tang.hz.cz/zb/Smart.php?id=2861b4a84a35a59a47fa318edf96d099
+BBC Earth HD,https://tang.hz.cz/zb/Smart.php?id=6e6981dd61d51781ee6ef7239952621d
+BBC Earth Lifestyle,https://tang.hz.cz/zb/Smart.php?id=0ac828eea31e9bb8a5a2e0ce63c1c0ee5deaf9dfc3d3dce40f183b3efd85acfc
+MTV Live,https://tang.hz.cz/zb/Smart.php?id=3852beea5cadd2b2ce85e129dd54f6bf
+NatGeo Wild HD,https://tang.hz.cz/zb/Smart.php?id=dd449b78d73c7b94410617e1a317b52c
+Animal Planet (Eng),https://tang.hz.cz/zb/Smart.php?id=25fc5179b00cc34d8cfebe61353f1024
+TLC,https://tang.hz.cz/zb/Smart.php?id=cb4de34c12f8cabb2c2e400cb304ef42
+AFC 亚洲旅游台,https://tang.hz.cz/zb/Smart.php?id=01895cf0dcbf24af5ae1d41487b80b7d
+Foodnetwork Hd,https://tang.hz.cz/zb/Smart.php?id=b0a4deaaaebfe5044ebf5bd0c6d3e417
+HGTV,https://tang.hz.cz/zb/Smart.php?id=3f106ad626af83af560db0a9c1d25fb4
+News,#genre#
+Skynews,https://tang.hz.cz/zb/Smart.php?id=b8651a3fc21b3df9b55f843749e7f4ab
+ABC News,https://tang.hz.cz/zb/Smart.php?id=1577fc194a3a8d2187d040a8243f11c9
+东森财经新闻 ETTV Business,https://tang.hz.cz/zb/Smart.php?id=95d0850f3174fba0c8977f5833641c69
+CBS HD,https://tang.hz.cz/zb/Smart.php?id=d33dee52bfef50998118850e51670403
+CBSN HD,https://tang.hz.cz/zb/Smart.php?id=df39c2a54f8a05844df8a8552399f14b
+France 24,https://tang.hz.cz/zb/Smart.php?id=0e47fc2b12dac2b1f006309c08859684
+DW (Deutsch),https://tang.hz.cz/zb/Smart.php?id=8640f81ca5d346fa0bd98415573b7bae
+NHK World,https://tang.hz.cz/zb/Smart.php?id=0c687d52e34cdda6bf94341c5bfae3be
+Fox News,https://tang.hz.cz/zb/Smart.php?id=c88e1c951689099ab06a3562a944fa36
+CGTN,https://tang.hz.cz/zb/Smart.php?id=b105539b06239ae37a87f3246a75a0d0
+CNN International,https://tang.hz.cz/zb/Smart.php?id=683299ae1f0725f8e86a7784f4e394ac
+CNN backup,https://tang.hz.cz/zb/Smart.php?id=66ccdce02d77af20877715c3c0d048c2
+CNBC,https://tang.hz.cz/zb/Smart.php?id=b7012fb7c9a773c196850ddb10c3322a
+CNA,https://tang.hz.cz/zb/Smart.php?id=bc1db2a5f9639b1be264e852d9d8673a
+BBC World News,https://tang.hz.cz/zb/Smart.php?id=e7621547e8ffe3e4875758e51e244ffe
+BBC World News,https://tang.hz.cz/zb/Smart.php?id=329746628f0149962229c8053b8bb8a8
+Bloomberg News,https://tang.hz.cz/zb/Smart.php?id=a10dc769dd72d3605e97a8f26f2f1519
+Al-Jazeera,https://tang.hz.cz/zb/Smart.php?id=f658090542e58b442960c33377f8f20f
+Kids,#genre#
+Baby TV Eng,https://tang.hz.cz/zb/Smart.php?id=aab088882d4e24bc7137fe485cc56f85
+CBeebies,https://tang.hz.cz/zb/Smart.php?id=cfe258166430d98ed0ecc45e020d3163
+Kids TV,https://tang.hz.cz/zb/Smart.php?id=360c2e88570216084601340068e2a755
+Boomerang,https://tang.hz.cz/zb/Smart.php?id=9c6d69e52431805799d4119fcce27532
+Disney Taiwan,https://tang.hz.cz/zb/Smart.php?id=a5db7fb75658feb79478c7593cd2c664
+Momo TV,https://tang.hz.cz/zb/Smart.php?id=2a086a7445748c4f68625c85821f318e
+Animax,https://tang.hz.cz/zb/Smart.php?id=3cc8faec0e9c67d52b55559a6275852e
+靖天卡通台,https://tang.hz.cz/zb/Smart.php?id=8db5f2238c19d6d464cc8c14e91954408aa66bd11d8b914aa07c12c1adf2d744
+Boomerang Taiwan,https://tang.hz.cz/zb/Smart.php?id=767066328ab4cc7cccdf484e415ddece
+Baby TV,https://tang.hz.cz/zb/Smart.php?id=17850102578c5b8efbb1a2dd1073f93f
+MiaoMi,https://tang.hz.cz/zb/Smart.php?id=7e519372619b85676ae229b80507c424
+东森幼幼 Yoyo TV,https://tang.hz.cz/zb/Smart.php?id=726e32d3c496db9db3d80ee105265cd4
+Cartoon Network,https://tang.hz.cz/zb/Smart.php?id=fae02dc95bac1b6f397c3b5279f2cc0a
+Nickelodeon,https://tang.hz.cz/zb/Smart.php?id=ea693c774d2b9031395aefcae15344ef
+Nick Jr,https://tang.hz.cz/zb/Smart.php?id=427486284c4ba6ad97061004368111a1
