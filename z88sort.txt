@@ -1,7 +1,7 @@
 
 
 
-4Ggat,#genre#
+rtmp,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
