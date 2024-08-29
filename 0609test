@@ -31,17 +31,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 4Ggat,#genre#
 
 
-民視,rtmp://f13h.mine.nu/sat/tv051
-台視,rtmp://f13h.mine.nu/sat/tv071
-中視,rtmp://f13h.mine.nu/sat/tv091
-華視,rtmp://f13h.mine.nu/sat/tv111
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv001
 民視,https://gat.zhoujie218.top/litv/4gtv-4gtv002
@@ -417,23 +406,6 @@ Smart 知識台,http://209.146.124.22:8891/litv/litv-longturn19
 國會頻道2,http://209.146.124.22:8891/litv/4gtv-4gtv085
 
 
-rtmpf13h,#genre#
-
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
-ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-
 
 
 61 125,#genre#
@@ -527,19 +499,21 @@ ELEVEN2,rtmp://220.130.201.73/sat/tv741
  
  
 
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
-华视,rtmp://f13h.mine.nu/sat/tv111
-中视,rtmp://f13h.mine.nu/sat/tv091
-台视,rtmp://f13h.mine.nu/sat/tv071
-民视,rtmp://f13h.mine.nu/sat/tv051
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-
-
+rtmpf13h,#genre#
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本台,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
+ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
 
 
 
