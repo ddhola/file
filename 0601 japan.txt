@@ -1,0 +1,36 @@
+NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+
+日テレジータス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+
+キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+ディスカバリー,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+ミュージック?ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
