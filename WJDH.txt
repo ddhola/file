@@ -91,7 +91,7 @@ BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 
 
-🍁海岸一线,#genre#
+🍁61海岸一线,#genre#
 更多资源+TG群,http://61.221.215.25:8800/hls/9/index.m3u8
 +TG群 @S2024TW,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -156,7 +156,7 @@ GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 ❤
-🌙海岸二线,#genre#
+🌙rtmp海岸二线,#genre#
 
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
@@ -179,7 +179,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 台视频道,rtmp://220.130.201.73/sat/tv071
 民视频道,rtmp://220.130.201.73/sat/tv051
 
-🍎海岸三线,#genre#
+🍎4Gts138海岸三线,#genre#
 中天新闻台,http://tw.ts138.top/4g/?id=4gtv-4gtv009
 东森新闻台,http://tw.ts138.top/4g/?id=4gtv-4gtv152
 tvbs新闻台,http://tw.ts138.top/4g/?id=4gtv-4gtv072
@@ -338,7 +338,7 @@ Smart频道,https://litv.zapi.us.kg/?id=litv-longturn19
 tvbs亚洲台,http://185.81.28.58/🥝.php?id=84c9990043a8c6efec2ae99d160efd9a
 
 
-🏊海岸四线,#genre#
+🏊108海岸四线,#genre#
 
 tvbs新闻台,http://108.165.240.85/wan8.php?id=30
 tvbs闽南台,http://108.165.240.85/wan8.php?id=45
@@ -376,6 +376,8 @@ ELta体育叁,http://108.165.240.85/wan8.php?id=54
 tvbs欢乐台,http://108.165.240.85/wan8.php?id=46
 momo频道,http://108.165.240.85/wan8.php?id=57
 cNN新闻台,http://108.165.240.85/wan8.php?id=59
+
+
 🏄海岸P2P,#genre#
 
 
@@ -588,7 +590,7 @@ iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 爱尔达二台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
 爱尔达三台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
 
-📀超極速,#genre#
+📀211超極速,#genre#
 MOMOTV,http://211.72.65.236:8553/.m3u8
 民視新聞台,http://211.72.65.236:8542/.m3u8
 年代新闻,http://211.72.65.236:8529/.m3u8
