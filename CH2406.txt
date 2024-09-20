@@ -4,8 +4,10 @@ parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 1pd,#genre#
-
+parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
  
 [廣告] MDX-009 男友著迷打H-Game 華人女優怎麼辦？,https://jable.tv/videos/mdx-009/
 [廣告] MDX-016 紳士大保健 性感技師主動求調教,https://jable.tv/videos/mdx-016/
@@ -168,6 +170,10 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 489IKUIKU-004 在聖誕節舞台上花錢幹小美女代替她早洩的男友給他一發完美聖誕炮,https://jable.tv/videos/489ikuiku-004/
 
 AARM,#genre#
+
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 AARM-001 用美腳激發派遣社員幹勁 森日向子,https://jable.tv/videos/aarm-001/
 AARM-033 對肉棒的踩踏足交,https://jable.tv/videos/aarm-033/
 AARM-034 舔舐後庭 黑宮詠美,https://jable.tv/videos/aarm-034/
@@ -209,6 +215,10 @@ AARM-168 美熟女隔著悶熱褲襪的土丘讓人要窒息的顏面騎乘,http
 AARM-178「哎呀，你的大肉棒，不能這樣大膨脹啦...不對，小可愛的小肉棒，」耳邊輕輕地低語，一邊不斷地吮吸著他的肉棒,https://jable.tv/videos/aarm-178/
 
 ABF,#genre#
+
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 ABF-001 與超淫蕩最高級辣妹中出的那個夜晚 八掛海,https://jable.tv/videos/abf-001/
 ABF-002 超！通透下流學園 七嶋舞,https://jable.tv/videos/abf-002/
 ABF-003 激情噴濺 流川夕,https://jable.tv/videos/abf-003/
@@ -252,6 +262,10 @@ ABF-111 淫蕩激情性愛打破絕對美少女的外殼M覺醒性愛VOL.07 流�
 
 
 ABP,#genre#
+
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 ABP-104 彩美旬果被操的瘋狂潮吹水流不止,https://jable.tv/videos/abp-104/
 ABP-108 桃谷繪里香與變態男炮友的著衣性愛,https://jable.tv/videos/abp-108/
 ABP-119 和桃谷繪里香兩日一夜甜蜜溫泉旅行,https://jable.tv/videos/abp-119/
