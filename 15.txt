@@ -1,12 +1,45 @@
-
-
-
-
+ks,#genre#
 
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
+sone337,https://missav.com/sone-337-uncensored-leak
+
+sone288,https://missav.com/dm27/sone-288-uncensored-leak
+
+sone250,https://missav.com/dm26/sone-250-uncensored-leak
+
+sone184,https://missav.com/sone-184-uncensored-leak
+
+
+sone106,https://missav.com/dm25/sone-106-uncensored-leak
+
+sone059,https://missav.com/dm25/sone-059-uncensored-leak
+
+sone017,https://missav.com/dm13/sone-017-uncensored-leak
+
+ssis974,https://missav.com/dm26/ssis-974-uncensored-leak
+
+ssis940,https://missav.com/dm26/ssis-940-uncensored-leak
+
+ssis903,https://missav.com/dm13/ssis-903-uncensored-leak
+
+ssis865,https://missav.com/dm13/ssis-865-uncensored-leak
+
+ssis831,https://missav.com/dm42/ssis-831-uncensored-leak
+
+ssis816,https://missav.com/dm68/ssis-816-uncensored-leak
+
+ssis793,https://missav.com/dm52/ssis-793-uncensored-leak
+
+ssis756,https://missav.com/dm52/ssis-756-uncensored-leak
+
+
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+sj,#genre#
 
 ipx-711,https://missav.com/dm39/ipx-711-uncensored-leak
 IPX 711,https://m.thisav.com/dm57/ipx-711
