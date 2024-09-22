@@ -32,8 +32,52 @@ TVBS 新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv072
 
 
 體育,#genre#
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
+
+
+MoMo综合台,rtmp://220.130.201.73/sat/tv761
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
+
+纬来体育台,rtmp://twcdn.top/sat/tv721
+ELEVEN2,rtmp://twcdn.top/sat/tv741
+ELTA体育1台,rtmp://twcdn.top/sat/md011
+博斯运动二台,rtmp://twcdn.top/sat/md051
+Fox Sport 1,rtmp://twcdn.top/sat/tv731
+
+纬来体育台,rtmp://220.130.201.73/sat/tv721
+ELEVEN1,rtmp://220.130.201.73/sat/tv731
+ELEVEN2,rtmp://220.130.201.73/sat/tv741
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本台,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
+ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
+博斯運動一台,https://4gtv.livednow.us.kg/litv/litv-longturn07
+
+
+體育p2p,#genre#
+
+DAZN 1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
+DAZN 2,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
+ELTA体育1台,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
+ELTA体育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
+ELTA体育1台,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
+ELTA体育2台,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
+ELTA体育2台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
+ELTA体育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
+ELTA体育3台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
+爱尔达体育4台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
+爱尔达体育4台,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
+智林体育台,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
+博斯运动,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
+博斯运动,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
+
+
+
 
 4Gnow,#genre#
 民視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv002
