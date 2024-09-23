@@ -8,6 +8,13 @@ HK TVB Plus,zlive://38.114.114.155:6678/fe32c69a556bb89480ea1f91c286a2f0
 HK TVB 无线新闻台,zlive://38.114.114.155:6678/fe3d78b8702e7fee9619efdbeb15aa8a
 HK TVB 明珠台,zlive://38.114.114.155:6678/1f84a5336f77af2188f9fcb061f540ba
 HK VIU TV,zlive://38.114.114.155:6678/ab9d631a4107e00bfda05be4cbfc8d06
+
+032417-504 碧木凛,https://missav.com/dm194/032417_504
+
+010419-829 玲奈,https://jable.tv/videos/010419-829/
+
+040420_995 M 蕩婦 玲奈,https://m.thisav.com/dm124/040420_995
+
 Now 新闻台,zlive://38.114.114.155:6678/2dc6788364645f38b1d41715b2e8be23
 Now 财经台,zlive://38.114.114.155:6678/4a18ecc005cf816447a0c0332b09a5a4
 Now 直播台,zlive://38.114.114.155:6678/d8d2a0364aed4a7ecc2270274aba037d
