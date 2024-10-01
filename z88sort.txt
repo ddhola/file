@@ -1,4 +1,4 @@
-4Ggat,#genre#
+f13h,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -11,7 +11,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
-灣灣专线,#genre#
+4ggat,#genre#
 民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv001
 民視,https://gat.zhoujie218.top/litv/4gtv-4gtv002
 民視第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003
@@ -534,7 +534,7 @@ Smart 知識台,http://209.146.124.22:8891/litv/litv-longturn19
 國會頻道2,http://209.146.124.22:8891/litv/4gtv-4gtv085
 
 
-�9�3「线路3」,#genre#
+f13h61125,#genre#
 
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
