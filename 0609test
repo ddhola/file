@@ -386,7 +386,7 @@ CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
-211,#genre$
+211,#genre#
 纬来日本台,http://211.72.65.236:8537/.m3u8
 龙华日韩台,http://211.72.65.236:8535/.m3u8
 纬来综合台,http://211.72.65.236:8518/.m3u8
@@ -771,7 +771,7 @@ tvN,P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
 NHK新闻资讯台,P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
 
 
-🌙月光宝盒,#genre#
+🌙f13h,#genre#
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
