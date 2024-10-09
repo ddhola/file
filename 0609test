@@ -9,15 +9,15 @@
 MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
 MoMo综合台,rtmp://220.130.201.73/sat/tv761
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://220.130.201.73/sat/tv721
-纬来体育台,rtmp://twcdn.top/sat/tv721
-纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-DAZN 1,rtmp://220.130.201.73/sat/tv731
+纬来体育台,rtmp://twcdn.top/sat/tv721
+纬来体育台,rtmp://220.130.201.73/sat/tv721
+纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
+DAZN 1,rtmp://220.130.201.73/sat/tv731
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 DAZN 2,rtmp://220.130.201.73/sat/tv741
 DAZN 2,rtmp://twcdn.top/sat/tv741
-DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 ELTA体育1台,rtmp://twcdn.top/sat/md011
 ELTA体育3台,rtmp://9hv9.mine.nu/sat/md011
 爱尔达体育4台,rtmp://9hv9.mine.nu/sat/md021
@@ -25,7 +25,6 @@ ELTA体育3台,rtmp://9hv9.mine.nu/sat/md011
 博斯运动二台,rtmp://twcdn.top/sat/md051
 Fox Sport 1,rtmp://twcdn.top/sat/tv731
 非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
-
 
  
 
