@@ -231,7 +231,7 @@ CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 DW,http://61.221.215.25:8800/hls/1/index.m3u8
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
