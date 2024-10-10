@@ -52,6 +52,28 @@ ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chr
 
 
 
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻台,https://m.4gtv.tv/channel/4gtv-4gtv072?set=2&ch=291
+TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
+东森新闻台,https://m.4gtv.tv/channel/4gtv-4gtv152?set=2&ch=292
+东森财经新闻台,https://m.4gtv.tv/channel/4gtv-4gtv153?set=2&ch=293
+华视新闻台,https://m.4gtv.tv/channel/4gtv-4gtv052?set=2&ch=34
+中视新闻台,https://m.4gtv.tv/channel/4gtv-4gtv074?set=2&ch=33
+民视新闻台,https://m.4gtv.tv/channel/litv-ftv13?set=2&ch=31
+三立新闻台,https://m.4gtv.tv/channel/4gtv-live089?set=2&ch=229
+三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
+中天新闻台,https://m.4gtv.tv/channel/4gtv-4gtv009?set=2&ch=30
+非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
+寰宇财经,https://m.4gtv.tv/channel/litv-longturn23?set=2&ch=281
+寰宇新闻台,https://m.4gtv.tv/channel/litv-longturn14?set=2&ch=36
+寰宇新闻台湾台,https://m.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+鏡新聞,https://m.4gtv.tv/channel/4gtv-4gtv075?set=2&ch=268
+半島國際新聞台,https://m.4gtv.tv/channel/litv-ftv10?set=4&ch=85
+Bloomberg,https://m.4gtv.tv/channel/4gtv-live059?set=1&ch=283
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+CNBC Asia 财经台,https://m.4gtv.tv/channel/4gtv-live130?set=1&ch=235
+SBN全球财经台,https://m.4gtv.tv/channel/4gtv-live060?set=1&ch=224
+VOA美国之音,https://m.4gtv.tv/channel/litv-ftv03?set=4&ch=86
 
 Smart知识台,https://m.4gtv.tv/channel/litv-longturn19?set=2&ch=297
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
@@ -115,7 +137,6 @@ TVBS精采台,https://m.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
-#N/A
 ELTA体育3台,rtmp://9hv9.mine.nu/sat/md011
 爱尔达体育4台,rtmp://9hv9.mine.nu/sat/md021
 智林体育台,https://m.4gtv.tv/channel/4gtv-4gtv101?set=2&ch=58
@@ -127,28 +148,6 @@ ELTA体育3台,rtmp://9hv9.mine.nu/sat/md011
 博斯高球2台,https://m.4gtv.tv/channel/litv-longturn06?set=1&ch=298
 TRACE Sport Stars,https://m.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 时尚运动,https://m.4gtv.tv/channel/4gtv-4gtv014?set=2&ch=69
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻台,https://m.4gtv.tv/channel/4gtv-4gtv072?set=2&ch=291
-TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
-东森新闻台,https://m.4gtv.tv/channel/4gtv-4gtv152?set=2&ch=292
-东森财经新闻台,https://m.4gtv.tv/channel/4gtv-4gtv153?set=2&ch=293
-华视新闻台,https://m.4gtv.tv/channel/4gtv-4gtv052?set=2&ch=34
-中视新闻台,https://m.4gtv.tv/channel/4gtv-4gtv074?set=2&ch=33
-民视新闻台,https://m.4gtv.tv/channel/litv-ftv13?set=2&ch=31
-三立新闻台,https://m.4gtv.tv/channel/4gtv-live089?set=2&ch=229
-三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
-中天新闻台,https://m.4gtv.tv/channel/4gtv-4gtv009?set=2&ch=30
-非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
-寰宇财经,https://m.4gtv.tv/channel/litv-longturn23?set=2&ch=281
-寰宇新闻台,https://m.4gtv.tv/channel/litv-longturn14?set=2&ch=36
-寰宇新闻台湾台,https://m.4gtv.tv/channel/litv-longturn15?set=1&ch=280
-鏡新聞,https://m.4gtv.tv/channel/4gtv-4gtv075?set=2&ch=268
-半島國際新聞台,https://m.4gtv.tv/channel/litv-ftv10?set=4&ch=85
-Bloomberg,https://m.4gtv.tv/channel/4gtv-live059?set=1&ch=283
-Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
-CNBC Asia 财经台,https://m.4gtv.tv/channel/4gtv-live130?set=1&ch=235
-SBN全球财经台,https://m.4gtv.tv/channel/4gtv-live060?set=1&ch=224
-VOA美国之音,https://m.4gtv.tv/channel/litv-ftv03?set=4&ch=86
 AMC電影台,https://m.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 CI 罪案侦查频道,https://m.4gtv.tv/channel/4gtv-live027?set=1&ch=215
