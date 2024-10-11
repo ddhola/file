@@ -3,6 +3,31 @@
 
 
 
+
+AKTV,#genre#
+TVBS,https://aktv.top/live/TVBS/index.m3u8
+TVBS 新聞台,https://aktv.top/live/TVBS 新聞台/index.m3u8
+靖天電影台,https://aktv.top/live/靖天電影台/index.m3u8
+龍華經典台,https://aktv.top/live/龍華經典台/index.m3u8
+中天新聞台,https://aktv.top/live/中天新聞台/index.m3u8
+中天亞洲台,https://aktv.top/live/中天亞洲台/index.m3u8
+三立綜合台,https://aktv.top/live/三立綜合台/index.m3u8
+三立 iNEWS,https://aktv.top/live/三立 iNEWS/index.m3u8
+寰宇新聞台,https://aktv.top/live/寰宇新聞台/index.m3u8
+寰宇新聞台灣台,https://aktv.top/live/寰宇新聞台灣台/index.m3u8
+寰宇財經台,https://aktv.top/live/寰宇財經台/index.m3u8
+中視,https://aktv.top/live/中視/index.m3u8
+華視,https://aktv.top/live/華視/index.m3u8
+HITS 頻道,https://aktv.top/live/HITS 頻道/index.m3u8
+Rock Action,https://aktv.top/live/Rock Action/index.m3u8
+Rock Entertainment,https://aktv.top/live/Rock Entertainment/index.m3u8
+
+
+
+
+
+
+
 體育,#genre#
 
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
