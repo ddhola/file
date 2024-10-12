@@ -4,6 +4,28 @@
 
 
 
+AKTV,#genre#
+ELTA娛樂,https://aktv.top/AKTV/live/4gtv/elta/AKTV.m3u8
+TVBS,https://aktv.top/AKTV/live/4gtv/tvbs/AKTV.m3u8
+TVBS-新聞台,https://aktv.top/AKTV/live/4gtv/tvbs-1/AKTV.m3u8
+不知名韩国台,https://aktv.top/AKTV/live/4gtv/null-13/AKTV.m3u8
+不知名韩国台2,https://aktv.top/AKTV/live/4gtv/2/AKTV.m3u8
+台視,https://aktv.top/AKTV/live/4gtv/null-6/AKTV.m3u8
+台視新聞台,https://aktv.top/AKTV/live/4gtv/null-7/AKTV.m3u8
+寰宇新聞台,https://aktv.top/AKTV/live/4gtv/null-3/AKTV.m3u8
+寰宇新聞台灣台,https://aktv.top/AKTV/live/4gtv/null-4/AKTV.m3u8
+寰宇財經台,https://aktv.top/AKTV/live/4gtv/null-5/AKTV.m3u8
+東森新聞,https://aktv.top/AKTV/live/4gtv/null-8/AKTV.m3u8
+民視,https://aktv.top/AKTV/live/4gtv/null/AKTV.m3u8
+民視台灣台,https://aktv.top/AKTV/live/4gtv/null-11/AKTV.m3u8
+民視新聞台,https://aktv.top/AKTV/live/4gtv/null-10/AKTV.m3u8
+民視第一台,https://aktv.top/AKTV/live/4gtv/null-1/AKTV.m3u8
+民視綜藝台,https://aktv.top/AKTV/live/4gtv/null-12/AKTV.m3u8
+華視新聞,https://aktv.top/AKTV/live/4gtv/null-2/AKTV.m3u8
+非凡新聞台,https://aktv.top/AKTV/live/4gtv/null-9/AKTV.m3u8
+
+
+
 4G phone,#genre#
 
 parse=1
