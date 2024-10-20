@@ -2,8 +2,10 @@
 
 
 YT watch,#genre#
- ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
- 
+
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
  
  
 
@@ -32,7 +34,8 @@ swim,https://www.youtube.com/live/M4FPXyN3B5U?si=dBqRPM_gBA2c39IM
 
 
 牛牛嗅探,#genre#
-
+ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+ 
 緯來體育,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 
 
