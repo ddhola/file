@@ -11,6 +11,12 @@ test,#genre#
 
 
 Drip中文站港台直播,#genre#
+
+
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+ 
 HBO,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/1.html
 HBO hits,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/2.html
 HBO原創,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/3.html
