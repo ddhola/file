@@ -36,6 +36,12 @@ chd,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+
+
+纬来体育6,rtmp://f13h.mine.nu/sat/tv721
+纬来体育9,http://211.72.65.236:8585/.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
 纬来体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/1.html
 Eleven体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
 Elta体育1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/5.html
