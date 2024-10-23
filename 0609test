@@ -30,7 +30,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 swim,https://www.youtube.com/live/M4FPXyN3B5U?si=dBqRPM_gBA2c39IM
 
-chd,#genre#
+Dripchd,#genre#
 
 
 parse=1
@@ -38,9 +38,9 @@ ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chr
 
 
 
-纬来体育6,rtmp://f13h.mine.nu/sat/tv721
-纬来体育9,http://211.72.65.236:8585/.m3u8
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
+纬来体育211,http://211.72.65.236:8585/.m3u8
+
 
 纬来体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/1.html
 Eleven体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
@@ -48,7 +48,7 @@ Elta体育1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/5.html
 Elta体育2,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/6.html
 博斯運動1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/3.html
 
-Drip中文站港台直播,#genre#
+
 HBO,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/1.html
 HBO hits,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/2.html
 HBO原創,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/3.html
