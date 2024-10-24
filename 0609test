@@ -25,6 +25,8 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/live/pF507BLtbqU?si=sJj2072YuOkKUDGA
 中天新闻台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+非凡商业,http://207.148.88.219:81/live/ffsy.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+非凡新闻,http://207.148.88.219:81/live/ffxw.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -38,16 +40,17 @@ ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chr
 
 
 
-
+MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
+MoMo综合台,rtmp://220.130.201.73/sat/tv761
+MoMo综合台,rtmp://twcdn.top/sat/tv761
 纬来体育211,http://211.72.65.236:8585/.m3u8
-
-
 纬来体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/1.html
-Eleven体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
+DNZA1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
 Elta体育1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/5.html
 Elta体育2,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/6.html
 博斯運動1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/3.html
-
+博斯运动一台,https://m.4gtv.tv/channel/litv-longturn07?set=1&ch=50
+智林体育台,https://m.4gtv.tv/channel/4gtv-4gtv101?set=2&ch=58
 
 HBO,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/1.html
 HBO hits,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/2.html
@@ -69,7 +72,7 @@ ANIMAX,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/9.html
 翡翠台,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/18.html
 TVB星河,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/19.html
 BBC Earth,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/20.html
-国家地理,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/21.html
+DMAX,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/21.html
 探索频道,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/22.html
 动物星球,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/23.html
 
