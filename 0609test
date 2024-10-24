@@ -38,14 +38,9 @@ Drip嗅探,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
-
-
-MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
-MoMo综合台,rtmp://220.130.201.73/sat/tv761
-MoMo综合台,rtmp://twcdn.top/sat/tv761
 纬来体育211,http://211.72.65.236:8585/.m3u8
 纬来体育,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/1.html
-DNZA1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
+DAZN1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
 Elta体育1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/5.html
 Elta体育2,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/6.html
 博斯運動1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/3.html
