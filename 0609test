@@ -41,15 +41,16 @@ swim,https://www.youtube.com/live/M4FPXyN3B5U?si=dBqRPM_gBA2c39IM
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+
 纬来日本台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 緯來體育台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
 纬来体育台,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 纬来综合台,http://207.148.88.219:81/live/wlzh.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 纬来戏剧台,http://207.148.88.219:81/live/wlxj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
 
 港湾直播嗅探,#genre#
