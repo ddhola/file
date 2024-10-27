@@ -154,7 +154,7 @@ GINX Esports TV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
 豬哥亮歌廳秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 Global Radio,https://litv.zapi.us.kg/?id=4gtv-4gtv082
 
-4GnWEB嗅探,#genre#
+嗅探,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
@@ -182,6 +182,7 @@ Smart知识台,https://m.4gtv.tv/channel/litv-longturn19?set=2&ch=297
 中视,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongshi.html
 中视,https://www.chaojidianshi.net/zhibo/47.html
 中视,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-189-0.html
+台视,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台视,https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishiTTV.html
 台视,https://www.chaojidianshi.net/zhibo/45.html
 台视,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-161-0.html
@@ -189,6 +190,7 @@ Smart知识台,https://m.4gtv.tv/channel/litv-longturn19?set=2&ch=297
 民视,https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshi.html
 民视,https://www.chaojidianshi.net/zhibo/44.html
 民视,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-129-0.html
+公视,https://www.youtube.com/live/C6gYqSHLRw4?si=7itZkHXBRL54y1iw
 公视,https://www.chaojidianshi.net/zhibo/gangtaizhibo/gongshiCTV.html
 公视,https://www.chaojidianshi.net/zhibo/43.html
 公视,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-71-0.html
@@ -251,6 +253,7 @@ TVBS精采台,https://m.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 中视综合台,https://www.chaojidianshi.net/zhibo/18.html
 中视综艺台,https://www.chaojidianshi.net/zhibo/17.html
 中视菁采台,https://m.4gtv.tv/channel/4gtv-4gtv064?set=2&ch=123
+公视台语台,https://www.youtube.com/live/6KlRR_DGhmI?si=oZxVR4eTkfQbse8Q
 公视台语台,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-73-0.html
 公视戏剧台,https://m.4gtv.tv/channel/4gtv-4gtv042?set=2&ch=7
 天映频道,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/13.html
