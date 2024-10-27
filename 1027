@@ -62,6 +62,7 @@ Elta体育2,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/6.html
 智林体育台,https://m.4gtv.tv/channel/4gtv-4gtv101?set=2&ch=58
 
 4gzapi,#genre#
+
 Smart知识台,https://litv.zapi.us.kg/?id=litv-longturn19
 靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
 龙华日韩台,https://litv.zapi.us.kg/?id=litv-longturn11
@@ -153,7 +154,7 @@ GINX Esports TV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
 豬哥亮歌廳秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 Global Radio,https://litv.zapi.us.kg/?id=4gtv-4gtv082
 
-4GnWEB嗅探
+4GnWEB嗅探,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
