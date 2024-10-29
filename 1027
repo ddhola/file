@@ -502,12 +502,12 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-探索频道科学,http://207.148.88.219:81/live/tspd.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+TLC,http://207.148.88.219:81/live/tspd.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
 亚洲旅游台,http://207.148.88.219:81/live/yzly.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-凤凰资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
+中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
