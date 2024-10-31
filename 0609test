@@ -26,8 +26,8 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/live/pF507BLtbqU?si=sJj2072YuOkKUDGA
 中天新闻台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
-非凡商业,http://207.148.88.219:81/live/ffsy.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-非凡新闻,http://207.148.88.219:81/live/ffxw.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
+
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -52,8 +52,7 @@ ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chr
 纬来日本台牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 緯來體育台牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 纬来精采台61,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来综合台207,http://207.148.88.219:81/live/wlzh.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-纬来戏剧台207,http://207.148.88.219:81/live/wlxj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 纬来电影牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaidianyingtai.html
 DAZN1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/2.html
 Elta体育1,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/5.html
@@ -237,16 +236,6 @@ DMAX,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/21.html
 探索频道,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/22.html
 动物星球,https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/23.html
 
-1020,#genre#
-
-
-纬来综合,http://207.148.88.219:81/live/wlzh.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-纬来戏剧,http://207.148.88.219:81/live/wlxj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-采昌影剧,http://207.148.88.219:81/live/ccyj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-非凡商业,http://207.148.88.219:81/live/ffsy.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-非凡新闻,http://207.148.88.219:81/live/ffxw.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-探索频道科学,http://207.148.88.219:81/live/tspd.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-亚洲旅游,http://207.148.88.219:81/live/yzly.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 
 
 牛視嗅探,#genre#
