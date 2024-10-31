@@ -526,6 +526,11 @@ TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 h37,#genre#
+
+华视,http://37.27.111.214:8080/live/8/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
@@ -537,7 +542,3 @@ TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8
 亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-华视,http://37.27.111.214:8080/live/8/hls.m3u8
