@@ -28,8 +28,7 @@ TVBS news,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/live/pF507BLtbqU?si=sJj2072YuOkKUDGA
 中天新闻台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
-非凡商业207,http://207.148.88.219:81/live/ffsy.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-非凡新闻207,http://207.148.88.219:81/live/ffxw.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -48,10 +47,7 @@ ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 纬来日本台f13h,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐台f13h,rtmp://f13h.mine.nu/sat/tv701
 纬来精采台61,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来综合台207,http://207.148.88.219:81/live/wlzh.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-纬来戏剧台207,http://207.148.88.219:81/live/wlxj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-TLC207,http://207.148.88.219:81/live/tspd.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-亚洲旅游207,http://207.148.88.219:81/live/yzly.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
@@ -480,8 +476,7 @@ TVB星河(粤),https://c.hd.rip/index.php/vod/play/id/190051/sid/1/nid/19.html
 Nickelodeon,https://m.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 
 61 207 ,#genre#
-纬来综合台,http://207.148.88.219:81/live/wlzh.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-纬来戏剧台,http://207.148.88.219:81/live/wlxj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
@@ -490,25 +485,23 @@ TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 三立台湾台,http://125.227.210.55:8160/VideoInput/play.ts
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-采昌影剧台,http://207.148.88.219:81/live/ccyj.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 韓國娛樂,http://61.221.215.25:8800/hls/51/index.m3u8
 台灣戲劇,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来体育台,http://125.227.210.55:8155/VideoInput/play.ts
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts
 三立新闻台,http://125.227.210.55:8162/VideoInput/play.ts
-非凡商业台,http://207.148.88.219:81/live/ffsy.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
-非凡新闻台,http://207.148.88.219:81/live/ffxw.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-TLC,http://207.148.88.219:81/live/tspd.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
+
 探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 CN卡通频道,http://125.227.210.55:8167/VideoInput/play.ts
-亚洲旅游台,http://207.148.88.219:81/live/yzly.m3u8?kdstime=1729605858&kdssign=2be6581164de538216040afa47b83ec3
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
