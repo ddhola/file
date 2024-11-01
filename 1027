@@ -554,23 +554,17 @@ Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8
 4gfree,#genre#
 
 
-纬来日本台,https://ushls.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1730459002&token=744ec2d725c6422ff300e9b77253e36d
 Smart 知識台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn19/4gtv-live-mid/index.m3u8?token=oa-yo3xlffq1rgN7BgQSWA&expires=1730499164&token1=IbmQydlp3mrYtmlOW9Z-Kw&expires1=1730499164
 靖天日本台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv047/4gtv-live-mid/index.m3u8?token=hN50n1hB0lVFsVqIj7GdPw&expires=1730482236&token1=0JjNiPLBU21AS0qw0Zl-5w&expires1=1730482236
 龍華日韓台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=XFCLWve8_aU1UtE4f4pIrQ&expires=1730499188&token1=GiO8BVg4-UitXRQtusHB_Q&expires1=1730499188
 華視,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv041/4gtv-live-mid/index.m3u8?token=Pzm8Bg8tmDkGGkHwPREoWA&expires=1730499210&token1=yKc8YNGKiCVQYrQkyh_Wqw&expires1=1730499210
 中視,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv040/4gtv-live-mid/index.m3u8?token=D8_0Xrwu646GVnqpWSUpcw&expires=1730499232&token1=SgZo1shBnh-XA7RS7EBUnQ&expires1=1730499232
-台視,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730483052/ei/DL8kZ5feDYyC2roP3bvkwA8/ip/111.240.85.117/id/uDqQo8a7Xmk.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324828/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXBEcpyHQcNj_qyGARWzLrAWhRtngCclQ9QgbqGvEluICIEBxnAr-dUVuvTHVTMMujTkNqr1h9EDpeQBrTm5B1xTK/file/index.m3u8
 民視,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=R9sKkTSGI6kTD6-r6r6NzA&expires=1730499251&token1=-wQTsXnxPbZwN1hmz8RmrA&expires1=1730499251
 ELTA 生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=Ej-UwwQZoU25PfI8RIDRzA&expires=1730504835&token1=FFuQLCkv260wvf55X2uZYA&expires1=1730504835
 民視旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/index.m3u8?token=ofzdpTuZOXFezIXHVmk8WQ&expires=1730499689&token1=avpzlBOAlS1Z4Iams_by1w&expires1=1730499689
 亞洲旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn17/4gtv-live-mid/index.m3u8?token=GRXI8eIRMOzAcco78tDr_g&expires=1730504879&token1=NZ6S3k2kXU_fpg6TA2JIcg&expires1=1730504879
 ELTA 娛樂台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv070/4gtv-live-mid/index.m3u8?token=RFlriy-0kH9J7cMh5TlTPQ&expires=1730482475&token1=NkbeJ-K3uUOt2hXatk7GsA&expires1=1730482475
-爱尔达综合,https://ushls.ballbar.net/eltazonghe/playlist-15.m3u8a?t=1730461560&token=80171fafdb89d3733e822de362f4c496
-爱尔达影剧,https://ushls.ballbar.net/eltayingju_twn/playlist-15.m3u8a?t=1730461571&token=dc115ef750314e3bb017f6a032852c39
-EYE戏剧,https://ushls.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1730461682&token=7e6eedb4be29a87acf735d2dc6cb7274
 Fun 探索娛樂台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live011/4gtv-live-mid/index.m3u8?token=QE6ZHv-5ZJj8mvOfjMT7iQ&expires=1730499335&token1=4CwXZTd-lLFpmEfzgyDEmQ&expires1=1730499335
-JET综合台,http://ushls.ballbar.net/jet/playlist-15.m3u8a?t=1730461720&token=509cab8d9f8c6e43a23f539166ae11fd
 Lifetime 娛樂頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live029/4gtv-live-mid/index.m3u8?token=nZqSq1vqXCVDtwptKpp89w&expires=1730482551&token1=rgxwDD0sdixXHTqaqYaeAQ&expires1=1730482551
 TVBS,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv073/4gtv-live-mid/index.m3u8?token=Ua1sLq8lp98hegaIwAtHBg&expires=1730482572&token1=Wg5HS6U_jVy06MBLtqfWaA&expires1=1730482572
 TVBS 台劇台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live088/4gtv-live-mid/index.m3u8?token=yDr2Uaa-cGjxq4AzZsr_rg&expires=1730499394&token1=U4R_7yr2aI0y7moWvcUxkg&expires1=1730499394
@@ -579,16 +573,9 @@ TVBS 綜藝台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live087/4gtv-li
 TVBS 精采台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv067/4gtv-live-mid/index.m3u8?token=LMOOmRONTdUZOuV0Vs66rw&expires=1730482646&token1=zoatrtb7ZZ34rkoj3e8LYg&expires1=1730482646
 八大综合台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv039/4gtv-live-mid/index.m3u8?token=3Tx8rjRAKHLkM6StDJh3ww&expires=1730482662&token1=0K6UqDOoQzUadGWM3slyMg&expires1=1730482662
 八大精彩台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv034/4gtv-live-mid/index.m3u8?token=uKunj7_H70-QjzjNmvOPQQ&expires=1730482697&token1=oW0b9-Qmf2xTB8Pf3WIDaQ&expires1=1730482697
-三立台湾台,https://ushls.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1730461873&token=42d7c73db2e9e8939dbe4cff7ef9eb33
-三立戏剧台,https://ushls.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1730461932&token=56364b5f6c7027c14e404c65103c3c04
 三立綜合台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=2RoyfJX7x4JWoBeLm03KiQ&expires=1730499517&token1=3l0w6yYvvbPcBnEMgmkQ5g&expires1=1730499517
-三立都会台,https://ushls.ballbar.net/sanlidouhui_twn/playlist-15.m3u8a?t=1730461983&token=d3120ab3c19988d13cc3eca327d84c03
-中天亚洲台,https://ushls.ballbar.net/ctiasia_twn/playlist-15.m3u8a?t=1730461993&token=d5cb99649b089a6e06f7e67dd1247b0e
-中天娱乐台,https://ushls.ballbar.net/ctient/playlist-15.m3u8a?t=1730462047&token=15896caaff0de666abe23e267588abbd
-中天综合台,https://ushls.ballbar.net/ctizhonghe/playlist-15.m3u8a?t=1730462071&token=609ad5ef8be9de80ffc86a9e1b652261
 中視經典台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv080/4gtv-live-mid/index.m3u8?token=uRGoqMWflSYYNoumdPcWGw&expires=1730499536&token1=YXQaxBM7H_2-8vLjv7RAiA&expires1=1730499536
 中視菁采台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv064/4gtv-live-mid/index.m3u8?token=BnxQAcxoVxfAnIatJdQAZQ&expires=1730499555&token1=GHZ-4Ogh1qsvjeXlqwvkbQ&expires1=1730499555
-公視台語台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730483815/ei/B8IkZ6ifINWU7OsPq9TGkA8/ip/111.240.85.117/id/6KlRR_DGhmI.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51286684%2C51299153%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIh0THxVshJA_-ZQUJsz6JcWKTsYNjhpyg94ZkcuuDMkCIFNhKDH4i9mkRapJQeOcdVzKGZjWrtazIYOWWx6iTg5M/file/index.m3u8
 公視戲劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/index.m3u8?token=paTzUIOpPYhj0o6yUIkrAQ&expires=1730499618&token1=mSFDXBbPcLYNpjarMNkv1Q&expires1=1730499618
 民視台灣台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=PxVKnf1p22BtrCSWQB3lIw&expires=1730499627&token1=0rP1iDJewtcz6tzLJo9Ldw&expires1=1730499627
 民視第一台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=4KojXCf4TN1ZvEQyma8WDg&expires=1730499648&token1=fDYkzy5hyJQi6OP1YknPhw&expires1=1730499648
@@ -596,7 +583,6 @@ TVBS 精采台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv067/4
 民視影劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/index.m3u8?token=pFLKMmakd5Dt9ubQ3bnG_A&expires=1730499705&token1=jE4ft2dqQ-lBH1YZ9Ibsvw&expires1=1730499705
 龍華戲劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn18/4gtv-live-mid/index.m3u8?token=R6tUxkOeDy11sfpXZWQoPg&expires=1730499722&token1=wVmVyEZqRe6RfXMVC-hWaA&expires1=1730499722
 龍華偶像台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn12/4gtv-live-mid/index.m3u8?token=AYGdotVr54wxLQdzh57-vA&expires=1730499742&token1=gZDZU7n2Rg8eohWkpZZPNg&expires1=1730499742
-年代MUCH,http://ushls.ballbar.net/niandaitv_twn/playlist-15.m3u8a?t=1730461332&token=5b84803b62632b561a609cd23d238aa1
 采昌影劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=sQh4wUfdtCgobG7uUNBkCg&expires=1730482961&token1=-FGFBnYURmeI_k9a7sMT0Q&expires1=1730482961
 韓國娛樂台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live377/4gtv-live-mid/index.m3u8?token=BV-8DVVWLnR8JjeiiNoFDQ&expires=1730499805&token1=V_iMdLWOFop7DmQuC6sUww&expires1=1730499805
 靖天戲劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv058/4gtv-live-mid/index.m3u8?token=PkkdwR1y6f6XUF9fY88bBg&expires=1730483013&token1=yS7_jd5PTCbr6ROMHrj15g&expires1=1730483013
@@ -630,8 +616,8 @@ Nick Jr. 兒童頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live105/
 靖洋卡通 Nice Bingo,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv057/4gtv-live-mid/index.m3u8?token=Vy1NTpkEEtAExWR1NOmgDw&expires=1730487991&token1=Yha6Lqw5wL3OxZCmSE9_3w&expires1=1730487991
 超人力霸王整套看,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live015/4gtv-live-mid/index.m3u8?token=G-eFsZui7tnrVgi0rUEUZg&expires=1730504806&token1=DAxWjvt3YbFLH3AA653BxA&expires1=1730504806
 精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/index.m3u8?token=xQ5cWb7dziFFYOwq7s4teQ&expires=1730504822&token1=GKR6IKzd6UmWlFN6Re7L2Q&expires1=1730504822
-LUXE TV,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live121/4gtv-live-mid/index.m3u8?token=QigeYR3kdm9BxWxPq1a14g&expires=1730504850&token1=KZmLztRLByWNmqL2OERHoQ&expires1=1730504850
 Rock Entertainment,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live080/4gtv-live-low/index.m3u8?token=3VbGtzcBFal_RcTmNoux7A&expires=1730488065&token1=_vlXj8s0YqUKSwRV76lc8w&expires1=1730488065
+LUXE TV,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live121/4gtv-live-mid/index.m3u8?token=QigeYR3kdm9BxWxPq1a14g&expires=1730504850&token1=KZmLztRLByWNmqL2OERHoQ&expires1=1730504850
 Classica 古典樂,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv059/4gtv-live-mid/index.m3u8?token=u0_PttgaVHPsN0l_KjpeYw&expires=1730488094&token1=uKTOiau2bXDW3Znc4kwoSg&expires1=1730488094
 Arirang TV,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv079/4gtv-live-mid/index.m3u8?token=g7N83aZiH1cSaZ_FLNSdQQ&expires=1730505011&token1=U4tpxdnYwghrZBsZ7Q_PXQ&expires1=1730505011
 Mezzo Live,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv083/4gtv-live-mid/index.m3u8?token=mRxdPf9enmorEwQIWpV2CQ&expires=1730488111&token1=DNqC2JPabCxxhUDvunqG1g&expires1=1730488111
@@ -640,61 +626,32 @@ MTV Live HD 音樂頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live0
 ELTV 生活英語,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn20/4gtv-live-mid/index.m3u8?token=e5sxX5LIK3mj02wUBBBTcA&expires=1730504967&token1=skiLtMm7a-lMivAu7emojg&expires1=1730504967
 LiveABC 互動英語台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live030/4gtv-live-mid/index.m3u8?token=WovVIa9VlMcK4TbAaaUYtA&expires=1730504983&token1=2WGgGHgKkoW49_RgL_VjQw&expires1=1730504983
 
-
-
 tian,#genre#
 
-好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
-TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-11-01-2024 Shandong checked •1920x1080 Fast
-纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-11-01-2024 Guangdong checked •1920x1080 FasterFaster
-东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-11-01-2024 Hebei checked •1920x1080 FasterFaster
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-10-31-2024 Guangdong checked •1920x1080 FasterFaster
-中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-10-31-2024 Fujian checked •1920x1080 FasterFaster
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-10-31-2024 Guangdong checked •1920x1080 FasterFaster
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-10-31-2024 Beijing checked •1920x1080 FasterFaster
-三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
-10-31-2024 Henan checked •1920x1080 Fast
-三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
-10-30-2024 Guangdong checked •1920x1080 FasterFaster
-纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8
-10-30-2024 Shandong checked •1920x1080 FasterFaster
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-10-30-2024 Shandong checked •1920x1080 FasterFaster
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-10-30-2024 Fujian checked •1920x1080 FasterFaster
-东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-10-29-2024 Henan checked •1920x1080 Fast
-中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-10-28-2024 Fujian checked •1920x1080 Fast
-环宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-10-25-2024 Guangdong checked •1920x1080 Fast
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-10-25-2024 Shanxi checked •1920x1080 Fast
-东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-10-23-2024 Shandong checked •1920x1080 Fast
-东方37台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8
-TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-11-01-2024 Guangdong checked •1920x1080 FasterFaster
-公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-10-24-2024 Hebei checked •1920x1080 Fast
-华视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
-10-24-2024 Fujian checked •1920x1080 FasterFaster
-AXN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8582/.m3u
-10-26-2024 Guizhou checked •1920x1080
-国冡地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-10-19-2024 Hunan checked •1920x1080 FasterFaster
-GOODTV好消息,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8508/.m3u8
-MOMO综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8
-10-08-2024 Shandong checked •1920x1080 FasterFaster
-博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8
 
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
+华视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
+公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
+MOMO综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8
+TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
+三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
+三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
+中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
+东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8
+TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+环宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
+纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
+AXN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8582/.m3u
+国冡地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
