@@ -562,6 +562,9 @@ Smart 知識台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn
 中視,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv040/4gtv-live-mid/index.m3u8?token=D8_0Xrwu646GVnqpWSUpcw&expires=1730499232&token1=SgZo1shBnh-XA7RS7EBUnQ&expires1=1730499232
 台視,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730483052/ei/DL8kZ5feDYyC2roP3bvkwA8/ip/111.240.85.117/id/uDqQo8a7Xmk.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324828/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXBEcpyHQcNj_qyGARWzLrAWhRtngCclQ9QgbqGvEluICIEBxnAr-dUVuvTHVTMMujTkNqr1h9EDpeQBrTm5B1xTK/file/index.m3u8
 民視,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=R9sKkTSGI6kTD6-r6r6NzA&expires=1730499251&token1=-wQTsXnxPbZwN1hmz8RmrA&expires1=1730499251
+ELTA 生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=Ej-UwwQZoU25PfI8RIDRzA&expires=1730504835&token1=FFuQLCkv260wvf55X2uZYA&expires1=1730504835
+民視旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/index.m3u8?token=ofzdpTuZOXFezIXHVmk8WQ&expires=1730499689&token1=avpzlBOAlS1Z4Iams_by1w&expires1=1730499689
+亞洲旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn17/4gtv-live-mid/index.m3u8?token=GRXI8eIRMOzAcco78tDr_g&expires=1730504879&token1=NZ6S3k2kXU_fpg6TA2JIcg&expires1=1730504879
 ELTA 娛樂台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv070/4gtv-live-mid/index.m3u8?token=RFlriy-0kH9J7cMh5TlTPQ&expires=1730482475&token1=NkbeJ-K3uUOt2hXatk7GsA&expires1=1730482475
 爱尔达综合,https://ushls.ballbar.net/eltazonghe/playlist-15.m3u8a?t=1730461560&token=80171fafdb89d3733e822de362f4c496
 爱尔达影剧,https://ushls.ballbar.net/eltayingju_twn/playlist-15.m3u8a?t=1730461571&token=dc115ef750314e3bb017f6a032852c39
@@ -590,7 +593,6 @@ TVBS 精采台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv067/4
 民視台灣台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=PxVKnf1p22BtrCSWQB3lIw&expires=1730499627&token1=0rP1iDJewtcz6tzLJo9Ldw&expires1=1730499627
 民視第一台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=4KojXCf4TN1ZvEQyma8WDg&expires=1730499648&token1=fDYkzy5hyJQi6OP1YknPhw&expires1=1730499648
 民視綜藝台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/index.m3u8?token=TLpouYf1RXMDTQ-00TJvjw&expires=1730499670&token1=nEGBSy8AvB1dqUYhxFm0ZQ&expires1=1730499670
-民視旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/index.m3u8?token=ofzdpTuZOXFezIXHVmk8WQ&expires=1730499689&token1=avpzlBOAlS1Z4Iams_by1w&expires1=1730499689
 民視影劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/index.m3u8?token=pFLKMmakd5Dt9ubQ3bnG_A&expires=1730499705&token1=jE4ft2dqQ-lBH1YZ9Ibsvw&expires1=1730499705
 龍華戲劇台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn18/4gtv-live-mid/index.m3u8?token=R6tUxkOeDy11sfpXZWQoPg&expires=1730499722&token1=wVmVyEZqRe6RfXMVC-hWaA&expires1=1730499722
 龍華偶像台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn12/4gtv-live-mid/index.m3u8?token=AYGdotVr54wxLQdzh57-vA&expires=1730499742&token1=gZDZU7n2Rg8eohWkpZZPNg&expires1=1730499742
@@ -628,10 +630,8 @@ Nick Jr. 兒童頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live105/
 靖洋卡通 Nice Bingo,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv057/4gtv-live-mid/index.m3u8?token=Vy1NTpkEEtAExWR1NOmgDw&expires=1730487991&token1=Yha6Lqw5wL3OxZCmSE9_3w&expires1=1730487991
 超人力霸王整套看,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live015/4gtv-live-mid/index.m3u8?token=G-eFsZui7tnrVgi0rUEUZg&expires=1730504806&token1=DAxWjvt3YbFLH3AA653BxA&expires1=1730504806
 精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/index.m3u8?token=xQ5cWb7dziFFYOwq7s4teQ&expires=1730504822&token1=GKR6IKzd6UmWlFN6Re7L2Q&expires1=1730504822
-ELTA 生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=Ej-UwwQZoU25PfI8RIDRzA&expires=1730504835&token1=FFuQLCkv260wvf55X2uZYA&expires1=1730504835
 LUXE TV,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live121/4gtv-live-mid/index.m3u8?token=QigeYR3kdm9BxWxPq1a14g&expires=1730504850&token1=KZmLztRLByWNmqL2OERHoQ&expires1=1730504850
 Rock Entertainment,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live080/4gtv-live-low/index.m3u8?token=3VbGtzcBFal_RcTmNoux7A&expires=1730488065&token1=_vlXj8s0YqUKSwRV76lc8w&expires1=1730488065
-亞洲旅遊台,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn17/4gtv-live-mid/index.m3u8?token=GRXI8eIRMOzAcco78tDr_g&expires=1730504879&token1=NZ6S3k2kXU_fpg6TA2JIcg&expires1=1730504879
 Classica 古典樂,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv059/4gtv-live-mid/index.m3u8?token=u0_PttgaVHPsN0l_KjpeYw&expires=1730488094&token1=uKTOiau2bXDW3Znc4kwoSg&expires1=1730488094
 Arirang TV,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv079/4gtv-live-mid/index.m3u8?token=g7N83aZiH1cSaZ_FLNSdQQ&expires=1730505011&token1=U4tpxdnYwghrZBsZ7Q_PXQ&expires1=1730505011
 Mezzo Live,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv083/4gtv-live-mid/index.m3u8?token=mRxdPf9enmorEwQIWpV2CQ&expires=1730488111&token1=DNqC2JPabCxxhUDvunqG1g&expires1=1730488111
@@ -639,4 +639,3 @@ MTV Live HD 音樂頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live0
 電影原聲台 CMusic,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live031/4gtv-live-mid/index.m3u8?token=5NusbuFMln2rmD-3s9MLIQ&expires=1730488149&token1=Gn3XWUaFMAOFRPKLLc7vpw&expires1=1730488149
 ELTV 生活英語,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn20/4gtv-live-mid/index.m3u8?token=e5sxX5LIK3mj02wUBBBTcA&expires=1730504967&token1=skiLtMm7a-lMivAu7emojg&expires1=1730504967
 LiveABC 互動英語台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live030/4gtv-live-mid/index.m3u8?token=WovVIa9VlMcK4TbAaaUYtA&expires=1730504983&token1=2WGgGHgKkoW49_RgL_VjQw&expires1=1730504983
-
