@@ -39,8 +39,7 @@ swim,https://www.youtube.com/live/i2OvMnBFzWs?si=2RBHz0v-2ekbG2fu
 公視台語台,https://www.youtube.com/live/6KlRR_DGhmI?si=oZxVR4eTkfQbse8Q
 
 纬来,#genre#
-smart,https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-longturn19/4gtv-live-mid/index.m3u8?token=sTdKn4MArLbeR9VHTydkPA&expires=1730494682&token1=k8tMG9lbKoQ4psoYoDTh2w&expires1=1730494682
-纬来日本台,https://ushls.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1730451577&token=ac9b21dd9e6cb09e8c7a9632fbd50807
+
 ELTA体育1台,rtmp://9hv9.mine.nu/sat/md021
 ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 纬来体育台f13h,rtmp://f13h.mine.nu/sat/tv721
@@ -378,9 +377,8 @@ BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 
-AKTV,#genre#
 
-三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 
