@@ -423,13 +423,12 @@ VOA美国之音,https://m.4gtv.tv/channel/litv-ftv03?set=4&ch=86
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
-#genre#
+4gweb,#genre#
 
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
-智林体育台,https://m.4gtv.tv/channel/4gtv-4gtv101?set=2&ch=58
-博斯运动一台,https://m.4gtv.tv/channel/litv-longturn07?set=1&ch=50
+
 Smart知识台,https://m.4gtv.tv/channel/litv-longturn19?set=2&ch=297
 靖天日本台,https://m.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 龙华日韩台,https://m.4gtv.tv/channel/litv-longturn11?set=2&ch=28
