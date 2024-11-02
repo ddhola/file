@@ -379,19 +379,10 @@ CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 
 AKTV,#genre#
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
 三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
 
 4G web,#genre#
 
@@ -404,6 +395,9 @@ Smart知识台,https://m.4gtv.tv/channel/litv-longturn19?set=2&ch=297
 华视,https://m.4gtv.tv/channel/4gtv-4gtv041?set=2&ch=6
 中视,https://m.4gtv.tv/channel/4gtv-4gtv040?set=2&ch=4
 民视,https://m.4gtv.tv/channel/4gtv-4gtv002?set=2&ch=3
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+公視,https://www.youtube.com/live/C6gYqSHLRw4?si=7itZkHXBRL54y1iw
+公視台語台,https://www.youtube.com/live/6KlRR_DGhmI?si=oZxVR4eTkfQbse8Q
 ELTA娱乐台,https://m.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
 fun探索娱乐台,https://m.4gtv.tv/channel/4gtv-live011?set=1&ch=274
 Lifetime 娱乐频道,https://m.4gtv.tv/channel/4gtv-live029?set=1&ch=217
