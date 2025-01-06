@@ -33,7 +33,7 @@ TVBS news,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-民視,http://wanjiatv.net/ms.php?p=3
+
 公視,https://www.youtube.com/live/C6gYqSHLRw4?si=7itZkHXBRL54y1iw
 公視台語台,https://www.youtube.com/live/6KlRR_DGhmI?si=oZxVR4eTkfQbse8Q
 
@@ -71,6 +71,7 @@ Elta体育2,https://c.hd.rip/index.php/vod/play/id/238494/sid/1/nid/6.html
 
 61 207 ,#genre#
 
+民視,http://wanjiatv.net/ms.php?p=3
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -123,6 +124,7 @@ RTMP,#genre#
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,rtmp://twcdn.top/sat/tv071
 台视,rtmp://220.130.201.73/sat/tv071
+
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://twcdn.top/sat/tv051
 民视,rtmp://twcdn.top/sat/tv052
