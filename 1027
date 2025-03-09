@@ -743,4 +743,99 @@ Discovery科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE10
 好消息2台,http://live.streamingfast.net/osmflivech2.m3u8
 
 
+牛視網,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+AFC 亚洲旅游台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/AFCyazhoulüyoutai.html
+AXN Taiwan,https://www.chaojidianshi.net/zhibo/gangtaizhibo/AXNTaiwan.html
+BBC News,https://www.chaojidianshi.net/zhibo/490579.html
+CatchPlay 电影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/CatchPlaydianyingtai.html
+CINEMAX,https://www.chaojidianshi.net/zhibo/gangtaizhibo/CINEMAX.html
+CNN,https://www.chaojidianshi.net/zhibo/490578.html
+Discovery Asia,https://www.chaojidianshi.net/zhibo/490573.html
+Discovery Channel,https://www.chaojidianshi.net/zhibo/490574.html
+Discovery Science,https://www.chaojidianshi.net/zhibo/490575.html
+Discovery Turbo,https://www.chaojidianshi.net/zhibo/490577.html
+DMAX,https://www.chaojidianshi.net/zhibo/490576.html
+EYETV 戏剧,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVxiju.html
+EYETV 旅游,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVlüyou.html
+HBO Family,https://www.chaojidianshi.net/zhibo/490569.html
+HBO HD,https://www.chaojidianshi.net/zhibo/490570.html
+HBO Hits,https://www.chaojidianshi.net/zhibo/490571.html
+HBO Signature,https://www.chaojidianshi.net/zhibo/490572.html
+HBO_HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HBO_HD.html
+HBO_HITS,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HBO_HITS.html
+Hollywood Movies,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HollywoodMovies.html
+MTV Live,https://www.chaojidianshi.net/zhibo/gangtaizhibo/MTVLive.html
+TVBS HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/TVBS.html
+TVBS News 新闻台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/TVBSNewsxinwentai.html
+TVBS 欢乐台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/TVBShuanletai.html
+八大戏剧 GTV Drama,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badaxijuGTVDrama.html
+八大娱乐 GTV Entertainment,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badayuleGTVEntertainment.html
+八大第一 GTV First,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badadiyiGTVFirst.html
+八大综合 GTV Metro,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badazongheGTVMetro.html
+三立台湾 Sanli Taiwan,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlitaiwanSanliTaiwan.html
+三立戏剧台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlixijutai.html
+三立综合 Sanli Metro,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlizongheSanliMetro.html
+三立都会台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
+卫视中文台 Star Movies Chinese,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weishizhongwentaiStarMoviesChinese.html
+卫视电影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weishidianyingtai.html
+大爱1台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/daai1tai.html
+中天亚洲台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongtianyazhoutai.html
+中天娱乐 CTI Entertaiment,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongtianyuleCTIEntertaiment.html
+中天综合 CTI Metro,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongtianzongheCTIMetro.html
+中天新闻 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongtianxinwen.html
+中视 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongshi.html
+中视新闻台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongshixinwentai.html
+公视 CTV,https://www.chaojidianshi.net/zhibo/gangtaizhibo/gongshiCTV.html
+东森幼幼 Yoyo TV,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
+东森电影 ETTV Movie,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsendianyingETTVMovie.html
+东森戏剧 ETTV Drama,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxijuETTVDrama.html
+东森财经新闻 ETTV Business,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsencaijingxinwenETTVBusiness.html
+东森洋片 ETTV Western,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyangpianETTVWestern.html
+东森综合 ETTV Metro,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenzongheETTVMetro.html
+东森超视,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenchaoshi.html
+东森新闻 ETTV News,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxinwenETTVNews.html
+台视 TTV HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishiTTV.html
+台视综合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishizonghetai.html
+台视新闻台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishixinwentai.html
+民视 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshi.html
+民视台湾台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshitaiwantai.html
+民视新闻台 FTV News,https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshixinwentaiFTVNews.html
+龙华电影 Lunghua Movie,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuadianyingLunghuaMovie.html
+龙华戏剧台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuaxijutai.html
+龙华经典台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuajingdiantai.html
+龙华洋片 Lunghua Western,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuayangpianLunghuaWestern.html
+龙华偶像,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuaouxiang.html
+龙详时代,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longxiangshidai.html
+亚洲美食,https://www.chaojidianshi.net/zhibo/gangtaizhibo/yazhoumeishi.html
+亚洲旅游 TLC Asia,https://www.chaojidianshi.net/zhibo/gangtaizhibo/yazhoulüyouTLCAsia.html
+华视 CTS HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/huashiCTS.html
+好消息 2,https://www.chaojidianshi.net/zhibo/gangtaizhibo/haoxiaoxi2.html
+年代新闻,https://www.chaojidianshi.net/zhibo/gangtaizhibo/niandaixinwen.html
+纬来日本台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
+纬来电影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaidianyingtai.html
+纬来戏剧台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaixijutai.html
+纬来体育台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
+纬来育乐,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaiyule.html
+纬来综合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaizonghetai.html
+纬来精彩,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaijingcai.html
+阿里郎 Arirang,https://www.chaojidianshi.net/zhibo/gangtaizhibo/alilangArirang.html
+非凡新闻台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/feifanxinwentai.html
+星卫电影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/xingweidianying.html
+星空电影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/xingkongdianyingtai.html
+美亚电影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/meiyadianying.html
+美食星球,https://www.chaojidianshi.net/zhibo/gangtaizhibo/meishixingqiu.html
+爱尔达综合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdazonghetai.html
+爱尔达影剧,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
+博斯无限,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiwuxian.html
+博斯网球 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiwangqiu.html
+博斯运动 1,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiyundong1.html
+博斯运动 2,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiyundong2.html
+博斯高球2 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosigaoqiu2.html
+靖天卡通台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/jingtiankatongtai.html
+靖天国际台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/jingtianguojitai.html
+靖天咨询台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/jingtianzixuntai.html
+寰宇财经,https://www.chaojidianshi.net/zhibo/gangtaizhibo/huanyucaijing.html
+寰宇新闻台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/huanyuxinwentai.html
