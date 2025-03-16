@@ -1,6 +1,14 @@
 綜合台,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+緯來日本臺_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+緯來日本臺_線路線路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=10&pathid=0
+緯來日本臺_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
+東森綜合 ETTV Metro_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
+東森綜合臺_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
+
+
 DMAX_線路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
 MTV Live_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
 MTV Live_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
@@ -33,11 +41,7 @@ TVBS綜合臺_線路線路2,https://www.chaojidianshi.net/e/DownSys/play/?classi
 愛爾達綜合臺_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
 愛爾達綜合臺_線路3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
 星空國際臺_線路線路1(僅支持電腦),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=3&pathid=0
-東森綜合 ETTV Metro_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
-東森綜合臺_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
-緯來日本臺_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
-緯來日本臺_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
-緯來日本臺_線路線路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=10&pathid=0
+
 阿里郎 Arirang_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=1
 阿里郎 Arirang_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=0
 靖天國際臺_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165119&pathid=0
