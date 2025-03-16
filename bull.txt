@@ -1,4 +1,9 @@
+TV,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+ 
+ 
 
 爱尔达体育2台_線路高清,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=260165353&pathid=0
 爱尔达体育1台_線路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=260165352&pathid=0
