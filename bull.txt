@@ -1,9 +1,15 @@
 綜合臺,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-DMAX_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
-MTV Live_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
-MTV Live_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
+
+緯來日本臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+緯來日本臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
+愛爾達綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
+愛爾達綜合臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
+東森綜合 ETTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
+東森綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
+
+
 TVBS HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0
 TVBS 歡樂臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165073&pathid=0
 TVBS歡樂臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=0
@@ -22,15 +28,13 @@ TVBS綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pa
 中天綜合臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=0
 八大第一 GTV First_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165089&pathid=0
 八大綜合 GTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165090&pathid=0
+DMAX_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
+MTV Live_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
+MTV Live_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
 大愛1臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165112&pathid=0
 好消息 2_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=1
 好消息 2_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=0
-愛爾達綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
-愛爾達綜合臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
-東森綜合 ETTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
-東森綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
-緯來日本臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
-緯來日本臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+
 衛視中文臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=2
 衛視中文臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=0
 阿里郎 Arirang_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=1
