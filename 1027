@@ -1,6 +1,10 @@
 cpbl,#genre#
 
-0413台鋼富邦,https://u.lin.ee/BAs8wtD/cpbl
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+ 
+413台鋼富邦,https://u.lin.ee/BAs8wtD/cpbl
 YouTube直播,#genre#
 
 非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
