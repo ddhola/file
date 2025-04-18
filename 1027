@@ -73,7 +73,7 @@ TVBS news,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 纬来,#genre#
-緯來,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+緯來,https://m.345iptv.com/?act=play&token=b0dd6663f665dde534083e48c480959b&tid=ty&id=23
 ELTA体育1台,rtmp://9hv9.mine.nu/sat/md021
 ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 纬来体育台f13h,rtmp://f13h.mine.nu/sat/tv721
@@ -87,6 +87,7 @@ ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+緯來體育台345iptv,https://m.345iptv.com/?act=play&token=b0dd6663f665dde534083e48c480959b&tid=ty&id=23
 纬来电影牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaidianyingtai.html
 纬来日本台牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 緯來體育台牛嗅,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
