@@ -88,6 +88,7 @@ parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
 緯來日本 345,https://m.345iptv.com/?act=play&token=73de20f87e6bd6374a02e547296a55f4&tid=gt&id=74
+緯來育樂台 345,https://m.345iptv.com/?act=play&token=7887278e6ddf8abe008297bbcccacb16&tid=gt&id=75
 緯來體育台 345iptv,https://m.345iptv.com/?act=play&token=b0dd6663f665dde534083e48c480959b&tid=ty&id=23
 DAZN1 345,https://m.345iptv.com/?act=play&token=63c647a364a9bf655371cbeb0d089c9f&tid=ty&id=24
 DAZN2 345,https://m.345iptv.com/?act=play&token=d8ae327b30dd484545b060c71f1043e3&tid=ty&id=25
