@@ -83,6 +83,10 @@ ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 纬来育乐台f13h,rtmp://f13h.mine.nu/sat/tv701
 纬来精采台61,http://61.221.215.25:8800/hls/48/index.m3u8
 
+
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 TVBS HD 345,http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56 
 中视 345,//http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60 
 台视 345 ,http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61 
@@ -92,9 +96,6 @@ TVBS HD 345,http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc
 爱尔达体育2台 345,http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80 
 爱尔达体育3台 345,http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81 
 爱尔达体育4台 345,http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
-parse=1
-ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-
 緯來日本 345,https://m.345iptv.com/?act=play&token=73de20f87e6bd6374a02e547296a55f4&tid=gt&id=74
 緯來育樂台 345,https://m.345iptv.com/?act=play&token=7887278e6ddf8abe008297bbcccacb16&tid=gt&id=75
 緯來體育台 345iptv,https://m.345iptv.com/?act=play&token=b0dd6663f665dde534083e48c480959b&tid=ty&id=23
