@@ -8,7 +8,7 @@
 
 {"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
 {"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
-{"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
+{"name":"4g🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g.m3u"},
 
 
 
