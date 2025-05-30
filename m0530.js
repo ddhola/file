@@ -5,15 +5,6 @@
 {"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "立視 LiTV 🇹🇼","type": 3,"api": "./tvbus/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-
-{"name": "立視 LiTV 🇹🇼(備份3)","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-
-{"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
-{"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
-{"name":"4g🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g.m3u"},
-{"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
-  
   
   
   
