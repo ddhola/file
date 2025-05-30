@@ -4,7 +4,7 @@
 
 "lives":[
 
-{"name":"1027","url":"./file/1027"},  
+{"name":"1027","url":"1027},  
 {"name":"167 🇹🇼 🇨🇳","url":"./tvbus/167.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"173 🇹🇼 🇨🇳","url":"./tvbus/173.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name": "四季線上4gtv(備份1) 🇹🇼","type":0,"url":"./tvbus/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
