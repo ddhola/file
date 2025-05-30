@@ -1,19 +1,10 @@
 
 
 {
-//Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
-//飯太硬 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
-//"spider":"./f0423a.jar",
-//飯太硬 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt
-"spider":"./jar/f0223.jar",
-"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
+
 "lives":[
-{"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "立視 LiTV 🇹🇼(本地)","type": 3,"api": "./tvbus/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"四季線上4gtv 🇹🇼","url":"./tvbus/4gtv直播源.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"只有CCTV3 🇨🇳","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"live 🇹🇼 🇨🇳","url":"./tvbus/live.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+
+{"name":"1027","url":"./file/1027","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"167 🇹🇼 🇨🇳","url":"./tvbus/167.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"173 🇹🇼 🇨🇳","url":"./tvbus/173.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name": "四季線上4gtv(備份1) 🇹🇼","type":0,"url":"./tvbus/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
