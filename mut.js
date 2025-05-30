@@ -1,8 +1,13 @@
-
-
 {
-
+//Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
+//飯太硬 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
+//"spider":"./f0423a.jar",
+//飯太硬 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt
+"spider":"./jar/f0223.jar",
+"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
+
+
 
 {"name":"1027","url":"250525.txt"},  
 {"name":"167 🇹🇼 🇨🇳","url":"./tvbus/167.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
