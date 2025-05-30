@@ -94,6 +94,7 @@ ELTA3 smart,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+緯來育樂台 yes,https://v1.welife6.com/channels/videoland-maxtv/
 TVBS HD 345,http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56 
 中视 345,//http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60 
 台视 345 ,http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61 
