@@ -1,7 +1,8 @@
 
 
 體育台,#genre#
-
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
 博斯無限台,https://yeslivetv.com/channels/sportcast-mod208/
 智林體育台,https://yeslivetv.com/channels/oursport/
@@ -11,7 +12,11 @@
 緯來體育台,https://yeslivetv.com/channels/videoland-sports/
 ELEVEN體育1台（DAZN 1）,https://yeslivetv.com/channels/eleven-sports-1/
 ELEVEN體育2台（DAZN 2）,https://yeslivetv.com/channels/eleven-sports-2/
-新聞綜合,
+
+新聞綜合,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 民視第一台,https://yeslivetv.com/channels/ftvone/
 民視台灣台,https://yeslivetv.com/channels/ftvhd/
 民視HD,https://yeslivetv.com/channels/ftv-hd/
@@ -30,12 +35,20 @@ TVBS 56台,https://yeslivetv.com/channels/tvbs56/
 中天亞洲台,https://yeslivetv.com/channels/ctiasia/
 Taiwan+(台灣+),https://yeslivetv.com/channels/taiwanplus/
 年代新聞台,https://yeslivetv.com/channels/era-news/
-財經頻道,
+
+財經頻道,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 非凡新聞台,https://yeslivetv.com/channels/ustv/
 東森財經台(股市),https://yeslivetv.com/channels/ebc-stock/
 非凡商業台,https://yeslivetv.com/channels/ustvbiz/
 台視財經台,https://yeslivetv.com/channels/ttv-finance/
-戲劇電影,
+
+戲劇電影,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 公視戲劇,https://yeslivetv.com/channels/pts-drama/
 民視影劇台,https://yeslivetv.com/channels/ftv-film/
 龍華戲劇台,https://yeslivetv.com/channels/ltv-drama/
@@ -43,7 +56,11 @@ Taiwan+(台灣+),https://yeslivetv.com/channels/taiwanplus/
 靖天戲劇台,https://yeslivetv.com/channels/goldentv-mod356/
 靖洋戲劇台,https://yeslivetv.com/channels/goldentv-mod357/
 華視戲劇頻道,https://yeslivetv.com/channels/cts-drama/
-綜藝生活,
+
+綜藝生活,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 靖天日本台,https://yeslivetv.com/channels/goldentv-japan/
 民視綜藝台,https://yeslivetv.com/channels/ftv-variety-show/
 民視旅遊台,https://yeslivetv.com/channels/ftv-travel/
