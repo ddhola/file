@@ -7,7 +7,7 @@
 {"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 
 {"name":"Youtube_group🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Youtube_group.m3u"},
-
+{"name":"4g_livedown🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},
 {"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
 {"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
