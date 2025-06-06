@@ -11,6 +11,8 @@
 {"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
 {"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"UB🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/UB.m3u"},
+{"name":"smtiktv🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smtiktv.txt"},
+  
 {"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
 {"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
