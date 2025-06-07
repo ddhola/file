@@ -12,6 +12,8 @@
 {"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"UB🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/UB.m3u"},
 {"name":"smtiktv🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smtiktv.txt"},
+{"name":"50smart🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/50smart.txt"},
+
   
 {"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
