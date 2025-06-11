@@ -14,6 +14,8 @@
 {"name":"smtiktv🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smtiktv.txt"},
 {"name":"50smart🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/50smart.txt"},
 {"name":"SUN","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/P2P.txt"},
+{"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
+
   
 {"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
