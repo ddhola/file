@@ -15,8 +15,9 @@
 {"name":"50smart🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/50smart.txt"},
 {"name":"SUN","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/P2P.txt"},
 {"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
+{"name":"8.138 PHP","url":"http://8.138.7.223/p2p.php"},
 
-  
+
 {"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
 {"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
