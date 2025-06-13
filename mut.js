@@ -4,7 +4,7 @@
 "lives":[
 
 {"name": "立視 LiTV 🇹🇼(備份3)","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
+{"name":"UBLive","url":"http://RobYang.serv00.net/ublive.php"},
 
 {"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
