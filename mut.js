@@ -28,6 +28,8 @@
 {"name":"xch2406.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xch2406.txt"},
 {"name":"x1pd","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd"},
 {"name":"xcar","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcar"},
+{"name":"xheyzo","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xheyzo"},
+{"name":"xcollect.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcollect.txt"},
 
 
 
