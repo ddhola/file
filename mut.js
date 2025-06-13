@@ -10,36 +10,26 @@
 {"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
 {"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
 {"name":"smart 0601🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/smart.txt"},
+
 {"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
+{"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
+{"name":"4g_breezy.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},
+{"name":"4g_livedown.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},
+{"name":"UB.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/UB.m3u"},
+{"name":"merged_judy.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
+{"name":"movie.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
+{"name":"smart_50.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smart_50.txt"},
+{"name":"smart_iktv.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smart_iktv.txt"},
+{"name":"sun_P2P_mitv.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/sun_P2P_mitv.txt"},
+{"name":"sun_p2p.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/sun_p2p.txt"},
+{"name":"yes.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/yes.txt"},
+{"name":"x_jable_c_17150.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x_jable_c_17150.txt"},
+{"name":"xblue.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xblue.txt"},
+{"name":"xch2406.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xch2406.txt"},
+{"name":"x1pd","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd"},
+{"name":"xcar","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcar"},
 
 
-  
-{"name": "立視 LiTV 🇹🇼(備份3)","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-
-{"name":"Youtube_group🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Youtube_group.m3u"},
-{"name":"4g_livedown🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},
-{"name":"4g_breezy","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g%20breezy.txt"},
-  
-{"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
-{"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
-{"name":"UB🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/UB.m3u"},
-{"name":"smtiktv🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smtiktv.txt"},
-{"name":"50smart🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/50smart.txt"},
-{"name":"SUN","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/P2P.txt"},
-{"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
-{"name":"8.138 PHP","url":"http://8.138.7.223/p2p.php"},
-
-
-{"name":"judy🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/merged_judy.m3u"},
-{"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},
-{"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
-  
-{"name":"4g🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g.m3u"},
-{"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
-{"name":"yes🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/yes.txt"},
-{"name":"smart 0601🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/smart.txt"},
-  
 
 {"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "立視 LiTV 🇹🇼(本地1)","type": 3,"api": "./tvbus/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
