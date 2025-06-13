@@ -4,12 +4,7 @@
 "lives":[
 
 {"name": "立視 LiTV 🇹🇼(備份3)","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
-{"name":"8.138 PHP","url":"http://8.138.7.223/p2p.php"},
-{"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
-{"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
-{"name":"smart 0601🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/smart.txt"},
+
 
 {"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
@@ -31,6 +26,13 @@
 {"name":"xheyzo","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xheyzo"},
 {"name":"xcollect.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcollect.txt"},
 
+  
+{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
+{"name":"8.138 PHP","url":"http://8.138.7.223/p2p.php"},
+{"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
+{"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
+{"name":"smart 0601🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/smart.txt"},
 
 
 {"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
