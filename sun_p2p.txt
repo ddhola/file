@@ -1,14 +1,9 @@
 綜合台,#genre#
-
-
-
-
 EVE,P2p://starvod.xyz:19806/0c8422c7ea47475f89553195c91d60f1.ts
 HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
 ROCK Extreme,P2p://starvod.xyz:19806/1d6de08a7b18478f9570a81a5a43ae9a.ts
 WARNER TV,P2p://starvod.xyz:19806/7880becddff342d8a3875e6af8d7e1f2.ts
 
-DMAX,P2p://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
 JET綜合臺,P2p://starvod.xyz:19806/e19a681ceb1f47df920b8f28c2209a91.ts
 KLT-靖天國際臺,P2p://starvod.xyz:19806/ed9b07b12a61425aac24eb25061dd122.ts
 MOMO綜合臺,P2p://starvod.xyz:19806/01b063908e2843ab9680b176f4e6d0ec.ts
@@ -17,7 +12,6 @@ Smart知識臺,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 TVBS,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac.ts
 TVBS歡樂臺,P2p://starvod.xyz:19806/a4265d3126e645b68497ca319152826f.ts
 TVBS精采臺,P2p://starvod.xyz:19806/8630baf77c8948ddada142028d174f6c.ts
-
 三立綜合臺,P2p://starvod.xyz:19806/69750165665e4d05a7efada56fb027af.ts
 三立臺灣臺,P2p://starvod.xyz:19806/58e136fc9f924abd9ecae125da26586c.ts
 三立都會臺,P2p://starvod.xyz:19806/e672ce75014c4a8a95df6c2ec8c22b73.ts
@@ -162,6 +156,7 @@ i-Fun動漫臺,P2p://starvod.xyz:19806/92ace855ba4b4ad7ab44089e3898eda4.ts
 BBC Earth,P2p://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
 BBC Lifestyle,P2p://starvod.xyz:19806/292c0515ef294ea194f92fbc4f438879.ts
 CLASSICA 古典樂,P2p://starvod.xyz:19806/2f9c4c6f2aee4136bd3010346f0b96ed.ts
+DMAX,P2p://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
 Discovery Asia,P2p://starvod.xyz:19806/8c1933ac5c9a49fb891423336a6f42c5.ts
 Discovery科學頻道,P2p://starvod.xyz:19806/e34a7034b690468a8797abbe8ce607b2.ts
 ELTV生活英語臺,P2p://starvod.xyz:19806/93ebc4c952e84057a477b38db1e91b36.ts
