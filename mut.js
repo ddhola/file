@@ -8,6 +8,8 @@
 
 {"name":"Youtube_group🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Youtube_group.m3u"},
 {"name":"4g_livedown🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},
+{"name":"4g_breezy","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g%20breezy.txt"},
+  
 {"name":"1027🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},
 {"name":"0609🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},
 {"name":"UB🇹🇼","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/UB.m3u"},
