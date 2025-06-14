@@ -477,9 +477,10 @@ EYETV 旅遊_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classi
 
 
 
-4G WEB 綜合台,#genre#
+4GWEB綜合台,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 Arirang TV 阿里郎,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 Bloomberg,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
 CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
