@@ -12,7 +12,7 @@
 {"name":"4g_breezy.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
 {"name":"4g_livedown.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},	
 {"name":"movie.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
-{"name":"169_50634.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/169_50634.txt"},	
+
 {"name":"x_jable_c_17150.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x_jable_c_17150.txt"},	
 {"name":"xblue.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xblue.txt"},	
 {"name":"xch2406.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xch2406.txt"},	
@@ -21,13 +21,7 @@
 {"name":"xheyzo","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xheyzo"},	
 {"name":"xcollect.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcollect.txt"},	
 
-  
-{"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
-{"name":"8.138 PHP","url":"http://8.138.7.223/p2p.php"},
-{"name":"松視","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
-{"name":"anbo🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live%E5%AE%89%E5%8D%9A.m3u"},
-{"name":"smart 0601🇹🇼","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/smart.txt"},
 
 
 {"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
