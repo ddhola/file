@@ -477,7 +477,7 @@ EYETV 旅遊_線路TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classi
 
 
 
-4GWEB綜合台,#genre#
+4G綜合台,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
