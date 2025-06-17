@@ -5,7 +5,7 @@
 
 
 {"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
-{"name":"litvba","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/ba/litv.json"},
+{"name": "LITV直播(python)", "type": 3, "api": "./live_litv.py", "ext": {}},
 {"name":"smtba","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/ba/smt.json"},
 
   
