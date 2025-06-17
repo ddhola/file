@@ -1,10 +1,10 @@
-{
-"spider":"./jar/f0223.jar",
-//"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
-"lives":[
-    {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"}, 
+ 
 
-    {
+   {
+  "lives": [
+    
+    {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"}, 
+      {
       "name": "BeeSport直播(python)",
       "type": 3,
       "api": "./live_beesport.py",
@@ -27,4 +27,3 @@
     }
   ]
 }
-
