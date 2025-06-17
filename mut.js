@@ -6,6 +6,7 @@
 
 {"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
 {"name":"litv","url":"https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/litv.json"},
+{"name":"smtjson","url":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json"},
 
   
 {"name":"0606.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0606.txt"},	
