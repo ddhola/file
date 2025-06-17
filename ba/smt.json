@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "./live_smt.py",
+      "ext": {}
+    }
+  ]
+}
