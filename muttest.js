@@ -1,0 +1,52 @@
+{
+  "spider":"https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/mtv.jar",
+  "lives": [
+    {
+      "name": "59",
+      "api": "csp_MQiTV",
+      "ext": "https://59.125.210.231:4433"
+    },
+  
+
+
+
+{"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
+
+  
+{"name":"0606.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0606.txt"},	
+{"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},	
+{"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},	
+{"name":"142P2P","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/142P2P.txt"},
+{"name":"220134.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/220134.txt"},
+
+{"name":"hls","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/hls.txt"},	
+
+{"name":"4g_breezy.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
+{"name":"4g_livedown.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},	
+{"name":"movie.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
+{"name":"smt_cnlive.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smt_cnlive.txt"},
+  
+{"name":"x_jable_c_17150.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x_jable_c_17150.txt"},	
+{"name":"xblue.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xblue.txt"},	
+{"name":"xch2406.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xch2406.txt"},	
+{"name":"x1pd","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd"},	
+{"name":"xcar","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcar"},	
+{"name":"xheyzo","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xheyzo"},	
+{"name":"xcollect.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcollect.txt"},	
+
+{"name":"TAC_live","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/live.txt"},
+{"name":"TAC_live2","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt"},
+{"name":"TAC_live3","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live3.txt"},
+{"name":"TAC_livex2","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/livex2.txt"},
+{"name":"TAC_livex3","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/livex3.txt"},
+
+{"name":"checked.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/checked.m3u"},
+
+{"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+ 
+
+
+]
+
+
+}
