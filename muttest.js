@@ -1,6 +1,8 @@
 {
   "spider":"https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/mtv.jar",
   "lives": [
+
+    
     {
       "name": "🔥59 高解析 🇹🇼",
       "api": "csp_MQiTV",
@@ -15,7 +17,23 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
+        {
+            "name": "LITV[云梯]",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
+            "ext": {}
+        },
 
+        {
+            "name": "WEBTV港台",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+
+    
 {"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
 
   
