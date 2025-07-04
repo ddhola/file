@@ -2,12 +2,18 @@
   "spider":"https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/mtv.jar",
   "lives": [
     {
-      "name": "59",
+      "name": "🔥59 高解析 🇹🇼",
       "api": "csp_MQiTV",
       "ext": "https://59.125.210.231:4433"
     },
   
-
+        {
+            "name": "AKTV",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
 
 
 {"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
