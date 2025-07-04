@@ -5,7 +5,6 @@
       "name": "🔥59 高解析 🇹🇼",
       "api": "csp_MQiTV",
       "ext": "https://59.125.210.231:4433"
-      "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
     },
   
         {
