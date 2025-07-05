@@ -4,7 +4,7 @@
 
     
     {
-      "name": "🔥59 高解析 🇹🇼",
+      "name": "59 高解析 🇹🇼",
       "api": "csp_MQiTV",
       "ext": "https://59.125.210.231:4433"
     },
@@ -66,6 +66,8 @@
 {"name":"TAC_livex3","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/livex3.txt"},
 
 {"name":"checked.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/checked.m3u"},
+{"name":"🎬影視集1","url":"./直播源/影視集1.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"🎬影視集2","url":"./直播源/影視集2.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 
 {"name":"🔥59 高解析 🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
  
