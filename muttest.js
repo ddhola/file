@@ -6,6 +6,7 @@
 {"name": "59 高 解 析 🇹🇼", "api": "csp_MQiTV", "ext": "https://59.125.210.231:4433"},
 {"name":"立 視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"220134.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/220134.txt"}, 
+{"name":"2202.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/2202.txt"}, 
 
 {"name": "A K T V", "type": 0, "url": "http://aktv.space/live.m3u", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
 {"name": "LITV 云 梯", "type": 3, "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py", "ext": {}},
