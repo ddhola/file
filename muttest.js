@@ -49,7 +49,7 @@
 {"name":"4g_breezy.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
 {"name":"4g_livedown.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},	
 {"name":"movie.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
-{"name":"movie_action.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie_action.txt"},"ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"movie_action.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie_action.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 
     
 {"name":"smt_cnlive.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smt_cnlive.txt"},
