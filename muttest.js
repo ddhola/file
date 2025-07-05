@@ -9,7 +9,7 @@
       "ext": "https://59.125.210.231:4433"
     },
 {"name":"立視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
-{"name":"142P2P","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/142P2P.txt"}, 
+{"name":"220134.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/220134.txt"}, 
         {
             "name": "AKTV",
             "type": 0,
@@ -41,8 +41,8 @@
 {"name":"0606.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0606.txt"},	
 {"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},	
 {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},	
+{"name":"142P2P","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/142P2P.txt"},
 
-{"name":"220134.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/220134.txt"},
 
 {"name":"hls","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/hls.txt"},	
 
