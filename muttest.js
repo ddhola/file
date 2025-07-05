@@ -49,6 +49,9 @@
 {"name":"4g_breezy.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
 {"name":"4g_livedown.m3u","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_livedown.m3u"},	
 {"name":"movie.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
+{"name":"movie_action.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie_action.txt"},	
+
+    
 {"name":"smt_cnlive.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/smt_cnlive.txt"},
   
 {"name":"x_jable_c_17150.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x_jable_c_17150.txt"},	
