@@ -28,7 +28,7 @@ TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 纬来,#genre#
-
+纬来体育s1,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 ELTA体育1台,rtmp://9hv9.mine.nu/sat/md021
 ELTA体育2台,rtmp://9hv9.mine.nu/sat/md011
 纬来体育台f13h,rtmp://f13h.mine.nu/sat/tv721
@@ -83,6 +83,16 @@ ELTA3 345,https://m.345iptv.com/?act=play&token=ecc1c972746624679519087e7bb7a8b9
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
+
+年代much,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+年代much,http://fr-us8.jdiptv.cc/live/ndmuch.m3u8?kdstime=1743895364&kdssign=161cb60ba83e55ce097c8e3416c55999
+
+纬来综合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+好莱坞HD,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+八大综合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
 
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS欢乐台,http://125.227.210.55:8187/VideoInput/play.ts
