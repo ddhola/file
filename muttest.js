@@ -9,6 +9,7 @@
 
 {"name": "AKTV", "type": 0, "url": "http://aktv.space/live.m3u", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
 {"name": "LITV 云梯", "type": 3, "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py", "ext": {}},
+{"name": "LiTV 52sw", "type": 0, "url": "http://xg.52sw.top/iptv/litv.php", "ua": "okhttp/3.15", "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}", "pass": true},
 {"name": "WEBTV 港台", "type": 0, "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
 {"name":"Catvod smart","url":"https://live.catvod.com/smart.php"},
 
