@@ -12,7 +12,7 @@
 {"name": "WEBTV 港台", "type": 0, "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
 {"name":"Catvod smart","url":"https://live.catvod.com/smart.php"},
 
-    https://live.catvod.com/smart.php
+
 {"name":"Judy","url":"https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/tvbus/merged_judy.m3u"},
 
   
