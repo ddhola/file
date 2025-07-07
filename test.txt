@@ -230,11 +230,12 @@ DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u
 動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 國家地理,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 
-
 新聞台,#genre#
 TVBS新聞,http://122.117.71.103:8662/TVBS新闻.m3u8
 三立新聞,http://122.117.71.103:8683/三立新闻.m3u8
+中天新聞,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=w8MsHt&tk=tRXP9XSu0vpa
 中天新聞,http://122.117.71.103:8661/中天新闻.m3u8
+中天新聞臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c9zNzR&tk=tRXP9XSu0vpa
 年代新聞,http://122.117.71.103:8659/年代新闻.m3u8
 東森新聞,http://122.117.71.103:8660/东森新闻.m3u8
 東森財經,http://122.117.71.103:8684/东森财经.m3u8
@@ -243,17 +244,28 @@ TVBS新聞,http://122.117.71.103:8662/TVBS新闻.m3u8
 非凡商業,http://122.117.71.103:8665/非凡商业.m3u8
 非凡新聞,http://122.117.71.103:8664/非凡新闻.m3u8
 體育,#genre#
+CCTV-5+體育賽事,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lgSuQk&tk=tRXP9XSu0vpa
+CCTV-5體育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3qKt49&tk=tRXP9XSu0vpa
+CCTV5體育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A3yEDT&tk=tRXP9XSu0vpa
 DAZN-壹,http://122.117.71.103:8695/DAZN-壹.m3u8
 綜合台1,#genre#
+CCTV-1綜合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ExOq3g&tk=tRXP9XSu0vpa
+CCTV-3綜藝,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F4hg1K&tk=tRXP9XSu0vpa
+CCTV1綜合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hx4sBy&tk=tRXP9XSu0vpa
+CCTV3綜藝,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AjQSFp&tk=tRXP9XSu0vpa
+TVBS,http://122.117.71.103:8663/TVBS闽南.m3u8
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iEGLYt&tk=tRXP9XSu0vpa
 TVBS歡樂,http://122.117.71.103:8654/TVBS欢乐.m3u8
 TVBS歡樂高碼,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
-TVBS,http://122.117.71.103:8663/TVBS闽南.m3u8
+中天綜合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YCxF3F&tk=tRXP9XSu0vpa
 中天綜合,http://122.117.71.103:8648/中天综合.m3u8
 八大綜合,http://122.117.71.103:8640/八大综合.m3u8
 八大綜合高碼,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
 年代綜合,http://122.117.71.103:8651/年代综合.m3u8
 年代綜合高碼,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+東森綜合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dL7xdf&tk=tRXP9XSu0vpa
 東森綜合,http://122.117.71.103:8646/东森综合.m3u8
+東森超視,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Nc0RCw&tk=tRXP9XSu0vpa
 東森超視,http://122.117.71.103:8647/东森超视.m3u8
 東森超視高碼,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
 緯來日本,http://122.117.71.103:8681/纬来日本.m3u8
@@ -261,13 +273,21 @@ TVBS,http://122.117.71.103:8663/TVBS闽南.m3u8
 緯來綜合高碼,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
 綜合台2,#genre#
 三立都會,http://122.117.71.103:8644/三立都会.m3u8
+中天亞洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=m5Ei0Y&tk=tRXP9XSu0vpa
 中天娛樂,http://122.117.71.103:8649/中天娱乐.m3u8
+八大第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P46RO1&tk=tRXP9XSu0vpa
 八大第一,http://122.117.71.103:8639/八大第一.m3u8
 八大第一高碼,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+愛爾達娛樂,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QLVk63&tk=tRXP9XSu0vpa
+民視第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h2IGQq&tk=tRXP9XSu0vpa
+民視臺灣,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HViCTh&tk=tRXP9XSu0vpa
 韓國娛樂,http://122.117.71.103:8645/韩国娱乐.m3u8
 電影,#genre#
 amc電影,http://122.117.71.103:8671/amc电影.m3u8
+好萊塢電影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1O3B6S&tk=tRXP9XSu0vpa
 好萊電影高碼,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+東森洋片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=18LXUE&tk=tRXP9XSu0vpa
+東森電影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RWYyhZ&tk=tRXP9XSu0vpa
 緯來電影,http://122.117.71.103:8666/纬来电影.m3u8
 緯來電影高碼,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
 戲劇,#genre#
@@ -293,4 +313,7 @@ TLC'旅遊,http://122.117.71.103:8628/TLC旅游.m3u8
 探索,#genre#
 DISCOVery道,http://122.117.71.103:8627/discovery.m3u8
 動物星球,http://122.117.71.103:8633/动物星球.m3u8
+others,#genre#
+18,#genre#
+極限電影臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6WBuCM&tk=tRXP9XSu0vpa
 
