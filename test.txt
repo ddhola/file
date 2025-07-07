@@ -1,299 +1,249 @@
 新聞台,#genre#
-Bloomberg News,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8$LR•IPV4•2『線路1』
-Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8$LR•IPV4•2『線路2』
-TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072$LR•IPV4
-TVBS新聞HD,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8$LR•IPV4•2『線路1』
-TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8$LR•IPV4•2『線路2』
-cNN新聞高碼,http://61.216.11.93:49981/stream/channelid/881277234.m3u8$LR•IPV4
-tvbs新聞頻道,http://122.117.71.103:8662/tvbs新闻.m3u8$LR•IPV4
-三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1016.m3u8$LR•IPV4•2『線路1』
-三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8$LR•IPV4•2『線路2』
-三立新聞頻道,http://122.117.71.103:8683/三立新闻.m3u8$LR•IPV4
-中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009$LR•IPV4•3『線路1』
-中天新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1675.m3u8$LR•IPV4•3『線路2』
-中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8$LR•IPV4•3『線路3』
-中天新聞頻道,http://122.117.71.103:8661/中天新闻.m3u8$LR•IPV4
-中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074$LR•IPV4
-半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10$LR•IPV4
-壹新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1676.m3u8$LR•IPV4•2『線路1』
-壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8$LR•IPV4•2『線路2』
-寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14$LR•IPV4•3『線路1』
-寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1222.m3u8$LR•IPV4•3『線路2』
-寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8$LR•IPV4•3『線路3』
-寰宇新聞臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156$LR•IPV4
-年代新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1192.m3u8$LR•IPV4•2『線路1』
-年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8$LR•IPV4•2『線路2』
-年代新聞頻道,http://122.117.71.103:8659/年代新闻.m3u8$LR•IPV4
-東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152$LR•IPV4
-東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1014.m3u8$LR•IPV4•2『線路1』
-東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8$LR•IPV4•2『線路2』
-東森新聞頻道,http://122.117.71.103:8660/东森新闻.m3u8$LR•IPV4
-東森財經HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1017.m3u8$LR•IPV4•2『線路1』
-東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8$LR•IPV4•2『線路2』
-東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153$LR•IPV4
-東森財經頻道,http://122.117.71.103:8684/东森财经.m3u8$LR•IPV4
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13$LR•IPV4•3『線路1』
-民視新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1204.m3u8$LR•IPV4•3『線路2』
-民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8$LR•IPV4•3『線路3』
-民視新聞頻道,http://122.117.71.103:8682/民视新闻.m3u8$LR•IPV4
-第1商業臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104$LR•IPV4
-美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv03$LR•IPV4
-臺視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051$LR•IPV4
-臺視財經臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056$LR•IPV4
-華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052$LR•IPV4
-鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075$LR•IPV4
-鏡電視新聞臺,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8$LR•IPV4•2『線路1』
-鏡電視新聞臺,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8$LR•IPV4•2『線路2』
-閩鏡新聞頻道,http://122.117.71.103:8697/闽镜新闻.m3u8$LR•IPV4
-非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048$LR•IPV4
-非凡商業HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1012.m3u8$LR•IPV4•2『線路1』
-非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8$LR•IPV4•2『線路2』
-非凡商業頻道,http://122.117.71.103:8665/非凡商业.m3u8$LR•IPV4
-非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010$LR•IPV4
-非凡新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1013.m3u8$LR•IPV4•2『線路1』
-非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8$LR•IPV4•2『線路2』
-非凡新聞頻道,http://122.117.71.103:8664/非凡新闻.m3u8$LR•IPV4
+Bloomberg News,http://122.117.71.103:8687/http/61.222.53.250:8078/hls/43/80/bloomber.m3u8
+Bloomberg News,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+TVBS新聞HD,http://122.117.71.103:8662/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS新聞HD,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
+三立新聞HD,http://122.117.71.103:8683/http/61.222.53.250:8081/hls/65/807/ch18.m3u8
+三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+中天新聞,http://122.117.71.103:8661/http/61.222.53.250:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+中天新聞_SDI,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
+壹新聞,http://122.117.71.103:8686/http/61.222.53.250:8081/hls/66/808/ch24.m3u8
+壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/61.222.53.250:8081/hls/76/818/ch62.m3u8
+寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+年代新聞,http://122.117.71.103:8659/http/61.222.53.250:8081/hls/67/809/ch27.m3u8
+年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+年代新聞臺,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
+東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
+東森新聞HD,http://122.117.71.103:8660/http/61.222.53.250:8081/hls/63/805/ch10.m3u8
+東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
+東森財經HD,http://122.117.71.103:8684/http/61.222.53.250:8081/hls/63/805/ch11.m3u8
+東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+民視新聞,http://61.221.81.93:8583/http/192.168.1.10:8088/hls/73/815/ch51.m3u8
+民視新聞,http://122.117.71.103:8682/http/61.222.53.250:8081/hls/85/80/FtvNews4max.m3u8
+民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+法蘭西24小時新聞法語頻道,http://61.63.19.241:8595/http/192.168.1.10:8078/hls/33/80/france24.m3u8
+美國之音 VOA中文廣播,http://61.63.19.241:8608/http/192.168.1.10:8078/hls/111/80/voa.m3u8
+鏡電視新聞臺,http://122.117.71.103:8697/http/61.222.53.250:8092/upload/114/MNEWS_TS-1111_1.m3u8
+鏡電視新聞臺,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+鏡電視新聞臺,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
+非凡商業,http://122.117.71.103:8665/http/61.222.53.250:8081/hls/74/816/ch56.m3u8
+非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
+非凡新聞,http://122.117.71.103:8664/http/61.222.53.250:8081/hls/75/817/ch57.m3u8
+非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
 體育,#genre#
-DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8$LR•IPV4•2『線路1』
-DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8$LR•IPV4•2『線路2』
-DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8$LR•IPV4•2『線路1』
-DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8$LR•IPV4•2『線路2』
-DAZN-壹頻道,http://122.117.71.103:8695/DAZN-壹.m3u8$LR•IPV4
-GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv053$LR•IPV4
-Trace Sport Stars,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8$LR•IPV4•2『線路1』
-Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8$LR•IPV4•2『線路2』
-博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn10$LR•IPV4
-博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn13$LR•IPV4
-博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn09$LR•IPV4
-博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07$LR•IPV4
-博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn08$LR•IPV4
-博斯運動一,http://211.23.114.106:8518/http/59.120.8.187:8068/hls/15/80/cstv15.m3u8$LR•IPV4•2『線路1』
-博斯運動一,http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8$LR•IPV4•2『線路2』
-博斯高球1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn05$LR•IPV4
-博斯高球2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn06$LR•IPV4
-博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn04$LR•IPV4
-時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014$LR•IPV4
-智林體育臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101$LR•IPV4
-緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8$LR•IPV4•2『線路1』
-緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8$LR•IPV4•2『線路2』
+DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 1  HD,http://122.117.71.103:8695/http/61.222.53.250:8078/hls/25/80/esport.m3u8
+DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+DAZN 2  HD,http://122.117.71.103:8696/http/61.222.53.250:8078/hls/26/80/esport2.m3u8
+Trace Sport Stars,http://122.117.71.103:8626/http/61.222.53.250:8092/upload/212/TraceS_TS-1111_1.m3u8
+Trace Sport Stars,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+博斯運動一,http://122.117.71.103:8693/http/61.222.53.250:8068/hls/15/80/cstv15.m3u8
+博斯運動一,http://211.23.114.106:8518/http/59.120.8.187:8068/hls/15/80/cstv15.m3u8
+博斯運動一,http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+緯來體育HD,http://122.117.71.103:8692/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
+緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 綜合台1,#genre#
-MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8$LR•IPV4•2『線路1』
-MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8$LR•IPV4•2『線路2』
-MoMo綜合道,http://122.117.71.103:8564/MoM综合.m3u8$LR•IPV4
-NHk日本高碼,http://61.216.11.93:49981/stream/channelid/797583403.m3u8$LR•IPV4
-Smart 知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19$LR•IPV4
-TLC'綜合高碼,http://61.216.11.93:49981/stream/channelid/458490002.m3u8$LR•IPV4
-TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073$LR•IPV4
-TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8$LR•IPV4•2『線路1』
-TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8$LR•IPV4•2『線路2』
-TVBS歡樂HD,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8$LR•IPV4•2『線路1』
-TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8$LR•IPV4•2『線路2』
-TVBS歡樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068$LR•IPV4
-TVBS精采臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067$LR•IPV4
-momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8$LR•IPV4•2『線路1』
-momo綜合臺,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8$LR•IPV4•2『線路2』
-tvbs歡樂頻道,http://122.117.71.103:8654/tvbs欢乐.m3u8$LR•IPV4
-tvbs歡樂高碼,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8$LR•IPV4
-tvbs閩南頻道,http://122.117.71.103:8663/tvbs闽南.m3u8$LR•IPV4
-中天綜合HD,http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8$LR•IPV4•2『線路1』
-中天綜合HD,http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8$LR•IPV4•2『線路2』
-中天綜合頻道,http://122.117.71.103:8648/中天综合.m3u8$LR•IPV4
-八大綜合HD,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8$LR•IPV4•2『線路1』
-八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8$LR•IPV4•2『線路2』
-八大綜合頻道,http://122.117.71.103:8640/八大综合.m3u8$LR•IPV4
-八大綜合高碼,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8$LR•IPV4
-八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039$LR•IPV4
-年代綜合頻道,http://122.117.71.103:8651/年代综合.m3u8$LR•IPV4
-年代綜合高碼,http://61.216.11.93:49981/stream/channelid/644357774.m3u8$LR•IPV4
-東森綜合HD,http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8$LR•IPV4•2『線路1』
-東森綜合HD,http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8$LR•IPV4•2『線路2』
-東森綜合頻道,http://122.117.71.103:8646/东森综合.m3u8$LR•IPV4
-東森超視頻道,http://122.117.71.103:8647/东森超视.m3u8$LR•IPV4
-東森超視高碼,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8$LR•IPV4
-民視綜藝臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004$LR•IPV4
-緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8$LR•IPV4•2『線路1』
-緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8$LR•IPV4•2『線路2』
-緯來日本頻道,http://122.117.71.103:8681/纬来日本.m3u8$LR•IPV4
-緯來綜合HD,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8$LR•IPV4•2『線路1』
-緯來綜合HD,http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8$LR•IPV4•2『線路2』
-緯來綜合頻道,http://122.117.71.103:8638/纬来综合.m3u8$LR•IPV4
-緯來綜合高碼,http://61.216.11.93:49981/stream/channelid/106481234.m3u8$LR•IPV4
-緯來育樂HD,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8$LR•IPV4•2『線路1』
-緯來育樂HD,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8$LR•IPV4•2『線路2』
-超視HD,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8$LR•IPV4•2『線路1』
-超視HD,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8$LR•IPV4•2『線路2』
-靖天日本臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047$LR•IPV4
-靖天綜合臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046$LR•IPV4
-靖天育樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062$LR•IPV4
+JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
+MUCH TV,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
+MUCH TV,http://122.117.71.103:8651/http/61.222.53.250:8081/hls/72/814/ch45.m3u8
+MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+MoMo綜合臺,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
+TVBS HD,http://122.117.71.103:8663/http/61.222.53.250:8081/hls/75/817/ch58.m3u8
+TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
+TVBS歡樂HD,http://122.117.71.103:8654/http/61.222.53.250:8081/hls/65/807/ch17.m3u8
+TVBS歡樂HD,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+momo 綜合臺,http://122.117.71.103:8694/http/61.222.53.250:8081/hls/76/818/momo_max.m3u8
+momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+momo綜合臺,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
+中天綜合HD,http://122.117.71.103:8648/http/61.222.53.250:8081/hls/67/809/ch25.m3u8
+中天綜合HD,http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+中天綜合HD,http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
+八大綜合HD,http://122.117.71.103:8640/http/61.222.53.250:8081/hls/66/808/ch21.m3u8
+八大綜合HD,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+東森綜合HD,http://122.117.71.103:8646/http/61.222.53.250:8081/hls/63/805/ch12.m3u8
+東森綜合HD,http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+東森綜合HD,http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
+緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
+緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
+緯來綜合HD,http://122.117.71.103:8638/http/61.222.53.250:8081/hls/68/810/ch32.m3u8
+緯來綜合HD,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+緯來綜合HD,http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+緯來育樂HD,http://122.117.71.103:8691/http/61.222.53.250:8081/hls/68/810/ch30.m3u8
+緯來育樂HD,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來育樂HD,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+超視HD,http://61.216.26.165:8525/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+超視HD,http://122.117.71.103:8647/http/61.222.53.250:8081/hls/64/806/ch14.m3u8
+超視HD,http://123.51.231.132:8525/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+超視HD,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+超視HD,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 綜合台2,#genre#
-ELTV 娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv070$LR•IPV4
-Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1674.m3u8$LR•IPV4•2『線路1』
-Taiwan Plus,http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8$LR•IPV4•2『線路2』
-三立臺灣HD,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8$LR•IPV4•2『線路1』
-三立臺灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8$LR•IPV4•2『線路2』
-三立都會HD,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8$LR•IPV4•2『線路1』
-三立都會HD,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8$LR•IPV4•2『線路2』
-三立都會頻道,http://122.117.71.103:8644/三立都会.m3u8$LR•IPV4
-中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109$LR•IPV4
-中天娛樂HD,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8$LR•IPV4•2『線路1』
-中天娛樂HD,http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8$LR•IPV4•2『線路2』
-中天娛樂頻道,http://122.117.71.103:8649/中天娱乐.m3u8$LR•IPV4
-中視經典臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv080$LR•IPV4
-中視菁採臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064$LR•IPV4
-八大第一HD,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8$LR•IPV4•2『線路1』
-八大第一HD,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8$LR•IPV4•2『線路2』
-八大第一頻道,http://122.117.71.103:8639/八大第一.m3u8$LR•IPV4
-八大第一高碼,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8$LR•IPV4
-八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034$LR•IPV4
-民視第一臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003$LR•IPV4
-民視臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001$LR•IPV4
-豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006$LR•IPV4
-靖天國際臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063$LR•IPV4
-靖天歡樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054$LR•IPV4
-靖天資訊臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065$LR•IPV4
-韓國娛樂臺,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8$LR•IPV4•2『線路1』
-韓國娛樂臺,http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8$LR•IPV4•2『線路2』
-韓國娛樂頻道,http://122.117.71.103:8645/韩国娱乐.m3u8$LR•IPV4
-龍華經典臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21$LR•IPV4
+Taiwan Plus,http://122.117.71.103:8658/http/61.222.53.250:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+Taiwan Plus,http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+三立臺灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
+三立臺灣HD,http://122.117.71.103:8643/http/61.222.53.250:8081/hls/65/807/ch20.m3u8
+三立臺灣HD,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立臺灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
+三立都會HD,http://122.117.71.103:8644/http/61.222.53.250:8081/hls/65/807/ch19.m3u8
+三立都會HD,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+三立都會HD,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
+中天娛樂HD,http://122.117.71.103:8649/http/61.222.53.250:8081/hls/67/809/ch26.m3u8
+中天娛樂HD,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+中天娛樂HD,http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
+八大第一HD,http://122.117.71.103:8639/http/61.222.53.250:8081/hls/66/808/ch22.m3u8
+八大第一HD,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大第一HD,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+卡達半島電視臺國際頻道,http://61.63.19.241:8599/http/192.168.1.10:8078/hls/36/80/aljaz.m3u8
+韓國娛樂臺,http://122.117.71.103:8645/http/61.222.53.250:8092/upload/116/KMTV_TS-1111_1.m3u8
+韓國娛樂臺,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+韓國娛樂臺,http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+鳯凰衛視中文,http://61.216.26.165:8577/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視中文,http://61.216.180.81:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視中文,http://122.117.71.103:8679/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視中文,http://123.51.231.132:8577/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視中文,http://211.23.114.106:8549/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+鳯凰衛視資訊,http://61.216.26.165:8576/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視資訊,http://61.216.180.81:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視資訊,http://122.117.71.103:8678/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視資訊,http://123.51.231.132:8576/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視資訊,http://211.23.114.106:8548/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 電影,#genre#
-AMC 電影臺,http://211.23.114.106:9359/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8$LR•IPV4•2『線路1』
-AMC 電影臺,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8$LR•IPV4•2『線路2』
-AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8$LR•IPV4•2『線路1』
-AXN,http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8$LR•IPV4•2『線路2』
-CINEMAX HD,http://211.23.114.106:9358/http/61.219.99.20:8081/hls/71/813/ch42.m3u8$LR•IPV4•2『線路1』
-CINEMAX HD,http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8$LR•IPV4•2『線路2』
-CINeMax高碼,http://61.216.11.93:49981/stream/channelid/207378916.m3u8$LR•IPV4•2『線路1』
-CINeMax高碼,http://61.216.11.93:49981/stream/channelid/1222093986.m3u8$LR•IPV4•2『線路2』
-HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8$LR•IPV4•2『線路1』
-HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8$LR•IPV4•2『線路2』
-amc電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017$LR•IPV4
-amc電影頻道,http://122.117.71.103:8671/amc电影.m3u8$LR•IPV4
-好萊塢電影HD,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8$LR•IPV4•2『線路1』
-好萊塢電影HD,http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8$LR•IPV4•2『線路2』
-好萊電影高碼,http://61.216.11.93:49981/stream/channelid/286389561.m3u8$LR•IPV4
-影迷數位電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011$LR•IPV4
-緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8$LR•IPV4•2『線路1』
-緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8$LR•IPV4•2『線路2』
-緯來電影頻道,http://122.117.71.103:8666/纬来电影.m3u8$LR•IPV4
-緯來電影高碼,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8$LR•IPV4
-靖天映畫臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055$LR•IPV4
-靖天電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061$LR•IPV4
-龍華洋片臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02$LR•IPV4
-龍華電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03$LR•IPV4•3『線路1』
-龍華電影臺,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8$LR•IPV4•3『線路2』
-龍華電影臺,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8$LR•IPV4•3『線路3』
+AMC 電影臺,http://122.117.71.103:8671/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+AMC 電影臺,http://211.23.114.106:9359/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+AMC 電影臺,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
+AXN,http://122.117.71.103:8669/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+AXN,http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
+CINEMAX HD,http://122.117.71.103:8670/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+CINEMAX HD,http://211.23.114.106:9358/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+CINEMAX HD,http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
+HBO,http://122.117.71.103:8668/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
+HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+STAR MOVIES GOLD,http://123.51.229.128:8577/http/192.168.1.9:8081/hls/62/804/ch08.m3u8
+好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
+好萊塢電影HD,http://122.117.71.103:8689/http/61.222.53.250:8081/hls/74/816/ch55.m3u8
+好萊塢電影HD,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+好萊塢電影HD,http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
+緯來電影HD,http://122.117.71.103:8666/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+衛視電影,http://123.51.229.128:8535/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+龍華電影臺,http://122.117.71.103:8667/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+龍華電影臺,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+龍華電影臺,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 戲劇,#genre#
-八大戲劇HD,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8$LR•IPV4•2『線路1』
-八大戲劇HD,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8$LR•IPV4•2『線路2』
-八大戲劇頻道,http://122.117.71.103:8653/八大戏剧.m3u8$LR•IPV4
-公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042$LR•IPV4
-採昌影劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv049$LR•IPV4
-東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8$LR•IPV4•2『線路1』
-東森戲劇HD,http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8$LR•IPV4•2『線路2』
-東森戲劇頻道,http://122.117.71.103:8652/东森戏剧.m3u8$LR•IPV4
-民視影劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09$LR•IPV4
-緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8$LR•IPV4•2『線路1』
-緯來戲劇,http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8$LR•IPV4•2『線路2』
-緯來戲劇頻道,http://122.117.71.103:8655/纬来戏剧.m3u8$LR•IPV4
-臺灣戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22$LR•IPV4
-靖天戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058$LR•IPV4
-靖洋戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045$LR•IPV4
-龍華偶像劇,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8$LR•IPV4•2『線路1』
-龍華偶像劇,http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8$LR•IPV4•2『線路2』
-龍華偶像臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12$LR•IPV4
-龍華偶像頻道,http://122.117.71.103:8680/龙华偶像.m3u8$LR•IPV4
-龍華戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18$LR•IPV4•3『線路1』
-龍華戲劇臺,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8$LR•IPV4•3『線路2』
-龍華戲劇臺,http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8$LR•IPV4•3『線路3』
-龍華戲劇頻道,http://122.117.71.103:8656/龙华戏剧.m3u8$LR•IPV4
-龍華日韓劇,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8$LR•IPV4•2『線路1』
-龍華日韓劇,http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8$LR•IPV4•2『線路2』
-龍華日韓臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11$LR•IPV4
-龍華日韓頻道,http://122.117.71.103:8657/龙华日韩.m3u8$LR•IPV4
+八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
+八大戲劇HD,http://122.117.71.103:8653/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
+八大戲劇HD,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+八大戲劇HD,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
+東森戲劇HD,http://61.216.26.165:8530/http/192.168.1.9:8081/hls/64/806/ch13.m3u8
+東森戲劇HD,http://122.117.71.103:8652/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
+東森戲劇HD,http://123.51.231.132:8530/http/192.168.1.9:8081/hls/64/806/ch13.m3u8
+東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+東森戲劇HD,http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
+緯來戲劇,http://122.117.71.103:8655/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
+緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+緯來戲劇,http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+龍華偶像劇,http://122.117.71.103:8680/http/61.222.53.250:8068/hls/11/80/cstv11.m3u8
+龍華偶像劇,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+龍華偶像劇,http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+龍華戲劇臺,http://122.117.71.103:8656/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
+龍華戲劇臺,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+龍華戲劇臺,http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+龍華日韓劇,http://122.117.71.103:8657/http/61.222.53.250:8068/hls/12/80/cstv12.m3u8
+龍華日韓劇,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+龍華日韓劇,http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
 四台,#genre#
-中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040$LR•IPV4
-中視HD,http://211.23.114.106:8534/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8$LR•IPV4•2『線路1』
-中視HD,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8$LR•IPV4•2『線路2』
-中視閩南頻道,http://122.117.71.103:8630/中视闽南.m3u8$LR•IPV4
-公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8$LR•IPV4•2『線路1』
-公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8$LR•IPV4•2『線路2』
-公視閩南頻道,http://122.117.71.103:8624/公视闽南.m3u8$LR•IPV4
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002$LR•IPV4•2『線路1』
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155$LR•IPV4•2『線路2』
-民視HD,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8$LR•IPV4•2『線路1』
-民視HD,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8$LR•IPV4•2『線路2』
-民視閩南頻道,http://122.117.71.103:8623/民视闽南.m3u8$LR•IPV4
-民視閩南高碼,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8$LR•IPV4
-臺視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066$LR•IPV4
-臺視HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1047.m3u8$LR•IPV4•2『線路1』
-臺視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8$LR•IPV4•2『線路2』
-華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041$LR•IPV4
-華視HD,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8$LR•IPV4•2『線路1』
-華視HD,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8$LR•IPV4•2『線路2』
-華視閩南頻道,http://122.117.71.103:8622/华视闽南.m3u8$LR•IPV4
+中視,http://61.221.81.93:8512/http/192.168.1.9:8088/hls/72/814/ch47.m3u8
+中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://122.117.71.103:8630/http/61.222.53.250:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://211.23.114.106:8534/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+公視,http://61.221.81.93:8518/http/192.168.1.10:8088/hls/73/815/ch50.m3u8
+公視,http://122.117.71.103:8624/http/61.222.53.250:8081/hls/87/80/Pts4max.m3u8
+公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+民視,http://61.221.81.93:8517/http/192.168.1.10:8088/hls/73/815/ch49.m3u8
+民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://122.117.71.103:8623/http/61.222.53.250:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+臺視,http://61.221.81.93:8511/http/192.168.1.9:8088/hls/72/814/ch46.m3u8
+臺視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
+華視,http://61.221.81.93:8514/http/192.168.1.10:8088/hls/72/814/ch48.m3u8
+華視HD,http://61.216.26.165:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
+華視HD,http://122.117.71.103:8622/http/61.222.53.250:8081/hls/89/80/Cts4max.m3u8
+華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
+華視HD,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+華視HD,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
 兒童,#genre#
-MOMO親子臺,http://211.23.114.106:8516/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8$LR•IPV4•2『線路1』
-MOMO親子臺,http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8$LR•IPV4•2『線路2』
-MoMo親子國,http://122.117.71.103:8635/MoM亲子.m3u8$LR•IPV4
-Nick少兒高碼,http://61.216.11.93:49981/stream/channelid/580636100.m3u8$LR•IPV4
-東森幼幼HD,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8$LR•IPV4•2『線路1』
-東森幼幼HD,http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8$LR•IPV4•2『線路2』
-東森幼幼頻道,http://122.117.71.103:8636/东森幼幼.m3u8$LR•IPV4
-達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv018$LR•IPV4
-靖天卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv044$LR•IPV4
-靖洋卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057$LR•IPV4
-龍華卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01$LR•IPV4•3『線路1』
-龍華卡通臺,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8$LR•IPV4•3『線路2』
-龍華卡通臺,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8$LR•IPV4•3『線路3』
-龍華卡通頻道,http://122.117.71.103:8637/龙华卡通.m3u8$LR•IPV4
+MOMO親子臺,http://211.23.114.106:8516/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+MOMO親子臺,http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+momo親子臺,http://122.117.71.103:8635/http/61.222.53.250:8081/hls/90/80/momo4max.m3u8
+東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
+東森幼幼HD,http://122.117.71.103:8636/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+東森幼幼HD,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+東森幼幼HD,http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+龍華卡通臺,http://122.117.71.103:8637/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+龍華卡通臺,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+龍華卡通臺,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
 音樂旅遊生活,#genre#
-CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv059$LR•IPV4
-ELTV生活英語臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20$LR•IPV4
-MezzoLiveHD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv083$LR•IPV4
-TLC'旅遊頻道,http://122.117.71.103:8628/TLC旅游.m3u8$LR•IPV4
-亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8$LR•IPV4•2『線路1』
-亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8$LR•IPV4•2『線路2』
-亞洲旅遊臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076$LR•IPV4
-亞洲旅遊頻道,http://122.117.71.103:8634/亚洲旅游.m3u8$LR•IPV4
-寵物頻道,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8$LR•IPV4•2『線路1』
-寵物頻道,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8$LR•IPV4•2『線路2』
-旅遊生活,http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8$LR•IPV4•2『線路1』
-旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8$LR•IPV4•2『線路2』
-民視旅遊臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07$LR•IPV4
+Joo Music,http://61.63.19.241:8603/http/192.168.1.10:8078/hls/37/80/joo.m3u8
+亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
+亞洲旅遊,http://122.117.71.103:8634/http/61.67.128.129:8081/hls/76/818/ch61.m3u8
+亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+寵物頻道,http://122.117.71.103:8690/http/61.222.53.250:8078/hls/40/80/pettv.m3u8
+寵物頻道,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+寵物頻道,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+旅遊生活,http://61.221.81.93:8552/http/192.168.1.10:8088/hls/70/812/ch38.m3u8
+旅遊生活,http://122.117.71.103:8628/http/61.222.53.250:8081/hls/70/812/ch38.m3u8
+旅遊生活,http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 探索,#genre#
-DISCOVERY,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8$LR•IPV4•2『線路1』
-DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8$LR•IPV4•2『線路2』
-DISCOVery道,http://122.117.71.103:8627/discovery.m3u8$LR•IPV4
-動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8$LR•IPV4•2『線路1』
-動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8$LR•IPV4•2『線路2』
-動物星球頻道,http://122.117.71.103:8633/动物星球.m3u8$LR•IPV4
-視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013$LR•IPV4
-others,#genre#
-ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079$LR•IPV4
-Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv016$LR•IPV4
-NHK HD,http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8$LR•IPV4
-NHK世界HD,http://211.23.114.106:9351/http/61.219.99.20:8081/hls/62/804/ch06.m3u8$LR•IPV4
-TRacesp頻道,http://122.117.71.103:8626/Tracesp.m3u8$LR•IPV4
-TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv082$LR•IPV4
-三立閩南頻道,http://122.117.71.103:8643/三立闽南.m3u8$LR•IPV4
-人間衛視,http://211.23.114.106:9306/http/61.219.99.20:8081/hls/69/811/ch36.m3u8$LR•IPV4•2『線路1』
-人間衛視,http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8$LR•IPV4•2『線路2』
-人間衛視頻道,http://122.117.71.103:8631/人间卫视.m3u8$LR•IPV4
-信吉電視高碼,http://61.216.11.93:49981/stream/channelid/166215564.m3u8$LR•IPV4
-國會頻道1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv084$LR•IPV4
-國會頻道2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv085$LR•IPV4
-大愛電視,http://211.23.114.106:9307/http/61.219.99.20:8081/hls/73/815/ch52.m3u8$LR•IPV4•2『線路1』
-大愛電視,http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8$LR•IPV4•2『線路2』
-大愛電視頻道,http://122.117.71.103:8632/大爱电视.m3u8$LR•IPV4
-好消息1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv16$LR•IPV4
-好消息2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv17$LR•IPV4
-好消息GOOD TV,http://211.23.114.106:9308/http/61.219.99.20:8081/hls/74/816/ch53.m3u8$LR•IPV4•2『線路1』
-好消息GOOD TV,http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8$LR•IPV4•2『線路2』
-好消息臺頻道,http://122.117.71.103:8625/好消息台.m3u8$LR•IPV4
-客家電視臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv043$LR•IPV4
-東風衛視,http://211.23.114.106:9327/http/61.219.99.20:8081/hls/68/810/ch31.m3u8$LR•IPV4•2『線路1』
-東風衛視,http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8$LR•IPV4•2『線路2』
-東風衛視頻道,http://122.117.71.103:8650/东风卫视.m3u8$LR•IPV4
-海峽衛視頻道,http://122.117.71.103:8674/海峡卫视.m3u8$LR•IPV4
-閩南Plus頻道,http://122.117.71.103:8658/闽南Plus.m3u8$LR•IPV4
-18,#genre#
+DISCOVERY,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
+DISCOVERY,http://122.117.71.103:8627/http/61.222.53.250:8081/hls/71/813/ch44.m3u8
+DISCOVERY,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
+動物星球,http://122.117.71.103:8633/http/61.222.53.250:8081/hls/70/812/ch37.m3u8
+動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+國家地理,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
