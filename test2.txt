@@ -1,0 +1,130 @@
+新聞台,#genre#
+CCTV新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-0.html
+CNN,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-11-0.html
+NOW新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html
+NOW財經,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-17-0.html
+TVBS新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-0.html
+中天新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
+娛樂新聞臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-34-0.html
+寰宇新聞臺灣臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-84-0.html
+寰宇新聞臺灣臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-124-0.html
+寰宇財經臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-81-0.html
+年代新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-0.html
+東森新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-21-0.html
+無線新聞臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-30-0.html
+無線新聞臺·海外版,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-31-0.html
+臺視新聞臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-0.html
+臺視財經,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-140-0.html
+鏡新聞臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-148-0.html
+非凡商業,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-60-0.html
+非凡新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-61-0.html
+非凡新聞,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-131-0.html
+體育,#genre#
+CCTV體育,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-6-0.html
+CCTV體育賽事,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-7-0.html
+ELTA體育4臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-53-0.html
+TRACE SPORTS STARS,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-137-0.html
+博斯無限,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-17-0.html
+博斯無限II,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-18-0.html
+博斯網球,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-16-0.html
+博斯運動II,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-20-0.html
+博斯高球I,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-13-0.html
+博斯高球II,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-14-0.html
+博斯魅力,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-15-0.html
+時尚運動X,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-134-0.html
+智林體育臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-163-0.html
+緯來體育,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
+緯來體育,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-125-0.html
+綜合台1,#genre#
+ELTA綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-56-0.html
+JET綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-85-0.html
+SMART,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-133-0.html
+TVBS,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-164-0.html
+TVBS ASIA,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-144-0.html
+TVBS 歡樂,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
+TVBS精彩,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-68-0.html
+三立綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-143-0.html
+中天綜合臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-132-0.html
+八大綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
+八大綜藝臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-12-0.html
+年代MUCH,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-123-0.html
+東森綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-26-0.html
+東森超視,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-36-0.html
+緯來日本,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-152-0.html
+緯來日本,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-172-0.html
+臺視綜合,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-142-0.html
+華藝MBC綜合臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-82-0.html
+靖天日本臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-90-0.html
+靖天綜合臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-94-0.html
+靖天育樂臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-93-0.html
+綜合台2,#genre#
+ELTA娛樂,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-55-0.html
+TAIWAN+,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
+中天亞洲,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-129-0.html
+中天娛樂,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-170-0.html
+中視BRAVO菁採,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-165-0.html
+中視經典,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-166-0.html
+八大第一,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-35-0.html
+八大精彩臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-8-0.html
+民視第一,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-0.html
+緯來娛樂,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-171-0.html
+靖天國際臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
+靖天歡樂臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-88-0.html
+靖天資訊臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-95-0.html
+韓國娛樂臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-77-0.html
+鳳凰資訊,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
+龍華經典,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-101-0.html
+電影,#genre#
+AXN,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-4-0.html
+CINEMAX,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-22-0.html
+HBO HiTS,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-75-0.html
+HBO Signature,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-76-0.html
+HBO family,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-74-0.html
+Hollywood,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-78-0.html
+amc電影臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-1-0.html
+好萊塢電影,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-38-0.html
+東森洋片,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-45-0.html
+東森電影,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-38-0.html
+緯來電影,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-151-0.html
+美亞電影臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-11-0.html
+美亞電影臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-122-0.html
+靖天映畫,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-92-0.html
+靖天電影臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-86-0.html
+戲劇,#genre#
+ELTA影劇,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-54-0.html
+EYE TV 戲劇,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-59-0.html
+三立戲劇臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-130-0.html
+八大戲劇臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-9-0.html
+公視戲劇,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-70-0.html
+影劇,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-63-0.html
+影劇,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-116-0.html
+臺灣戲劇臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-149-0.html
+靖天戲劇臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-91-0.html
+靖洋戲劇臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
+龍華偶像,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-103-0.html
+龍華日韓,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-104-0.html
+四台,#genre#
+中視,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-118-0.html
+公視,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-139-0.html
+民視,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-117-0.html
+華視,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-111-0.html
+兒童,#genre#
+ANIMAX,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-2-0.html
+卡通頻道,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-99-0.html
+東森YOYOTV,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-44-0.html
+靖天卡通臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-89-0.html
+龍華卡通,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-102-0.html
+音樂旅遊生活,#genre#
+BBC lifestyle,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-6-0.html
+ELTV生活英語臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-57-0.html
+EYE TV 旅遊,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-58-0.html
+MTV,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-120-0.html
+MTV Live,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-121-0.html
+lifetime,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-107-0.html
+古典音樂臺,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-62-0.html
+旅遊,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-112-0.html
+美食星球,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-115-0.html
+探索,#genre#
+BBC earth,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-5-0.html
+Discovery SCI,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-33-0.html
+動物星球,http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-48-0.html
