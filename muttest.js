@@ -5,7 +5,7 @@
     
 {"name": "59 🇹🇼", "api": "csp_MQiTV", "ext": "https://59.125.210.231:4433"},
 {"name":"立視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
-{"name":"220134.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/220134.txt"}, 
+
 {"name":"test.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test.txt"}, 
 	  
 {"name": "AKTV", "type": 0, "url": "http://aktv.space/live.m3u", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
