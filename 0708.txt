@@ -1,63 +1,56 @@
 新聞台,#genre#
-非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
-TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-东森新闻台,https://www.youtube.com/watch?v=V1p33hqPrUk
-东森财经新闻台,https://www.youtube.com/watch?v=AEBeWMM1atA
-东森财经新闻台,https://www.youtube.com/watch?v=1I2iq41Akmo
-华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
-民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-三立 iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立新闻台,https://www.youtube.com/watch?v=MV9mI0GChwo
-中天新闻台,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
-寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-公视,https://www.youtube.com/watch?v=C6gYqSHLRw4
-公视台语台,https://www.youtube.com/watch?v=6KlRR_DGhmI
-
-綜藝大熱門,https://www.youtube.com/watch?v=cpsP1wd-HgM
-台視時光,https://www.youtube.com/watch?v=MEdYt10b2mc
-
+BBC news,http://125.227.210.55:8165/VideoInput/play.ts
 Bloomberg News,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
 Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CNN新聞高碼,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
+TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS新聞HD,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-cNN新聞高碼,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
-tvbs新聞頻道,http://122.117.71.103:8662/tvbs新闻.m3u8
+TVBS新聞頻道,http://122.117.71.103:8662/tvbs新闻.m3u8
+三立 iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+三立新聞臺,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞頻道,http://122.117.71.103:8683/三立新闻.m3u8
+中天CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
 中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+中天新聞臺,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞頻道,http://122.117.71.103:8661/中天新闻.m3u8
 中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
+中視新聞臺,https://www.youtube.com/watch?v=TCnaIE_SAtM
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
 寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+寰宇新聞臺,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
+寰宇新聞臺灣臺,https://www.youtube.com/watch?v=w87VGpgd90U
 年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
 年代新聞頻道,http://122.117.71.103:8659/年代新闻.m3u8
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
 東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+東森新聞臺,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞頻道,http://122.117.71.103:8660/东森新闻.m3u8
 東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+東森財經新聞臺,https://www.youtube.com/watch?v=AEBeWMM1atA
+東森財經新聞臺,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經頻道,http://122.117.71.103:8684/东森财经.m3u8
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
 民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+民視新聞臺,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞頻道,http://122.117.71.103:8682/民视新闻.m3u8
 第1商業臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
 美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv03
 臺視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
+臺視新聞臺,https://www.youtube.com/watch?v=xL0ch83RAK8
 臺視財經臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
 華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+華視新聞臺,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
 鏡電視新聞臺,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡電視新聞臺,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
@@ -73,7 +66,6 @@ DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-
 GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv053
 Trace Sport Stars,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
 Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
@@ -95,9 +87,7 @@ Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/
 綜合台1,#genre#
 MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
-NHk日本高碼,http://61.216.11.93:49981/stream/channelid/797583403.m3u8
 Smart 知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
-TLC'綜合高碼,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
@@ -128,6 +118,7 @@ tvbs閩南頻道,http://122.117.71.103:8663/tvbs闽南.m3u8
 東森超視頻道,http://122.117.71.103:8647/东森超视.m3u8
 東森超視高碼,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
 民視綜藝臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
+綜藝大熱門,https://www.youtube.com/watch?v=cpsP1wd-HgM
 緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 緯來日本頻道,http://122.117.71.103:8681/纬来日本.m3u8
@@ -249,6 +240,8 @@ amc電影頻道,http://122.117.71.103:8671/amc电影.m3u8
 中視閩南頻道,http://122.117.71.103:8630/中视闽南.m3u8
 公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
 公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公視臺語臺,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視閩南頻道,http://122.117.71.103:8624/公视闽南.m3u8
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
@@ -256,8 +249,10 @@ amc電影頻道,http://122.117.71.103:8671/amc电影.m3u8
 民視HD,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
 民視閩南頻道,http://122.117.71.103:8623/民视闽南.m3u8
 民視閩南高碼,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+臺視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 臺視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
 臺視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
+臺視時光,https://www.youtube.com/watch?v=MEdYt10b2mc
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
 華視HD,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
 華視HD,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
@@ -283,7 +278,8 @@ Nick少兒高碼,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
 CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv059
 ELTV生活英語臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20
 MezzoLiveHD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv083
-TLC'旅遊頻道,http://122.117.71.103:8628/TLC旅游.m3u8
+TLC旅遊頻道,http://122.117.71.103:8628/TLC旅游.m3u8
+TLC高碼,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
 亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
 亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
 亞洲旅遊臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
@@ -307,27 +303,14 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
 others,#genre#
 ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
-BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-EroxHD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Femjoy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
-Femjoy,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6212/index.m3u8
 Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv016
-Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 NHK HD,http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
 NHK世界HD,http://211.23.114.106:9351/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
-PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+NHk高碼,http://61.216.11.93:49981/stream/channelid/797583403.m3u8
 TRacesp頻道,http://122.117.71.103:8626/Tracesp.m3u8
 TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv082
-Кино 18+,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18075/index.m3u8
-Кино 18+,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/18075/index.m3u8
-Кино 18+ International,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18076/index.m3u8
-Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/18076/index.m3u8
 三立閩南頻道,http://122.117.71.103:8643/三立闽南.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 人間衛視,http://211.23.114.106:9306/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
@@ -351,8 +334,21 @@ TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 海峽衛視頻道,http://122.117.71.103:8674/海峡卫视.m3u8
 閩南Plus頻道,http://122.117.71.103:8658/闽南Plus.m3u8
 18,#genre#
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+EroxHD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Femjoy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
+Femjoy,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6212/index.m3u8
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 Playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Playboy_plus,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 Playboy_plus,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6242/index.m3u8
 Playboy_tv,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
 Playboy_tv,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/527/index.m3u8
+Кино 18+,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18075/index.m3u8
+Кино 18+,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/18075/index.m3u8
+Кино 18+ International,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18076/index.m3u8
+Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/18076/index.m3u8
