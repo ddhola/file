@@ -1,91 +1,27 @@
-綜合臺,#genre#
+
+新聞台,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
-緯來日本臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
-緯來日本臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
-愛爾達綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
-愛爾達綜合臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
-東森綜合 ETTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
-東森綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
-
-
-TVBS HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0
-TVBS 歡樂臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165073&pathid=0
-TVBS歡樂臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=0
-TVBS綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pathid=1
-三立綜合 Sanli Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0
-三立臺灣 Sanli Taiwan_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=1
-三立臺灣 Sanli Taiwan_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=2
-三立臺灣 Sanli Taiwan_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=0
-三立臺灣台_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=24&pathid=1
-三立都會臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0
-中天亞洲臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=1
-中天亞洲臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0
-中天娛樂 CTI Entertaiment_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0
-中天娛樂臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=1
-中天綜合 CTI Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165077&pathid=0
-中天綜合臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=0
-八大第一 GTV First_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165089&pathid=0
-八大綜合 GTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165090&pathid=0
-DMAX_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
-MTV Live_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
-MTV Live_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
-大愛1臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165112&pathid=0
-好消息 2_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=1
-好消息 2_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=0
-
-衛視中文臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=2
-衛視中文臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=0
-阿里郎 Arirang_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=1
-阿里郎 Arirang_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=0
-靖天國際臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165119&pathid=0
-龍華經典臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165116&pathid=0
-
-四台,#genre#
-parse=1
-ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-中視 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165082&pathid=0
-中視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=1
-中視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=0
-公視 CTV_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165088&pathid=0
-公視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=1
-公視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=0
-民視 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165084&pathid=0
-民視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=1
-民視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=0
-民視臺灣台_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165086&pathid=0
-臺視 TTV HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165079&pathid=0
-臺視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=1
-臺視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=0
-臺視綜合臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165081&pathid=0
-華視 CTS HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165087&pathid=0
-華視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=1
-華視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=0
-
-
-新聞,#genre#
-parse=1
-ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 BBC News_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490579&pathid=0
 CNN_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490578&pathid=0
 TVBS News 新聞臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165072&pathid=0
 TVBS新聞臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pathid=1
 三立新聞臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=26&pathid=0
 中天新聞 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0
+中天新聞臺_1-YH,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=0
 中天新聞臺_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=2
 中天新聞臺_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=3
-中天新聞臺_1-YH,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=0
 中視新聞臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165083&pathid=0
 壹電視新聞臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=34&pathid=1
-寰宇新聞2臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=84&pathid=1
 寰宇新聞2臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=84&pathid=0
+寰宇新聞2臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=84&pathid=1
 寰宇新聞臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165111&pathid=0
 寰宇新聞臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=85&pathid=0
 寰宇新聞臺_TVATW-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=85&pathid=1
 寰宇財經_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165110&pathid=0
-年代新聞_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=1
 年代新聞_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=0
+年代新聞_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=1
 年代新聞臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=7&pathid=0
 東森新聞 ETTV News_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165103&pathid=0
 東森新聞臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=33&pathid=1
@@ -100,20 +36,20 @@ TVBS新聞臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pa
 體育,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-AXN Taiwan_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165097&pathid=0
+
 Fight Sports_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=260165337&pathid=1
 NBA TV  sp_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=653&pathid=1
-博斯無限_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165141&pathid=1
 博斯無限_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165141&pathid=0
+博斯無限_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165141&pathid=1
 博斯網球 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165140&pathid=0
+博斯運動 1_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=0
 博斯運動 1_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=1
 博斯運動 1_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=2
-博斯運動 1_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=0
 博斯高球2 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165139&pathid=0
 愛爾達體育1臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=260165352&pathid=0
 愛爾達體育2臺_高清,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=260165353&pathid=0
-緯來體育_US-TVA,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=726&pathid=3
 緯來體育_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=726&pathid=0
+緯來體育_US-TVA,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=726&pathid=3
 緯來體育臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=0
 緯來體育臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=1
 緯來體育臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=2
@@ -121,15 +57,55 @@ NBA TV  sp_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=4&id=653&path
 緯來體育臺_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=3
 緯來體育臺_英文解說,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=0
 
+綜合台1,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+TVBS HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0
+TVBS 歡樂臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165073&pathid=0
+TVBS歡樂臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=0
+TVBS綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pathid=1
+三立綜合 Sanli Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0
+中天綜合 CTI Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165077&pathid=0
+中天綜合臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=0
+八大綜合 GTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165090&pathid=0
+愛爾達綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
+愛爾達綜合臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
+東森綜合 ETTV Metro_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
+東森綜合臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
+緯來日本臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+緯來日本臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
+臺視綜合臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165081&pathid=0
+
+綜合台2,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+三立臺灣 Sanli Taiwan_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=0
+三立臺灣 Sanli Taiwan_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=1
+三立臺灣 Sanli Taiwan_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=2
+三立臺灣臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=24&pathid=1
+三立都會臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0
+中天亞洲臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0
+中天亞洲臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=1
+中天娛樂 CTI Entertaiment_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0
+中天娛樂臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=1
+八大第一 GTV First_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165089&pathid=0
+民視臺灣臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165086&pathid=0
+衛視中文臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=0
+衛視中文臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=2
+靖天國際臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165119&pathid=0
+龍華經典臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165116&pathid=0
 
 電影,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+AXN Taiwan_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165097&pathid=0
 CINEMAX_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165096&pathid=0
 CatchPlay 電影臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165098&pathid=0
-HBO Family_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=1
 HBO Family_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=0
+HBO Family_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=1
 HBO HD_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490570&pathid=1
 HBO HD_TVATW,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490570&pathid=0
 HBO Hits_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490571&pathid=0
@@ -138,32 +114,33 @@ HBO_HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165093&p
 HBO_HITS_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165094&pathid=0
 Hollywood Movies_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165095&pathid=0
 天映電影臺_高清1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=15&pathid=0
-星衛電影_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165149&pathid=1
 星衛電影_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165149&pathid=0
+星衛電影_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165149&pathid=1
 東森洋片 ETTV Western_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165105&pathid=0
-東森洋片臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=2
 東森洋片臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=0
 東森洋片臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=1
+東森洋片臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=2
 東森電影 ETTV Movie_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165104&pathid=0
 東森電影臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=29&pathid=1
-緯來電影臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=1
 緯來電影臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=0
-美亞電影_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=2
+緯來電影臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=1
 美亞電影_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=0
-衛視中文臺 Star Movies Chinese_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165143&pathid=1
+美亞電影_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=2
 衛視中文臺 Star Movies Chinese_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165143&pathid=0
+衛視中文臺 Star Movies Chinese_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165143&pathid=1
 龍祥時代電影臺_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=13&pathid=0
-龍華洋片 Lunghua Western_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165130&pathid=1
 龍華洋片 Lunghua Western_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165130&pathid=0
+龍華洋片 Lunghua Western_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165130&pathid=1
 龍華電影 Lunghua Movie_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165118&pathid=0
-龍詳時代_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165134&pathid=1
 龍詳時代_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165134&pathid=0
+龍詳時代_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165134&pathid=1
 
 戲劇,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-EYETV 戲劇_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165146&pathid=1
+
 EYETV 戲劇_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165146&pathid=0
+EYETV 戲劇_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165146&pathid=1
 八大戲劇 GTV Drama_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165091&pathid=0
 愛爾達影劇_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=0
 愛爾達影劇_高清,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=1
@@ -171,30 +148,68 @@ EYETV 戲劇_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=26016
 龍華偶像_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165117&pathid=0
 龍華戲劇臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165115&pathid=0
 
+四台,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+中視 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165082&pathid=0
+中視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=0
+中視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=1
+公視 CTV_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165088&pathid=0
+公視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=0
+公視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=1
+民視 HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165084&pathid=0
+民視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=0
+民視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=1
+臺視 TTV HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165079&pathid=0
+臺視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=0
+臺視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=1
+華視 CTS HD_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165087&pathid=0
+華視_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=0
+華視_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=1
+
 兒童,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-東森幼幼 Yoyo TV_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=2
-東森幼幼 Yoyo TV_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=0
-靖天卡通臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=1
-靖天卡通臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=0
 
-旅遊探索,#genre#
+東森幼幼 Yoyo TV_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=0
+東森幼幼 Yoyo TV_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=2
+靖天卡通臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=0
+靖天卡通臺_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=1
+
+音樂旅遊生活,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
-AFC 亞洲旅遊臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=2
+
 AFC 亞洲旅遊臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=0
+AFC 亞洲旅遊臺_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=2
+EYETV 旅遊_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=0
+EYETV 旅遊_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=1
+MTV Live_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
+MTV Live_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
+亞洲旅遊 TLC Asia_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=0
+亞洲旅遊 TLC Asia_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=1
+亞洲美食_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165131&pathid=1
+美食星球_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=0
+美食星球_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=1
+
+探索,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+DMAX_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
 Discovery Asia_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490573&pathid=0
 Discovery Channel_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490574&pathid=1
 Discovery Channel_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490574&pathid=0
 Discovery Science_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490575&pathid=1
 Discovery Science_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490575&pathid=0
-EYETV 旅遊_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=1
-EYETV 旅遊_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=0
-亞洲旅遊 TLC Asia_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=1
-亞洲旅遊 TLC Asia_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=0
-亞洲美食_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165131&pathid=1
-美食星球_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=1
-美食星球_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=0
 
+others,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
 
+大愛1臺_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165112&pathid=0
+好消息 2_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=0
+好消息 2_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=1
+阿里郎 Arirang_-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=0
+阿里郎 Arirang_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=1
