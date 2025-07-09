@@ -10,6 +10,8 @@
 {"name":"test2.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test2.txt"}, 
 {"name":"test3.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test3.txt"}, 
 {"name":"teststream.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/teststream.txt"}, 
+{"name":"0709web.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0709web.txt"}, 
+
 	  
 {"name": "AKTV", "type": 0, "url": "http://aktv.space/live.m3u", "ua": "okhttp/3.15", "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"},
 {"name": "LITV 云梯", "type": 3, "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py", "ext": {}},
