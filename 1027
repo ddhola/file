@@ -25,7 +25,7 @@ TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 綜藝大熱門,https://www.youtube.com/watch?v=cpsP1wd-HgM
 台視時光,https://www.youtube.com/watch?v=MEdYt10b2mc
 
-體育1,#genre#
+
 新聞台,#genre#
 [BD]非凡商業,https://stream1.freetv.fun/feeea54aee4babd5576a3335944868d30a30a36b9a6a979f0c1033e89272e661.m3u8
 [BD]非凡新聞,https://stream1.freetv.fun/ad6f3a50eba51010af725b291c5940200927ccfbcabb8cad951714ad6c17a52b.m3u8
@@ -38,7 +38,7 @@ TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://122.117.71.103:8664/非凡新闻.m3u8
 非凡新聞,http://nbtmxdhw.hk3.xyyun.publicvm.com/smt.php?id=feifannews_twn
 非凡新聞頻道,http://122.117.71.103:8664/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.m3u8
-體育,#genre#
+體育1,#genre#
 [BD]緯來體育 *wj,https://stream1.freetv.fun/70e72b12687f2e217c691f117268eba4335bf281933d621d2497ec79c01a6c98.ctv
 愛爾達體育1臺,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8854/live1077.m3u8
 
@@ -67,7 +67,7 @@ TVBSNEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 [BD]緯來日本 *wj,https://stream1.freetv.fun/c7464f902b876c4ad3922bdac39c8465bb3183ba22678c7c09612f010280cafc.ctv
 [BD]緯來綜合,https://stream1.freetv.fun/71fe8e564372cb5ac80aad29fefa4535f0c9d0d60e5a59a51bc527a3461e258f.m3u8
-[BD]緯來育樂,https://stream1.freetv.fun/cb26bc36c9fba761238b8b35cf6a7b1d215e834e5e952867bd83b6db2fa049fb.ctv
+
 緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
 緯來日本頻道,http://122.117.71.103:8681/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.m3u8
 緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
