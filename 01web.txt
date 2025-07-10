@@ -1,6 +1,5 @@
 新聞台,#genre#
-TVBS News,https://stream1.freetv.fun/5325e5d7ff0449ec19c4c62689170c6410bdfb91394e5b684a473f1633d19252.m3u8
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+
 TVBS新聞,http://122.117.71.103:8662/TVBS新闻.m3u8
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
