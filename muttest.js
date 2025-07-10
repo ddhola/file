@@ -22,6 +22,29 @@
 {"name":"xcar","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcar"},	
 {"name":"xch2406.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xch2406.txt"},	
 {"name":"xcollect.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcollect.txt"},	
+
+{
+    "name" : "🥈 晴天 Mitv",
+    "type" : 3,
+    "url" : "http://go8.work.gd/i/?T=晴天",
+    "ua" : "okhttp/3.15",
+    "epg" : "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo" : "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+    "catchup" : {
+      "type" : "append",
+      "source" : "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",
+      "ext" : {
+        "proxy" : {
+          "http" : "${PROXY_HTTP_URL}",
+          "https" : "${PROXY_HTTPS_URL}"
+        }
+      }
+    }
+  },
+
+
+
+    
 {"name":"xheyzo","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xheyzo"}
 
 
