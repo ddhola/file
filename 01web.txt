@@ -19,7 +19,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 三立iNEWS-2,http://robyang.serv00.net/ublive.php?id=6
 三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 三立新聞,http://122.117.71.103:8683/三立新闻.m3u8
-三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新聞,http://robyang.serv00.net/ublive.php?id=43
 三立新聞-2,http://robyang.serv00.net/ublive.php?id=2794
 三立新聞[geo-blocked],https://stream1.freetv.fun/103cd30c02d26d164666911be0e4abda2a1cd5d8ef4c1592d45b2427e75961dc.ctv
@@ -66,7 +65,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 壹新聞,http://122.117.71.103:8686/http/61.222.53.250%3A8081/hls/66/808/ch24.m3u8
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20%3A8081/hls/66/808/ch24.m3u8
-壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
@@ -90,7 +88,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 年代新聞,http://122.117.71.103:8659/年代新闻.m3u8
 年代新聞,http://122.117.71.103:8659/http/61.222.53.250%3A8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:8538/http/61.219.99.20%3A8081/hls/67/809/ch27.m3u8
-年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
 年代新聞,http://robyang.serv00.net/ublive.php?id=2719
 年代新聞-備,http://robyang.serv00.net/ublive.php?id=1099
 年代新聞HD,https://stream1.freetv.fun/dd9e185637bacd1fff5f9967a39843126110775980676e24a609b2709723d44e.ctv
@@ -100,7 +97,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 東森新聞,http://122.117.71.103:8660/东森新闻.m3u8
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-東森新聞,http://108.181.20.197/livehttpplay?channel_id=20082
 東森新聞(VPN),http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 東森新聞4,http://robyang.serv00.net/ublive.php?id=2766
 東森新聞HD,http://122.117.71.103:8660/http/61.222.53.250:8081/hls/63/805/ch10.m3u8
@@ -115,7 +111,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 東森美洲新聞,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
 東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森財經,http://122.117.71.103:8684/东森财经.m3u8
-東森財經,http://108.181.20.197/livehttpplay?channel_id=20078
 東森財經HD,http://122.117.71.103:8684/http/61.222.53.250:8081/hls/63/805/ch11.m3u8
 東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 東森財經HD,http://122.117.71.103:8684/http/61.222.53.250%3A8081/hls/63/805/ch11.m3u8
@@ -132,7 +127,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-民視新聞,http://108.181.20.197/livehttpplay?channel_id=20097
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 民視新聞 HD,https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4151881afb36.ctv
@@ -162,7 +156,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 臺視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
 臺視財經,http://robyang.serv00.net/ublive.php?id=300
 華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
-華視新聞,http://108.181.20.197/livehttpplay?channel_id=20086
 鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
 鏡電視新聞臺,http://122.117.71.103:8697/http/61.222.53.250%3A8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡電視新聞臺,http://211.23.114.106:8545/http/61.219.99.20%3A8092/upload/114/MNEWS_TS-1111_1.m3u8
@@ -185,7 +178,6 @@ tvbs新聞頻道,http://122.117.71.103:8662/tvbs%E6%96%B0%E9%97%BB.m3u8
 非凡新聞,http://122.117.71.103:8664/非凡新闻.m3u8
 非凡新聞,http://122.117.71.103:8664/http/61.222.53.250%3A8081/hls/75/817/ch57.m3u8
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
 非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
 非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20%3A8081/hls/75/817/ch57.m3u8
 非凡新聞HD,https://stream1.freetv.fun/4ff71ea33ebd4af9767ebcbac05330b089b8ccd4a9ccb12a0a0bde31b6dc19b5.ctv
@@ -220,8 +212,6 @@ ELTA體育1,http://robyang.serv00.net/ublive.php?id=2729
 ELTA體育3(備用),https://stream1.freetv.fun/b9a2e767d016105572cd8746a02687121eff29c306eeb922ff2feab8b7286e4c.m3u8
 ELTA體育4(備用),https://stream1.freetv.fun/5f56fd510fa5a452dee263ca849faea760869a16bb26588a171ff364f1854384.m3u8
 ELTA體育4(備用),https://stream1.freetv.fun/1a8af234f3f251464bf680633e348eb6d051897aa1bede24cd85425aa9cbe46f.m3u8
-ELTA體育一,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA體育二,http://108.181.20.197/livehttpplay?channel_id=20107
 sky sports main event,http://robyang.serv00.net/ublive.php?id=2787
 TRACE SPORT STARS,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Trace Sport Stars,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
@@ -240,7 +230,6 @@ TRACE SPORTS STARS,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 博斯無限2,http://robyang.serv00.net/ublive.php?id=426
 博斯網球,http://robyang.serv00.net/ublive.php?id=498
 博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn09
-博斯運動,http://108.181.20.197/livehttpplay?channel_id=10131
 博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07
 博斯運動1,http://robyang.serv00.net/ublive.php?id=379
 博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn08
@@ -261,7 +250,6 @@ TRACE SPORTS STARS,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
 緯來體育,https://stream1.freetv.fun/70e72b12687f2e217c691f117268eba4335bf281933d621d2497ec79c01a6c98.ctv
-緯來體育,http://108.181.20.197/livehttpplay?channel_id=20120
 緯來體育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 緯來體育,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
@@ -315,7 +303,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 TVBS歡樂,http://122.117.71.103:8654/TVBS欢乐.m3u8
-TVBS歡樂,http://108.181.20.197/livehttpplay?channel_id=20105
 TVBS歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
 TVBS歡樂,http://robyang.serv00.net/ublive.php?id=40
 TVBS歡樂HD,http://122.117.71.103:8654/http/61.222.53.250:8081/hls/65/807/ch17.m3u8
@@ -328,7 +315,6 @@ TVBS歡樂臺,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
 TVBS歡樂臺HD,https://stream1.freetv.fun/7a344b793a07ba3b6318f23ae8bb2c5e8cd4bb7f0de8a62ceb826e9d805a18af.ctv
 tvbs歡樂頻道,http://122.117.71.103:8654/tvbs欢乐.m3u8
 tvbs歡樂頻道,http://122.117.71.103:8654/tvbs%E6%AC%A2%E4%B9%90.m3u8
-TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
 TVBS精采,http://robyang.serv00.net/ublive.php?id=66
 tvbs閩南頻道,http://122.117.71.103:8663/tvbs闽南.m3u8
@@ -352,7 +338,6 @@ tvbs閩南頻道,http://122.117.71.103:8663/tvbs%E9%97%BD%E5%8D%97.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大綜合,https://stream1.freetv.fun/0aebf7d844cf798dde01f3a1789c8a3c24a6677f41ae3bb4ea61d39101f2598a.ctv
 八大綜合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
-八大綜合,http://108.181.20.197/livehttpplay?channel_id=20068
 八大綜合,http://robyang.serv00.net/ublive.php?id=2286
 八大綜合,http://robyang.serv00.net/ublive.php?id=3258
 八大綜合HD,http://122.117.71.103:8640/http/61.222.53.250:8081/hls/66/808/ch21.m3u8
@@ -392,7 +377,6 @@ tvbs閩南頻道,http://122.117.71.103:8663/tvbs%E9%97%BD%E5%8D%97.m3u8
 民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
 緯來日本,http://122.117.71.103:8681/纬来日本.m3u8
 緯來日本,https://stream1.freetv.fun/c7464f902b876c4ad3922bdac39c8465bb3183ba22678c7c09612f010280cafc.ctv
-緯來日本,http://108.181.20.197/livehttpplay?channel_id=20303
 緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
 緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
@@ -453,7 +437,6 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382
 三立臺灣臺,https://stream1.freetv.fun/f22f1b53466e7701ff457299610744b0e709b98386a4f304fee647d12181aaf3.ctv
 三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
 三立都會,http://122.117.71.103:8644/三立都会.m3u8
-三立都會,http://108.181.20.197/livehttpplay?channel_id=20100
 三立都會,http://robyang.serv00.net/ublive.php?id=1001
 三立都會,http://robyang.serv00.net/ublive.php?id=38
 三立都會HD,http://122.117.71.103:8644/http/61.222.53.250:8081/hls/65/807/ch19.m3u8
@@ -470,7 +453,6 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382
 中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
 中天娛樂,http://122.117.71.103:8649/中天娱乐.m3u8
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-中天娛樂,http://108.181.20.197/livehttpplay?channel_id=20079
 中天娛樂HD,http://122.117.71.103:8649/http/61.222.53.250:8081/hls/67/809/ch26.m3u8
 中天娛樂HD,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 中天娛樂HD,http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
@@ -485,7 +467,6 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382
 中視經典,http://robyang.serv00.net/ublive.php?id=185
 中視菁採,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
 中視菁採,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8512/live1145.m3u8
-八大娛樂,http://108.181.20.197/livehttpplay?channel_id=20071
 八大娛樂,http://robyang.serv00.net/ublive.php?id=105
 八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
 八大第一,http://122.117.71.103:8639/八大第一.m3u8
@@ -500,9 +481,7 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382
 八大第一HD,http://220.134.196.147:8505/http/61.219.99.20%3A8081/hls/66/808/ch22.m3u8
 八大第一頻道,http://122.117.71.103:8639/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.m3u8
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
-八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052
 八大精彩,http://robyang.serv00.net/ublive.php?id=1024
-天映經典,http://108.181.20.197/livehttpplay?channel_id=20063
 天映經典,http://bx.757888.xyz/api.php?id=tyjd
 天映經典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0bR44M&tk=ubY7XqjFrKz1
 天映經典,http://robyang.serv00.net/ublive.php?id=2289
@@ -529,7 +508,6 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法國時尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法國時尚,https://stream1.freetv.fun/e007d8373848e8163a7e31e2efaf118ca5dec3c7accf19f82520b035b6b81156.m3u8
-緯來娛樂,http://108.181.20.197/livehttpplay?channel_id=20202
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來精彩,http://robyang.serv00.net/ublive.php?id=2280
 豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006
@@ -635,12 +613,8 @@ HBO Signature FHD,http://robyang.serv00.net/ublive.php?id=2987
 HBO Signature HD,http://robyang.serv00.net/ublive.php?id=2981
 HBO Signature SD,http://robyang.serv00.net/ublive.php?id=2995
 HBO XTREME SD,https://stream1.freetv.fun/295f7f357d79d7301fb132a6c65f2b475014a6e374cf3eaed96e64e9de51601d.m3u8
-HBOFAMILY,http://108.181.20.197/livehttpplay?channel_id=20092
-HBOHITS,http://108.181.20.197/livehttpplay?channel_id=20091
 HBOSignature,http://robyang.serv00.net/ublive.php?id=2824
 HBOSignature,http://robyang.serv00.net/ublive.php?id=329
-HBO一,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO二,http://108.181.20.197/livehttpplay?channel_id=20314
 HBO原創,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8543/live1195.m3u8
 HBO家庭,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8541/live1193.m3u8
 HITS,http://robyang.serv00.net/ublive.php?id=2972
@@ -649,7 +623,6 @@ Hits Movies,http://robyang.serv00.net/ublive.php?id=2985
 Hits Movies HD,http://robyang.serv00.net/ublive.php?id=2974
 好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
 好萊塢電影,https://stream1.freetv.fun/3ce2428ab3270688e7652a95066b502388bf8c0631a5b2c77cfe2cf292d72d99.ctv
-好萊塢電影,http://108.181.20.197/livehttpplay?channel_id=20062
 好萊塢電影,http://robyang.serv00.net/ublive.php?id=37
 好萊塢電影HD,http://122.117.71.103:8689/http/61.222.53.250:8081/hls/74/816/ch55.m3u8
 好萊塢電影HD,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
@@ -661,7 +634,6 @@ Hits Movies HD,http://robyang.serv00.net/ublive.php?id=2974
 影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
 東森洋片,https://stream1.freetv.fun/04f7e9658bfd4bec3e7dbbfc9334d204a009fdc2e9ba1300591a4b541f90cdda.ctv
 東森洋片,https://stream1.freetv.fun/40182819ada1675d6aa2341754cf4b8667900416d74b96ee9d5ac4ee3579a5ac.m3u8
-東森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
 東森洋片,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8539/live1191.m3u8
 東森洋片,http://robyang.serv00.net/ublive.php?id=1128
 東森洋片[geo-blocked],https://stream1.freetv.fun/3a70db5e300010238343b5c177f3de936f8e86a9907984f8874f1f508438d505.ctv
@@ -682,7 +654,6 @@ Hits Movies HD,http://robyang.serv00.net/ublive.php?id=2974
 緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
 緯來電影,http://122.117.71.103:8666/纬来电影.m3u8
 緯來電影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
-緯來電影,http://108.181.20.197/livehttpplay?channel_id=20199
 緯來電影HD,http://122.117.71.103:8666/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
 緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
@@ -691,7 +662,6 @@ Hits Movies HD,http://robyang.serv00.net/ublive.php?id=2974
 緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20%3A8081/hls/69/811/ch35.m3u8
 緯來電影臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OBMaOf&tk=ubY7XqjFrKz1
 緯來電影頻道,http://122.117.71.103:8666/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1.m3u8
-美亞電影,http://108.181.20.197/livehttpplay?channel_id=20197
 美亞電影,http://bx.757888.xyz/api.php?id=meiya
 美亞電影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
@@ -711,7 +681,6 @@ Hits Movies HD,http://robyang.serv00.net/ublive.php?id=2974
 靖天映畫[geo-blocked],https://stream1.freetv.fun/1cc9d2ae97a2f6791bfc3a810958fbe3f7104c52fe61d683a7ee93e31f73ec29.ctv
 靖天映畫[geo-blocked],https://stream1.freetv.fun/f3c524f7a6ef368857366382381c8842963250c027d9ca04f82bbc967f232564.ctv
 靖天電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
-龍祥電影,http://108.181.20.197/livehttpplay?channel_id=20114
 龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
 龍華洋片,http://robyang.serv00.net/ublive.php?id=341
 龍華洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
@@ -768,7 +737,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 緯來戲劇,http://122.117.71.103:8655/http/61.222.53.250%3A8081/hls/69/811/ch33.m3u8
 緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20%3A8081/hls/69/811/ch33.m3u8
 緯來戲劇,http://220.134.196.147:8504/http/61.219.99.20%3A8081/hls/69/811/ch33.m3u8
-緯來戲劇,http://108.181.20.197/livehttpplay?channel_id=20200
 緯來戲劇頻道,http://122.117.71.103:8655/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7.m3u8
 臺灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22
 靖天戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
@@ -779,7 +747,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龍華偶像,https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8
 龍華偶像,https://stream1.freetv.fun/806d3e90e7efa7a1eb1b25d0bdcb9b88671eed5983935c6586c6cb9d95bcf299.ctv
-龍華偶像,http://108.181.20.197/livehttpplay?channel_id=20023
 龍華偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
 龍華偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=inC2eh&tk=ubY7XqjFrKz1
 龍華偶像劇,http://122.117.71.103:8680/http/61.222.53.250:8068/hls/11/80/cstv11.m3u8
@@ -804,7 +771,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 龍華日韓,http://122.117.71.103:8657/龙华日韩.m3u8
 龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龍華日韓,https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.m3u8
-龍華日韓,http://108.181.20.197/livehttpplay?channel_id=20081
 龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
 龍華日韓,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kRo86J&tk=ubY7XqjFrKz1
 龍華日韓劇,http://122.117.71.103:8657/http/61.222.53.250:8068/hls/12/80/cstv12.m3u8
@@ -818,7 +784,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 中視,http://61.221.81.93:8512/http/192.168.1.9:8088/hls/72/814/ch47.m3u8
 中視,http://122.117.71.103:8630/中视闽南.m3u8
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
-中視,http://108.181.20.197/livehttpplay?channel_id=20088
 中視,http://robyang.serv00.net/ublive.php?id=1041
 中視,http://robyang.serv00.net/ublive.php?id=333
 中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
@@ -839,7 +804,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 公視,http://122.117.71.103:8624/http/61.222.53.250%3A8081/hls/87/80/Pts4max.m3u8
 公視,http://211.23.114.106:8550/http/61.219.99.20%3A8081/hls/87/80/Pts4max.m3u8
 公視,http://220.134.196.147:8554/http/61.219.99.20%3A8081/hls/87/80/Pts4max.m3u8
-公視,http://108.181.20.197/livehttpplay?channel_id=20087
 公視,http://robyang.serv00.net/ublive.php?id=86
 公視3臺,http://robyang.serv00.net/ublive.php?id=1340
 公視HD,https://stream1.freetv.fun/50504625b1e93d6cad75e67ccb0e7628d6daa49f89ad51d865b2a8a454a6341b.ctv
@@ -849,7 +813,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 民視,https://stream1.freetv.fun/b075d8c2233a0f204f77aae2d3794b04b8959c740d0518df61c48d4a903c869d.m3u8
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
-民視,http://108.181.20.197/livehttpplay?channel_id=20074
 民視,http://robyang.serv00.net/ublive.php?id=2805
 民視,http://robyang.serv00.net/ublive.php?id=336
 民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
@@ -866,7 +829,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 民視閩南頻道,http://122.117.71.103:8623/%E6%B0%91%E8%A7%86%E9%97%BD%E5%8D%97.m3u8
 臺視,http://61.221.81.93:8511/http/192.168.1.9:8088/hls/72/814/ch46.m3u8
 臺視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
-臺視,http://108.181.20.197/livehttpplay?channel_id=20076
 臺視,http://robyang.serv00.net/ublive.php?id=312
 臺視,http://robyang.serv00.net/ublive.php?id=326
 臺視HD,http://220.134.196.147:9110/http/61.219.99.20%3A8081/hls/86/80/Ttv4max.m3u8
@@ -886,7 +848,6 @@ EYE戲劇,http://robyang.serv00.net/ublive.php?id=191
 華視HD,https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
 華視閩南頻道,http://122.117.71.103:8622/%E5%8D%8E%E8%A7%86%E9%97%BD%E5%8D%97.m3u8
 兒童,#genre#
-CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://robyang.serv00.net/ublive.php?id=107
 CN卡通頻道,https://stream1.freetv.fun/f8b321c284e9ec66d1794afccddcdd821316cd7aef3e3982035aa402d9d0dbf7.ctv
@@ -914,7 +875,6 @@ nicktoons,http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 NICKTOONS WEST,https://stream1.freetv.fun/b9fa442e10f9677c63b4ea0fc52723c49d8c18b3c7247eaa218fe57e9a437a01.ctv
 NICKTOONS 動畫,http://143.244.60.30/NICKTOONS/index.m3u8
 ช่อง NICK JR.,https://stream1.freetv.fun/83f09b7bb952cad04677b37afc70f1871161f885c12e157b349d2d43381b5499.ctv
-尼克動畫,http://108.181.20.197/livehttpplay?channel_id=20089
 東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://122.117.71.103:8636/东森幼幼.m3u8
 東森幼幼,http://robyang.serv00.net/ublive.php?id=2771
@@ -1108,7 +1068,6 @@ Travel chan,http://robyang.serv00.net/ublive.php?id=1515
 動物星球頻道,http://122.117.71.103:8633/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.m3u8
 動物頻道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 國家地理,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
-國家地理,http://108.181.20.197/livehttpplay?channel_id=20037
 國家地理,https://stream1.freetv.fun/cdd18a1698bbf850295c66e5d7e324b24d24c74d6a691504075fd91588ea59ae.m3u8
 國家地理 WILD,https://stream1.freetv.fun/8b0fa408f33bdae904c641e693a018e3188f362deb4b7aa665c456b4fc2bfb54.m3u8
 國家地理頻道,https://stream1.freetv.fun/2ae2ce87bc381346958247cdea9b4f7d4a24ea0f25512de6cb644aa75e10219e.ctv
@@ -1184,7 +1143,6 @@ TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 好消息臺頻道,http://122.117.71.103:8625/好消息台.m3u8
 客家電視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv043
 客家電視,http://robyang.serv00.net/ublive.php?id=76
-採昌,http://108.181.20.197/livehttpplay?channel_id=20141
 生命電視,https://stream1.freetv.fun/869ac68f1d5bc820aa2246e9a8b91518946d7f6d8165d59e32c730ae4033d8f6.m3u8
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 美亞C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
