@@ -258,6 +258,9 @@ TRACE SPORTS STARS,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187%3A8081/hls/67/809/ch28.m3u8
 緯來體育HD,http://122.117.71.103:8692/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
 綜合台1,#genre#
+
+國興衛視,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+
 momo 綜合臺,http://122.117.71.103:8694/http/61.222.53.250%3A8081/hls/76/818/momo_max.m3u8
 momo 綜合臺,http://122.117.71.103:8694/http/61.222.53.250:8081/hls/76/818/momo_max.m3u8
 MoMo綜合臺,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
@@ -1066,7 +1069,6 @@ Travel chan,http://robyang.serv00.net/ublive.php?id=1515
 動物星球,http://robyang.serv00.net/ublive.php?id=367
 動物星球頻道,http://122.117.71.103:8633/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.m3u8
 動物頻道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-國家地理,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 國家地理,https://stream1.freetv.fun/cdd18a1698bbf850295c66e5d7e324b24d24c74d6a691504075fd91588ea59ae.m3u8
 國家地理 WILD,https://stream1.freetv.fun/8b0fa408f33bdae904c641e693a018e3188f362deb4b7aa665c456b4fc2bfb54.m3u8
 國家地理頻道,https://stream1.freetv.fun/2ae2ce87bc381346958247cdea9b4f7d4a24ea0f25512de6cb644aa75e10219e.ctv
