@@ -10,7 +10,6 @@
 {"name":"0606.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0606.txt"},	
 {"name":"0609test","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/0609test"},	
 {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},	
-{"name":"122","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/122.txt"},	
 {"name":"4g_breezy","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
 {"name":"bull","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/bull.txt"},	
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
