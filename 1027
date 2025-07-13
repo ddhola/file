@@ -878,8 +878,8 @@ NHK,http://211.23.95.147:18881/live/95_h265.ts
 海峽衛視,http://211.23.95.147:18881/live/105_h265.ts
 華藝BNC,http://211.23.95.147:18881/live/31_h265.ts
 
-4ggudy,#genre#
-新聞台,#genre#
+4ggudy新聞台,#genre#
+
 TVBS新聞,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
 中天新聞,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 中視新聞,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv074
