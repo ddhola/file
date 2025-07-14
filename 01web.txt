@@ -194,21 +194,18 @@ ELEVEN體育2,http://108.181.20.197/livehttpplay?channel_id=20107
 緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 綜合台1,#genre#
-GTV八大綜合臺HD,http://61.221.215.25:8800/hls/56/index.m3u8
-Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p),https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+
 momo綜合臺,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 Smart 知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
-Smart知識臺,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8?proxy=true
 Smart知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
 Smart知識臺,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8
+Smart知識臺,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8?proxy=true
 Smart知識臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
 TLC'綜合高碼,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
