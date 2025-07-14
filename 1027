@@ -36,9 +36,24 @@ momo綜合臺,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo
 
 國興衛視,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
+緯來日本頻道,http://122.117.71.103:8681/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.m3u8
+
+緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+緯來綜合HD,http://122.117.71.103:8638/http/61.222.53.250:8081/hls/68/810/ch32.m3u8
+緯來綜合頻道,http://122.117.71.103:8638/%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88.m3u8
+
 緯來育樂HD,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+[BD]緯來體育 *wj,https://stream1.freetv.fun/70e72b12687f2e217c691f117268eba4335bf281933d621d2497ec79c01a6c98.ctv
+緯來體育rtmp,rtmp://f13h.mine.nu:1935/sat/tv721
+緯來體育HD221,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育HD220,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
+DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 
 博斯運動一,http://211.23.114.106:8518/http/59.120.8.187:8068/hls/15/80/cstv15.m3u8
 博斯運動一,http://122.117.71.103:8693/http/61.222.53.250:8068/hls/15/80/cstv15.m3u8
@@ -46,35 +61,8 @@ momo綜合臺,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo
 博斯運動一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07
 博斯運動二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn08
 
-DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-
-
-
-緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
-緯來日本頻道,http://122.117.71.103:8681/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.m3u8
-緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
-緯來綜合HD,http://122.117.71.103:8638/http/61.222.53.250:8081/hls/68/810/ch32.m3u8
-緯來綜合頻道,http://122.117.71.103:8638/%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88.m3u8
-
-[BD]緯來體育 *wj,https://stream1.freetv.fun/70e72b12687f2e217c691f117268eba4335bf281933d621d2497ec79c01a6c98.ctv
-
-
-
-
-
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
-
-
-緯來體育rtmp,rtmp://f13h.mine.nu:1935/sat/tv721
-
-緯來體育HD221,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-緯來體育HD220,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-
-
 
 
 
