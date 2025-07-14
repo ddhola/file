@@ -1,8 +1,8 @@
 新聞台,#genre#
-TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
-TVBS新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv072/index.m3u8
-TVBS新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv072/index.m3u8?proxy=true
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+TVBS新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv072/index.m3u8?proxy=true
+TVBS新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv072/index.m3u8
+TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz2uzv1/f2ebd3ef52/index.m3u8
 TVBS新聞HD,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
@@ -12,10 +12,10 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 三立新聞海外直播,https://m.youtube.com/watch?v=hGJkDZDchYI
 三立新聞臺,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新聞臺灣直播,https://m.youtube.com/watch?v=MV9mI0GChwo
-中天新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv009/index.m3u8?proxy=true
-中天新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv009/index.m3u8
 中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
+中天新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv009/index.m3u8?proxy=true
+中天新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv009/index.m3u8
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
 中天新聞,http://jnzq.ohoyee.com:9080/live/fc.m3u8
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
@@ -32,24 +32,24 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 中視新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
+寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://jnzq.ohoyee.com:9080/live/hy.m3u8
 寰宇新聞,https://m.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新聞,http://live1.robyang.ggff.net:50009/li-litv-longturn14/index.m3u8
 寰宇新聞,http://live1.robyang.ggff.net:50009/li-litv-longturn14/index.m3u8?proxy=true
-寰宇新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/mxrsjhxp/index.m3u8
 寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/mxrsjhxp/index.m3u8
 寰宇新聞2,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fchcah3u/84zr1797/index.m3u8
 寰宇新聞灣臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv156/index.m3u8
 寰宇新聞灣臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
 寰宇新聞臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
 寰宇新聞臺,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn$IPV4•线路11
-寰宇新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
 寰宇新聞臺,http://live.iill.top/youtube/@globalnewstw/live
-寰宇新聞臺灣臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
 寰宇新聞臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
+寰宇新聞臺灣臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
 寰宇新聞臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
 寰宇財經,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv158/index.m3u8
 寰宇財經,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv158/index.m3u8?proxy=true
@@ -59,9 +59,9 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
 年代新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/67f088a8/index.m3u8
+東森新聞,https://m.youtube.com/watch?v=QNAETEbZbH0
 東森新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv152/index.m3u8?proxy=true
 東森新聞,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森新聞,https://m.youtube.com/watch?v=QNAETEbZbH0
 東森新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv152/index.m3u8
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
 東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
@@ -75,20 +75,20 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 東森財經新聞臺,http://108.181.20.197/livehttpplay?channel_id=20078
 東森財經新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
 東森財經新聞高清bak,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fchcah3u/1cj0fxmv/index.m3u8
-民視新聞,http://live1.robyang.ggff.net:50009/li-litv-ftv13/index.m3u8
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,https://m.youtube.com/watch?v=ylYJSBUgaMA
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
+民視新聞,http://live1.robyang.ggff.net:50009/li-litv-ftv13/index.m3u8
+民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://live1.robyang.ggff.net:50009/li-litv-ftv13/index.m3u8?proxy=true
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
 民視新聞,http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
+民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
 民視新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
 第1商業臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv104/index.m3u8?proxy=true
 第1商業臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv104/index.m3u8
@@ -96,19 +96,19 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 第1商業臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
 第1商業臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
 臺視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-臺視新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv051/index.m3u8?proxy=true
-臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-臺視新聞,http://jnzq.ohoyee.com:9080/live/ts.m3u8
 臺視新聞,http://222.128.55.152:9080/live/ts.m3u8
+臺視新聞,http://jnzq.ohoyee.com:9080/live/ts.m3u8
+臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+臺視新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv051/index.m3u8?proxy=true
 臺視新聞,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv051/index.m3u8
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-臺視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
 臺視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?
+臺視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
 臺視新聞,http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
 臺視新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
 臺視新聞臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/rmntpxs1/index.m3u8
@@ -129,49 +129,46 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 非凡商業,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/1b1653b5/index.m3u8
 非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
 非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
-非凡新聞,http://live1.robyang.ggff.net:50009/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
+非凡新聞,http://live1.robyang.ggff.net:50009/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新聞,http://live1.robyang.ggff.net:50009/4gtv-4gtv010/index.m3u8
-非凡新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/569f8eea/index.m3u8
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
+非凡新聞,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/569f8eea/index.m3u8
 非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
 體育,#genre#
-CBS Eleven Sports Network,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/a30aa3f4a2/index.m3u8
-CBS Eleven Sports Network,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz2uzv1/32531ceeeb/index.m3u8
-DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+
 DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-DAZN Darts x Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a562-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8196e267-fdcf-4f05-bb8e-8f1ec0e504ea
 DAZN Darts x Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=172fcc6d-73c3-48c9-86a8-04885a2af742
+DAZN Darts x Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a562-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8196e267-fdcf-4f05-bb8e-8f1ec0e504ea
 DAZN Heldinnen x Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a564-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df37b22-f6f1-45dd-9620-5945bfeea73a
 DAZN Heldinnen x Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69be0114-52dc-4eed-b6e7-c907f1b51e64
-Eleven Sport 2,http://robyang.serv00.net/ublive.php?id=301
 ELEVEN1體育,http://108.181.20.197/livehttpplay?channel_id=10104
 ELEVEN2體育,http://108.181.20.197/livehttpplay?channel_id=10105
 ELEVEN體育,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/svs9236c/index.m3u8
 ELEVEN體育2,http://108.181.20.197/livehttpplay?channel_id=20107
 ELEVEN體育2,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/d41d8cd9/index.m3u8
 ELTA體育HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fadh3ct5/xx8jfqc9/index.m3u8
-Inazuma Eleven,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=80879397-91d6-4d71-9c36-ad9f3ac25c0e
 博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
 博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn10
 博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn10
 博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn13
 博斯無限2,http://108.181.20.197/livehttpplay?channel_id=20311
 博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn13
-博斯無限I,http://live1.robyang.ggff.net:50009/litv-longturn10/index.m3u8?proxy=true
 博斯無限I,http://live1.robyang.ggff.net:50009/litv-longturn10/index.m3u8
-博斯無限II,http://live1.robyang.ggff.net:50009/litv-longturn13/index.m3u8?proxy=true
+博斯無限I,http://live1.robyang.ggff.net:50009/litv-longturn10/index.m3u8?proxy=true
 博斯無限II,http://live1.robyang.ggff.net:50009/litv-longturn13/index.m3u8
+博斯無限II,http://live1.robyang.ggff.net:50009/litv-longturn13/index.m3u8?proxy=true
 博斯網球,http://live1.robyang.ggff.net:50009/litv-longturn09/index.m3u8
 博斯網球,http://live1.robyang.ggff.net:50009/litv-longturn09/index.m3u8?proxy=true
 博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
 博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn09
 博斯網球高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/xvtbpnqp/index.m3u8
 博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn07
-博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07
 博斯運動1,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/sq7kwzwq/index.m3u8
+博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07
 博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn08
 博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn08
 博斯運動I,http://live1.robyang.ggff.net:50009/litv-longturn07/index.m3u8
@@ -186,13 +183,13 @@ Inazuma Eleven,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 博斯高球2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn06
 博斯高球I,http://live1.robyang.ggff.net:50009/litv-longturn05/index.m3u8
 博斯高球I,http://live1.robyang.ggff.net:50009/litv-longturn05/index.m3u8?proxy=true
-博斯高球II,http://live1.robyang.ggff.net:50009/litv-longturn06/index.m3u8?proxy=true
 博斯高球II,http://live1.robyang.ggff.net:50009/litv-longturn06/index.m3u8
+博斯高球II,http://live1.robyang.ggff.net:50009/litv-longturn06/index.m3u8?proxy=true
 博斯高球Ⅱ高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/p41p0chp/index.m3u8
 博斯高球一個,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/13k597n4/index.m3u8
 博斯魅力,http://live1.robyang.ggff.net:50009/litv-longturn04/index.m3u8
-博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn04
 博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
+博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn04
 博斯魅力,http://live1.robyang.ggff.net:50009/litv-longturn04/index.m3u8?proxy=true
 愛爾達體育1,http://108.181.20.197/livehttpplay?channel_id=20129
 愛爾達體育1,http://198.16.100.186:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
@@ -204,22 +201,22 @@ Inazuma Eleven,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 愛爾達體育4臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/w7tx0758/index.m3u8
 愛爾達體育4臺 345,http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 時尚運動X,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv014/index.m3u8?proxy=true
-時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
 時尚運動X,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv014/index.m3u8
+時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 智林體育,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv101/index.m3u8?proxy=true
-智林體育,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv101/index.m3u8
 智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
+智林體育,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv101/index.m3u8
 智林體育臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv101
-緯來體育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 緯來體育,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
-緯來體育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
+緯來體育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 緯來體育,http://108.181.20.197/livehttpplay?channel_id=20120
 緯來體育,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/spvjqjn9/index.m3u8
 緯來體育,http://fm1077.serv00.net/Smart.php?id=videolandsport
 緯來體育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 緯來體育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 緯來體育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+緯來體育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 緯來體育,http://live.catvod.com/smart.php?id=videolandsport$IPV4•线路14
 緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -232,25 +229,25 @@ momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_
 MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 Smart 知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
-Smart知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
 Smart知識臺,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8?proxy=true
 Smart知識臺,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8
 Smart知識臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+Smart知識臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
 TLC'綜合高碼,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-TVBS HD,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv073/index.m3u8?proxy=true
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+TVBS HD,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv073/index.m3u8?proxy=true
 TVBS HD,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv073/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8?$台湾中华电信1
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS-N HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/1b82cf55/index.m3u8
-TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
@@ -261,9 +258,9 @@ TVBS歡樂,http://108.181.20.197/livehttpplay?channel_id=20105
 TVBS歡樂HD,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 TVBS歡樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
-TVBS歡樂臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv068/index.m3u8?proxy=true
 TVBS歡樂臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv068/index.m3u8
 TVBS歡樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv068/index.m3u8?proxy=true
 tvbs歡樂高碼,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
 TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
 TVBS精采臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv067/index.m3u8?proxy=true
@@ -276,9 +273,9 @@ TVBS精采臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv067/index.m3u8
 八大綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=badazhonghe
 八大綜合HD,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
 八大綜藝,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv039/index.m3u8
 八大綜藝,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv039/index.m3u8?proxy=true
-八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
 八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv039
 國興衛視,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 國興衛視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/6zb3p58j/index.m3u8
@@ -316,16 +313,16 @@ TVBS精采臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv067/index.m3u8
 超視HD,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 超視HD,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 靖天日本,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv047/index.m3u8
-靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
 靖天日本,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv047/index.m3u8?proxy=true
+靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
 靖天日本臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv047
 靖天綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
 靖天綜合臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv046
+靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
 靖天育樂,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv062/index.m3u8?proxy=true
 靖天育樂,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv062/index.m3u8
-靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
-靖天育樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
 靖天育樂臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/fz0wwtjb/index.m3u8
+靖天育樂臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
 綜合台2,#genre#
 ELTA娛樂,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv070/index.m3u8
 ELTA娛樂,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv070/index.m3u8?proxy=true
@@ -338,8 +335,8 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 三立臺灣,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 三立臺灣,http://xn--94q.l5.ca/daili/Smartv.php?id=sanlitaiwan
 三立臺灣,https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8
-三立臺灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 三立臺灣HD,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立臺灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 三立都會HD,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 三立都會HD,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
@@ -359,10 +356,10 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 中視經典臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
 中視菁採,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
 中視菁採臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv064/index.m3u8?proxy=true
-中視菁採臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv064/index.m3u8
 中視菁採臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv064
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+中視菁採臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv064/index.m3u8
 八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://108.181.20.197/livehttpplay?channel_id=20073
 八大第一,https://pixman.mytvsuper.com.mp/Smart.php?id=badafirst
 八大第一HD,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
@@ -374,11 +371,11 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 尼克國際,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/381b3f8506/index.m3u8
 愛爾達娛樂臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2qB3Zi&tk=h6JwS3rCfB5E
 東森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8?
 東森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
 民視第一臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv003
 民視第一臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv003/index.m3u8
@@ -386,8 +383,8 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 民視臺灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
 民視臺灣/臺灣高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/bh0x57p4/index.m3u8
 民視臺灣臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv001/index.m3u8?proxy=true
-民視臺灣臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv001/index.m3u8
 民視臺灣臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
+民視臺灣臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv001/index.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 豬哥亮歌廳秀,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv006/index.m3u8?proxy=true
@@ -406,10 +403,9 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 靖天資訊,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv065/index.m3u8
 靖天資訊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
 靖天資訊臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv065
-韓國娛樂,http://61.221.215.25:8800/hls/51/index.m3u8
 韓國娛樂,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/8d666051/index.m3u8
-韓國娛樂臺,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
 韓國娛樂臺,http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+韓國娛樂臺,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
 龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 龍華經典,http://live1.robyang.ggff.net:50009/li-litv-longturn21/index.m3u8
 龍華經典,http://live1.robyang.ggff.net:50009/li-litv-longturn21/index.m3u8?proxy=true
@@ -431,8 +427,8 @@ amc 電影臺,http://104.244.79.187:5050/litv/4gtv-4gtv017
 amc電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
 amc電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
 AXN,http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
-AXN,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/q1t3r233/index.m3u8
 AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+AXN,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/q1t3r233/index.m3u8
 Black Cinema,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 CA HBO 2 (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57438
 CA: AMC,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57376
@@ -465,9 +461,9 @@ DanceHits80,http://dancehits80.denvs.ru:8080/index.m3u8
 Fresh Cinema HD,http://ott.watch/stream/E9LDH2ZCN7/423.m3u8
 Fresh Cinema HD,http://ott.watch/stream/D9YWLQJUKKF/423.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-HBO,http://125.227.210.55:8153/VideoInput/play.ts
-HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
 HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/e95cebf9/0651cf50/index.m3u8
 HBO,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/d8fd7a6e7e/index.m3u8
 HBO 2,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/c5cf278863/index.m3u8
@@ -502,8 +498,8 @@ Stories by AMC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 東森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
 東森洋片,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fadh3ct5/0kxhqv8q/index.m3u8
 東森洋片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WaDXR4&tk=uKIO4pLZKIiU
-東森電影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
 東森電影,http://bx.757888.xyz/api.php?id=dsdy
+東森電影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
 東森電影,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fchcah3u/q6t7f6hg/index.m3u8
 東森電影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=k0hFSn&tk=uKIO4pLZKIiU
 東森電影,http://fm1077.serv00.net/Smart.php?id=ettvmovie
@@ -514,11 +510,11 @@ Stories by AMC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 緯來電影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1
 緯來電影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1###WEB\\n
 緯來電影,http://live.catvod.com/smart.php?id=videolandmovie$IPV4•线路5
-緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
 緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
 靖天映畫,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天映畫,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv055/index.m3u8
-靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
 靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
 靖天電影,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv061/index.m3u8?proxy=true
 靖天電影,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv061/index.m3u8
@@ -529,20 +525,20 @@ Stories by AMC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 龍華洋片,http://live1.robyang.ggff.net:50009/li-litv-longturn02/index.m3u8?proxy=true
 龍華洋片,http://live1.robyang.ggff.net:50009/li-litv-longturn02/index.m3u8
 龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
-龍華洋片,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/a9a5de21/gs7wj4b5/index.m3u8
 龍華洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龍華洋片,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/a9a5de21/gs7wj4b5/index.m3u8
 龍華洋片臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn02
 龍華洋片臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
-龍華電影,http://live1.robyang.ggff.net:50009/li-litv-longturn03/index.m3u8?proxy=true
-龍華電影,http://live1.robyang.ggff.net:50009/li-litv-longturn03/index.m3u8
 龍華電影,http://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龍華電影,http://live1.robyang.ggff.net:50009/li-litv-longturn03/index.m3u8
+龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
+龍華電影,http://live1.robyang.ggff.net:50009/li-litv-longturn03/index.m3u8?proxy=true
 龍華電影,http://bx.757888.xyz/api.php?id=lhdy
 龍華電影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+龍華電影臺,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 龍華電影臺,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 龍華電影臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
-龍華電影臺,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 龍華電影臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
 龍華電影臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bxHYQO&tk=uKIO4pLZKIiU
 戲劇,#genre#
@@ -552,18 +548,18 @@ GTV八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戲劇,http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn
 八大戲劇HD,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
 八大戲劇HD,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
+公視戲劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv042/index.m3u8
 公視戲劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv042/index.m3u8?proxy=true
 公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
-公視戲劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv042/index.m3u8
-公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
 採昌影劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv049/index.m3u8?proxy=true
 採昌影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv049
 採昌影劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv049/index.m3u8
 採昌影劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv049
 東森戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama
 東森戲劇,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fchcah3u/g5n3j8kx/index.m3u8
-東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
 東森戲劇HD,http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
 民視影劇,http://live1.robyang.ggff.net:50009/li-litv-ftv09/index.m3u8?proxy=true
 民視影劇,http://live1.robyang.ggff.net:50009/li-litv-ftv09/index.m3u8
 民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
@@ -579,45 +575,44 @@ GTV八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 靖洋戲劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv045/index.m3u8
 靖洋戲劇,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv045/index.m3u8?proxy=true
 靖洋戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv045
-龍華偶像,http://live1.robyang.ggff.net:50009/li-litv-longturn12/index.m3u8?proxy=true
 龍華偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
+龍華偶像,http://live1.robyang.ggff.net:50009/li-litv-longturn12/index.m3u8?proxy=true
 龍華偶像,http://live1.robyang.ggff.net:50009/li-litv-longturn12/index.m3u8
-龍華偶像,http://198.16.100.186:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龍華偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龍華偶像劇,http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
 龍華偶像劇,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
 龍華偶像臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn12
 龍華偶像臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+龍華戲劇,http://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龍華戲劇,http://live1.robyang.ggff.net:50009/li-litv-longturn18/index.m3u8?proxy=true
 龍華戲劇,http://live1.robyang.ggff.net:50009/li-litv-longturn18/index.m3u8
 龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
-龍華戲劇,http://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龍華戲劇,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 龍華戲劇臺,http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
 龍華戲劇臺,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
-龍華戲劇臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
 龍華戲劇臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
+龍華戲劇臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龍華日韓,http://live1.robyang.ggff.net:50009/li-litv-longturn11/index.m3u8?proxy=true
 龍華日韓,http://live1.robyang.ggff.net:50009/li-litv-longturn11/index.m3u8
 龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
-龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龍華日韓,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-龍華日韓劇,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
 龍華日韓劇,http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
-龍華日韓臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
+龍華日韓劇,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
 龍華日韓臺,http://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龍華日韓臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
 龍華日韓臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
 龍華日韓臺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ItM0Ms&tk=uKIO4pLZKIiU
 四台,#genre#
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv040
 中視,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv040/index.m3u8?proxy=true
 中視,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv040/index.m3u8
-中視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/qx3hnnss/index.m3u8
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
-中視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/0757cc3d/index.m3u8
 中視,http://108.181.20.197/livehttpplay?channel_id=20088
+中視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/qx3hnnss/index.m3u8
+中視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/0757cc3d/index.m3u8
 中視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
 中視,http://37.27.111.214:8080/live/7/hls.m3u8
 中視,http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn$IPV4•线路24
@@ -632,23 +627,23 @@ GTV八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 公視臺語臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/8x1bt2hg/index.m3u8
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
 民視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/7c4f853f/index.m3u8
 民視,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan
 民視 345,http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
 民視HD,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
 民視HD,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
-民視旅遊,http://live1.robyang.ggff.net:50009/li-litv-ftv07/index.m3u8?proxy=true
 民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
 民視旅遊,http://live1.robyang.ggff.net:50009/li-litv-ftv07/index.m3u8
+民視旅遊,http://live1.robyang.ggff.net:50009/li-litv-ftv07/index.m3u8?proxy=true
 民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv07
 民視閩南高碼,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
 臺視,http://108.181.20.197/livehttpplay?channel_id=20076
 臺視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
-臺視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
 臺視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
+臺視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
 臺視 345,http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
 臺視 HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/c05pm3s2/index.m3u8
 臺視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
@@ -657,8 +652,8 @@ GTV八大戲劇HD,http://61.221.215.25:8800/hls/39/index.m3u8
 華視,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv041/index.m3u8?proxy=true
 華視,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv041/index.m3u8
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
-華視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
 華視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
 華視,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/hmrmw2mj/index.m3u8
 華視,http://fm1077.serv00.net/Smart.php?id=ctshd_twn$IPV4•线路22
 華視 345,http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
@@ -679,8 +674,8 @@ Nick Jr. East (720p),https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nick Music (480p),http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
 Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1166-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13c43849-7db8-4ef1-bfef-74e513441e1a
+Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
 Nick_Jr,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/tnv75740/index.m3u8
 Nickelodeon,http://185.189.225.150:85/nickelodeon/index.m3u8
 Nickelodeon,http://31.148.48.15/Nickelodeon/index.m3u8
@@ -690,9 +685,9 @@ NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/
 NickToons (720p),http://143.244.60.30/NICKTOONS/index.m3u8
 Nick少兒高碼,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
 Sky Store 預訂兒童版,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/eecc83b344/index.m3u8
-Teen Nick,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc866489-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f361083-c742-4292-ae56-5568ac6d34f2
 Teen Nick,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a971f40-be5f-4406-a0a6-b014ec38a8ce
 Teen Nick,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213443-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3bb546d1-de13-46e1-866b-96217817403c
+Teen Nick,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc866489-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f361083-c742-4292-ae56-5568ac6d34f2
 兒童動漫,http://ygbh.site/php/bfgd.php?id=293
 東森幼幼,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/fchcah3u/31t5z7bp/index.m3u8
 東森幼幼HD,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
@@ -704,22 +699,22 @@ Teen Nick,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/
 靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv044
 靖天卡通臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv044/index.m3u8?proxy=true
 靖天卡通臺,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv044/index.m3u8
-靖天卡通臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/188de90f/index.m3u8
 靖天卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv044
-靖洋卡通,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通臺,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/188de90f/index.m3u8
 靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057
+靖洋卡通,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv057/index.m3u8?proxy=true
 靖洋卡通,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv057/index.m3u8
 靖洋卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv057
 韓國EBS少兒童[640x360],http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 龍華卡通,http://live1.robyang.ggff.net:50009/li-litv-longturn01/index.m3u8
 龍華卡通,http://live1.robyang.ggff.net:50009/li-litv-longturn01/index.m3u8?proxy=true
-龍華卡通,http://198.16.100.186:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
 龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龍華卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
+龍華卡通,http://198.16.100.186:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
 龍華卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龍華卡通臺,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
-龍華卡通臺,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
 龍華卡通臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn01
+龍華卡通臺,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
 龍華卡通臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
 音樂旅遊生活,#genre#
 90年代MTV,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/0f7682a09f/index.m3u8
@@ -737,8 +732,8 @@ CromTV (480p),https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20
 ELTV生活英語臺,http://live1.robyang.ggff.net:50009/li-litv-longturn20/index.m3u8
 ELTV生活英語臺,http://live1.robyang.ggff.net:50009/li-litv-longturn20/index.m3u8?proxy=true
-ELTV生活英語臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
 ELTV生活英語臺,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+ELTV生活英語臺,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
 Food Network CEE HD,http://ott.watch/stream/E9LDH2ZCN7/298.m3u8
 Global News Peterborough,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfcd8c2db990007861e43/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd862a-254a-4ef1-bbcf-ee26c7a7a35b
 JapanimTV,https://foxkidstv.be:3369/stream/play.m3u8
@@ -754,9 +749,9 @@ MTV,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/a7939dbd/index.m3u
 MTV,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/ff658694f1/index.m3u8
 MTV Biggest Pop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
 MTV Biggest Pop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b601ebc-3043-4af9-9122-f211b82c8385
-MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c32-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e455fb2-5933-41b1-9dd6-9e67c05a465a
 MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
+MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c32-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e455fb2-5933-41b1-9dd6-9e67c05a465a
+MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b601ebc-3043-4af9-9122-f211b82c8385
 MTV Classic,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
 MTV Classic (360p),https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 MTV CLASSICS,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057887-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26866fb9-ab48-465b-85a8-8314ba7340fa
@@ -767,8 +762,8 @@ MTV LIVE高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/c87963c
 MTV Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
 MTV Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
 MTV Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277
-MTV Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84b6d4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66f1c813-a6b5-4763-bf2c-4a8cc5a4f859
 MTV Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea50-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91aa96f-4975-4e0e-ae56-4a7f2e2383b7
+MTV Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84b6d4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66f1c813-a6b5-4763-bf2c-4a8cc5a4f859
 MTV Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
 MTV Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
 MTV Reality,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f89fcfd661bb00081ba45c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f00-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=be8b1337-550f-4b0e-bf9b-d3dec2e64384
@@ -783,8 +778,8 @@ MTV Teen Mom,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/h
 MTV The Hills,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde1-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f12eecc-10fd-4246-8031-48c0d52e72ba
 MTV The Hills,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea56-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09cf5ffd-9ee2-4173-a0c0-7fcbc8a58514
 MTV The Shores,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde3-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ebf4a00-03a2-4884-b769-2f03ec98826a
-MTV The Shores,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
 MTV The Shores,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28
+MTV The Shores,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
 MTV2,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/ef308555be/index.m3u8
 MTV2 (720p),https://fl5.moveonjoy.com/MTV_2/index.m3u8
 MTV80年代,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/9dedb58476/index.m3u8
@@ -813,8 +808,8 @@ Xtreme Outdoor Presented by HISTORY,http://cfd-v4-service-channel-stitcher-use1-
 Yo! MTV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
 Yo! MTV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2
 亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
-亞洲旅遊,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv076/index.m3u8?proxy=true
 亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+亞洲旅遊,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv076/index.m3u8?proxy=true
 亞洲旅遊,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv076/index.m3u8
 亞洲旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
 亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
@@ -829,15 +824,15 @@ Yo! MTV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 香港古典音樂,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
 探索,#genre#
 (外)(歷史)史密森尼頻道,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&data=normal$logo=https://yt3.googleusercontent.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s160-c-k-c0x00ffffff-no-rj
-BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1
+BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff
 CA Discovery Channel,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57252
 CA Investigation Discovery HD (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57442
 CA: Discovery Science,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57418
 DISCOVERY,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
-DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 Discovery Channel,http://38.41.8.1:8000/play/a07l
@@ -865,16 +860,16 @@ Travel+Adventure HD,http://ott.watch/stream/E9LDH2ZCN7/206.m3u8
 國家地理高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/nvhgfr5c/index.m3u8
 天空歷史,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/f9eb945d6f/index.m3u8
 天空歷史2,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/352295ef21/index.m3u8
-宇宙探索飛船,http://lxajh.top/tv/douyu.php?id=9456028
 宇宙探索飛船,http://zzy789.xyz/douyu1.php?id=9456028
+宇宙探索飛船,http://lxajh.top/tv/douyu.php?id=9456028
 影迷數位紀實臺,http://live1.robyang.ggff.net:50009/li-litv-ftv15/index.m3u8?proxy=true
 影迷數位紀實臺,http://live1.robyang.ggff.net:50009/li-litv-ftv15/index.m3u8
 探索亞洲,http://108.181.20.197/livehttpplay?channel_id=20113
 探索家庭,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/4571cb01e2/index.m3u8
 探索生活,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/533d3b00d7/index.m3u8
 探索科學,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/f8aa361c98/index.m3u8
-探索科學,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/eff05c6488/index.m3u8
 探索科學,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/2bfef8fc5a/index.m3u8
+探索科學,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/eff05c6488/index.m3u8
 探索頻道,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/5c9e2b8551/index.m3u8
 探索頻道,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/ae177d7b50/index.m3u8
 歷史,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/29c4466eaf/index.m3u8
@@ -883,8 +878,8 @@ Travel+Adventure HD,http://ott.watch/stream/E9LDH2ZCN7/206.m3u8
 歷史高清,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/4m124k0n/index.m3u8
 發現歷史,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/cjz1uzv2/f9959a28b2/index.m3u8
 視納華仁紀實,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv013/index.m3u8?proxy=true
-視納華仁紀實,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv013/index.m3u8
 視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv013
+視納華仁紀實,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv013/index.m3u8
 視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
 others,#genre#
 [加納]Resurrection TV,http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
@@ -897,15 +892,15 @@ Adult Outdoor Club,http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20472
 Adult Outdoor Sex,http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470667
 Adult Xtreme Satisfaction,http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20483
 ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
+ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
 Arirang,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 Arirang TV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv079/index.m3u8?proxy=true
@@ -913,8 +908,8 @@ Arirang TV,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv079/index.m3u8
 Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 Asshole Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
 Auction Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f80-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b4e4d851-50d8-4e9c-9824-31d78816509e
-Auction Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7952-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419716ea-defd-40f9-9cfe-81ca78138875
 Auction Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82bb03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f2717fb-1dc4-4bc1-920e-7ffbaf3d3a22
+Auction Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7952-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419716ea-defd-40f9-9cfe-81ca78138875
 Banana Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
 Beverly Hills 90210,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830924-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76c958ac-284b-4b67-8fba-4dab528ab122
 Beverly Hills 90210,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc771-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7827fcde-c024-4bff-bf8d-b4c1683dc7e1
@@ -946,21 +941,21 @@ PILIPINAS LIVE EVENT 09,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_
 PILIPINAS LIVE EVENT 10,https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 Pluto TV Reaction,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781
 Radio Studio Delta TV (1080p) [Not 24/7],https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-ROCK Action,http://8.138.7.223/tv/hk.php?id=212&replay=1&days=7
 ROCK Action,http://8.138.7.223/tv/hk.php?id=212
+ROCK Action,http://8.138.7.223/tv/hk.php?id=212&replay=1&days=7
 South Park: Butters Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c33f5b82-5c79-40fb-b393-4882708946ac
 South Park: Butters Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20bf14-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8115cdeb-f9c4-4c3e-905a-9b4869b09b43
 South Park: Butters Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d72-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6836d862-80d7-483a-aa1c-551c7b50e51b
-South Park: Cartman Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20e620-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcdabbc3-0078-4a3b-a1eb-bd02ebff217c
 South Park: Cartman Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e444da25-6dad-4895-9653-bc36313c7b82
 South Park: Cartman Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d73-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ab3f647-2d4e-4dbe-8cc6-2ae639492542
+South Park: Cartman Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20e620-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcdabbc3-0078-4a3b-a1eb-bd02ebff217c
 South Park: Cartman Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df4934f7f0af0008c32545/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0255-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f24dcfb-da34-41f5-919b-8bba40f8df5b
+South Park: Kenny Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cca-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b245b871-bd63-464a-9a06-f92544ac1a7b
 South Park: Kenny Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d74-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=30a1ea27-517a-4e3e-a448-c174b0344939
 South Park: Kenny Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20e621-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bb056de-ea61-4da1-b4ce-b4ebf8e2b486
-South Park: Kenny Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cca-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b245b871-bd63-464a-9a06-f92544ac1a7b
 South Park: Kenny Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df47f428730900089f83ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0256-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0b2f363-167e-451a-adeb-0cf7f5e4e242
-South Park: Kyle Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d76-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04fcb2ed-2241-4868-82f2-0f8118712200
 South Park: Kyle Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20e623-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d6fa536e-6e7a-4576-8788-3d009b2f80ae
+South Park: Kyle Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d76-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04fcb2ed-2241-4868-82f2-0f8118712200
 South Park: Kyle Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b21de13-cb73-4216-9568-5d5e11888255
 South Park: Stan Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df48ba28730900089f8480/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0258-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a92d95d6-dc1d-4fe9-9b4e-e63efabae635
 South Park: Stan Collection,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1438e94c3800082a8cff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee52308-1290-4003-a38c-3954380947a1
@@ -979,24 +974,24 @@ Universal Action,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stit
 Zee_Action,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/02byd007/index.m3u8
 中天電視2臺,http://cdn.iptv8k.top/dl/jspd.php?id=23
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 人間衛視,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 北京|車迷頻道,http://120.76.248.139/live/bfgd/4200000146.m3u8
 大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
 大愛一個,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/tcs89msv/index.m3u8
 大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息,http://live1.robyang.ggff.net:50009/li-litv-ftv16/index.m3u8?proxy=true
 好消息,http://live1.robyang.ggff.net:50009/li-litv-ftv16/index.m3u8
 好消息,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
 好消息1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv16
-好消息1,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/x4qgwt3s/index.m3u8
 好消息1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv16
+好消息1,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/x4qgwt3s/index.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
 好消息2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv17
 好消息2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv17
