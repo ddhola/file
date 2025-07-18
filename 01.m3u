@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="YouTube直播" tvg-logo="https://live.fanmingming.cn/tv/YouTube直播.png",YouTube直播
+#EXTINF:-1 tvg-name="=======YouTube直播=======" tvg-logo="https://live.fanmingming.cn/tv/=======YouTube直播=======.png",=======YouTube直播=======
 http://
 #EXTINF:-1 tvg-name="國興衛視" tvg-logo="https://live.fanmingming.cn/tv/國興衛視.png",國興衛視
 http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=uDqQo8a7Xmk
 https://www.youtube.com/watch?v=C6gYqSHLRw4
 #EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://live.fanmingming.cn/tv/公视台语台.png",公视台语台
 https://www.youtube.com/watch?v=6KlRR_DGhmI
-#EXTINF:-1 tvg-name="體育web" tvg-logo="https://live.fanmingming.cn/tv/體育web.png",體育web
+#EXTINF:-1 tvg-name="=======體育web=======" tvg-logo="https://live.fanmingming.cn/tv/=======體育web=======.png",=======體育web=======
 http://
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://live.fanmingming.cn/tv/momo綜合台.png",momo綜合台
 http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
@@ -87,7 +87,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longtu
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
 #EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://live.fanmingming.cn/tv/時尚運動X.png",時尚運動X
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
-#EXTINF:-1 tvg-name="61 207" tvg-logo="https://live.fanmingming.cn/tv/61 207.png",61 207
+#EXTINF:-1 tvg-name="=======61 207 =======" tvg-logo="https://live.fanmingming.cn/tv/=======61 207 =======.png",=======61 207 =======
 http://
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -137,7 +137,7 @@ http://125.227.210.55:8152/VideoInput/play.ts
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CNN new" tvg-logo="https://live.fanmingming.cn/tv/CNN new.png",CNN new
 http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1 tvg-name="新聞台breezy" tvg-logo="https://live.fanmingming.cn/tv/新聞台breezy.png",新聞台breezy
+#EXTINF:-1 tvg-name="=======新聞台breezy=======" tvg-logo="https://live.fanmingming.cn/tv/=======新聞台breezy=======.png",=======新聞台breezy=======
 http://
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞.png",TVBS新聞
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
@@ -171,7 +171,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv07
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
 #EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.cn/tv/非凡新聞.png",非凡新聞
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-#EXTINF:-1 tvg-name="體育" tvg-logo="https://live.fanmingming.cn/tv/體育.png",體育
+#EXTINF:-1 tvg-name="=======體育=======" tvg-logo="https://live.fanmingming.cn/tv/=======體育=======.png",=======體育=======
 http://
 #EXTINF:-1 tvg-name="博斯無限1" tvg-logo="https://live.fanmingming.cn/tv/博斯無限1.png",博斯無限1
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn10
@@ -193,7 +193,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longtu
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 #EXTINF:-1 tvg-name="智林體育臺" tvg-logo="https://live.fanmingming.cn/tv/智林體育臺.png",智林體育臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
-#EXTINF:-1 tvg-name="綜合台1" tvg-logo="https://live.fanmingming.cn/tv/綜合台1.png",綜合台1
+#EXTINF:-1 tvg-name="=======綜合台1=======" tvg-logo="https://live.fanmingming.cn/tv/=======綜合台1=======.png",=======綜合台1=======
 http://
 #EXTINF:-1 tvg-name="Smart 知識臺" tvg-logo="https://live.fanmingming.cn/tv/Smart 知識臺.png",Smart 知識臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
@@ -213,7 +213,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv04
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
 #EXTINF:-1 tvg-name="靖天育樂臺" tvg-logo="https://live.fanmingming.cn/tv/靖天育樂臺.png",靖天育樂臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
-#EXTINF:-1 tvg-name="綜合台2" tvg-logo="https://live.fanmingming.cn/tv/綜合台2.png",綜合台2
+#EXTINF:-1 tvg-name="=======綜合台2=======" tvg-logo="https://live.fanmingming.cn/tv/=======綜合台2=======.png",=======綜合台2=======
 http://
 #EXTINF:-1 tvg-name="ELTV 娛樂" tvg-logo="https://live.fanmingming.cn/tv/ELTV 娛樂.png",ELTV 娛樂
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv070
@@ -239,7 +239,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv05
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
 #EXTINF:-1 tvg-name="龍華經典臺" tvg-logo="https://live.fanmingming.cn/tv/龍華經典臺.png",龍華經典臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
-#EXTINF:-1 tvg-name="電影" tvg-logo="https://live.fanmingming.cn/tv/電影.png",電影
+#EXTINF:-1 tvg-name="=======電影=======" tvg-logo="https://live.fanmingming.cn/tv/=======電影=======.png",=======電影=======
 http://
 #EXTINF:-1 tvg-name="amc電影臺" tvg-logo="https://live.fanmingming.cn/tv/amc電影臺.png",amc電影臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
@@ -253,7 +253,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv06
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
 #EXTINF:-1 tvg-name="龍華電影臺" tvg-logo="https://live.fanmingming.cn/tv/龍華電影臺.png",龍華電影臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
-#EXTINF:-1 tvg-name="戲劇" tvg-logo="https://live.fanmingming.cn/tv/戲劇.png",戲劇
+#EXTINF:-1 tvg-name="=======戲劇=======" tvg-logo="https://live.fanmingming.cn/tv/=======戲劇=======.png",=======戲劇=======
 http://
 #EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://live.fanmingming.cn/tv/公視戲劇.png",公視戲劇
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
@@ -273,7 +273,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longtu
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
 #EXTINF:-1 tvg-name="龍華日韓臺" tvg-logo="https://live.fanmingming.cn/tv/龍華日韓臺.png",龍華日韓臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
-#EXTINF:-1 tvg-name="四台" tvg-logo="https://live.fanmingming.cn/tv/四台.png",四台
+#EXTINF:-1 tvg-name="=======四台=======" tvg-logo="https://live.fanmingming.cn/tv/=======四台=======.png",=======四台=======
 http://
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png",中視
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
@@ -285,7 +285,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv15
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.cn/tv/華視.png",華視
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
-#EXTINF:-1 tvg-name="兒童" tvg-logo="https://live.fanmingming.cn/tv/兒童.png",兒童
+#EXTINF:-1 tvg-name="=======兒童=======" tvg-logo="https://live.fanmingming.cn/tv/=======兒童=======.png",=======兒童=======
 http://
 #EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://live.fanmingming.cn/tv/達文西頻道.png",達文西頻道
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv018
@@ -295,7 +295,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv04
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057
 #EXTINF:-1 tvg-name="龍華卡通臺" tvg-logo="https://live.fanmingming.cn/tv/龍華卡通臺.png",龍華卡通臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
-#EXTINF:-1 tvg-name="音樂旅遊生活" tvg-logo="https://live.fanmingming.cn/tv/音樂旅遊生活.png",音樂旅遊生活
+#EXTINF:-1 tvg-name="=======音樂旅遊生活=======" tvg-logo="https://live.fanmingming.cn/tv/=======音樂旅遊生活=======.png",=======音樂旅遊生活=======
 http://
 #EXTINF:-1 tvg-name="CLASSICA古典樂" tvg-logo="https://live.fanmingming.cn/tv/CLASSICA古典樂.png",CLASSICA古典樂
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv059
@@ -307,11 +307,11 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv08
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="民視旅遊臺" tvg-logo="https://live.fanmingming.cn/tv/民視旅遊臺.png",民視旅遊臺
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
-#EXTINF:-1 tvg-name="探索" tvg-logo="https://live.fanmingming.cn/tv/探索.png",探索
+#EXTINF:-1 tvg-name="=======探索=======" tvg-logo="https://live.fanmingming.cn/tv/=======探索=======.png",=======探索=======
 http://
 #EXTINF:-1 tvg-name="視納華仁紀實" tvg-logo="https://live.fanmingming.cn/tv/視納華仁紀實.png",視納華仁紀實
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
-#EXTINF:-1 tvg-name="台湾61高碼" tvg-logo="https://live.fanmingming.cn/tv/台湾61高碼.png",台湾61高碼
+#EXTINF:-1 tvg-name="=======台湾61高碼=======" tvg-logo="https://live.fanmingming.cn/tv/=======台湾61高碼=======.png",=======台湾61高碼=======
 http://
 #EXTINF:-1 tvg-name="東森超視高碼" tvg-logo="https://live.fanmingming.cn/tv/東森超視高碼.png",東森超視高碼
 http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
@@ -339,7 +339,7 @@ http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
 http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
 #EXTINF:-1 tvg-name="Nick少兒高碼" tvg-logo="https://live.fanmingming.cn/tv/Nick少兒高碼.png",Nick少兒高碼
 http://61.216.11.93:49981/stream/channelid/580636100.m3u8
-#EXTINF:-1 tvg-name="211.23.114.106" tvg-logo="https://live.fanmingming.cn/tv/211.23.114.106.png",211.23.114.106
+#EXTINF:-1 tvg-name="=======211.23.114.106=======" tvg-logo="https://live.fanmingming.cn/tv/=======211.23.114.106=======.png",=======211.23.114.106=======
 http://
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://live.fanmingming.cn/tv/momo綜合台.png",momo綜合台
 http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
@@ -439,7 +439,7 @@ http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-name="動物星球" tvg-logo="https://live.fanmingming.cn/tv/動物星球.png",動物星球
 http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 tvg-name="220.134.196.147" tvg-logo="https://live.fanmingming.cn/tv/220.134.196.147.png",220.134.196.147
+#EXTINF:-1 tvg-name="=======220.134.196.147=======" tvg-logo="https://live.fanmingming.cn/tv/=======220.134.196.147=======.png",=======220.134.196.147=======
 http://
 #EXTINF:-1 tvg-name="緯來日本HD" tvg-logo="https://live.fanmingming.cn/tv/緯來日本HD.png",緯來日本HD
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
