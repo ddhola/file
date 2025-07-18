@@ -57,8 +57,6 @@ http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-name="緯來日本HD" tvg-logo="https://live.fanmingming.cn/tv/緯來日本HD.png",緯來日本HD
 http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 tvg-name="緯來綜合" tvg-logo="https://live.fanmingming.cn/tv/緯來綜合.png",緯來綜合
-http://61.216.11.93:49981/stream/channelid/106481234.m3u8
 #EXTINF:-1 tvg-name="緯來育樂HD" tvg-logo="https://live.fanmingming.cn/tv/緯來育樂HD.png",緯來育樂HD
 http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 tvg-name="緯來體育HD" tvg-logo="https://live.fanmingming.cn/tv/緯來體育HD.png",緯來體育HD
