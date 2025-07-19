@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="YouTube直播=======" tvg-logo="https://live.fanmingming.cn/tv/YouTube直播=======.png",YouTube直播=======
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTM3U
 #EXTINF:-1 tvg-name="國興衛視" tvg-logo="https://live.fanmingming.cn/tv/國興衛視.png",國興衛視
 http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png",非凡新闻台
