@@ -257,34 +257,9 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
 http://
 #EXTINF:-1 tvg-name="視納華仁紀實" tvg-logo="https://live.fanmingming.cn/tv/視納華仁紀實.png",視納華仁紀實
 http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
-#EXTINF:-1 tvg-name="台湾61高碼=======" tvg-logo="https://live.fanmingming.cn/tv/台湾61高碼=======.png",台湾61高碼=======
-http://
-#EXTINF:-1 tvg-name="東森超視高碼" tvg-logo="https://live.fanmingming.cn/tv/東森超視高碼.png",東森超視高碼
-http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
-#EXTINF:-1 tvg-name="TLC'綜合高碼" tvg-logo="https://live.fanmingming.cn/tv/TLC'綜合高碼.png",TLC'綜合高碼
-http://61.216.11.93:49981/stream/channelid/458490002.m3u8
-#EXTINF:-1 tvg-name="tvbs歡樂高碼" tvg-logo="https://live.fanmingming.cn/tv/tvbs歡樂高碼.png",tvbs歡樂高碼
-http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
-#EXTINF:-1 tvg-name="八大綜合高碼" tvg-logo="https://live.fanmingming.cn/tv/八大綜合高碼.png",八大綜合高碼
-http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
-#EXTINF:-1 tvg-name="年代綜合高碼" tvg-logo="https://live.fanmingming.cn/tv/年代綜合高碼.png",年代綜合高碼
-http://61.216.11.93:49981/stream/channelid/644357774.m3u8
-#EXTINF:-1 tvg-name="緯來綜合高碼" tvg-logo="https://live.fanmingming.cn/tv/緯來綜合高碼.png",緯來綜合高碼
-http://61.216.11.93:49981/stream/channelid/106481234.m3u8
-#EXTINF:-1 tvg-name="八大第一高碼" tvg-logo="https://live.fanmingming.cn/tv/八大第一高碼.png",八大第一高碼
-http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
-#EXTINF:-1 tvg-name="CINeMax高碼" tvg-logo="https://live.fanmingming.cn/tv/CINeMax高碼.png",CINeMax高碼
-http://61.216.11.93:49981/stream/channelid/207378916.m3u8
-#EXTINF:-1 tvg-name="CINeMax高碼" tvg-logo="https://live.fanmingming.cn/tv/CINeMax高碼.png",CINeMax高碼
-http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
-#EXTINF:-1 tvg-name="好萊電影高碼" tvg-logo="https://live.fanmingming.cn/tv/好萊電影高碼.png",好萊電影高碼
-http://61.216.11.93:49981/stream/channelid/286389561.m3u8
-#EXTINF:-1 tvg-name="緯來電影高碼" tvg-logo="https://live.fanmingming.cn/tv/緯來電影高碼.png",緯來電影高碼
-http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
-#EXTINF:-1 tvg-name="民視閩南高碼" tvg-logo="https://live.fanmingming.cn/tv/民視閩南高碼.png",民視閩南高碼
-http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
-#EXTINF:-1 tvg-name="Nick少兒高碼" tvg-logo="https://live.fanmingming.cn/tv/Nick少兒高碼.png",Nick少兒高碼
-http://61.216.11.93:49981/stream/channelid/580636100.m3u8
+
+
+
 #EXTINF:-1 tvg-name="211.23.114.106=======" tvg-logo="https://live.fanmingming.cn/tv/211.23.114.106=======.png",211.23.114.106=======
 http://
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://live.fanmingming.cn/tv/momo綜合台.png",momo綜合台
