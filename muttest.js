@@ -16,6 +16,8 @@
 {"name":"1027","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/1027"},	
 {"name":"4g_breezy","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_breezy.txt"},	
 {"name":"4g_xt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g_xt.txt"},	
+{"name":"4g_154","url":"http://154.219.113.217:8080/sub?type=txt&token=112233"},	
+    
     
 {"name":"bull","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/bull.txt"},	
 {"name":"01mitv","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/01mitv.txt"},	
