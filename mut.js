@@ -5,7 +5,8 @@
     
 {"name": "59 🇹🇼", "api": "csp_MQiTV", "ext": "https://59.125.210.231:4433"},
 {"name":"立視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
-
+{"name":"(翻墙)SMT直播(python)","type":3,"api":"https://d.kstore.dev/download/14756/python/live_smt.py","ext": {},"header": { "CLIENT-IP": "127.0.0.1", "X-FORWARDED-FOR": "127.0.0.1" } }, 
+   
 {"name":"test.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test.txt"}, 
 {"name":"test2.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test2.txt"}, 
 {"name":"test3.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/test3.txt"}, 
