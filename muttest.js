@@ -11,7 +11,6 @@
 {"name":"SMARTGcgsb","url":"https://qu.ax/Gcgsb.json"},	
 
 
-{"name":"4G154219   .txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/4g154219.txt"},	
 {"name":"立視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 
 {"name":"sun","url":"https://igdux.top/BNMe"},    
