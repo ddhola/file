@@ -26,7 +26,6 @@
     
     
 {"name":"bull","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/bull.txt"},	
-{"name":"01mitv","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/01mitv.txt"},	
 
     
 {"name":"movie","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie.txt"},	
