@@ -31,6 +31,7 @@
 {"name":"movie_action","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/movie_action.txt"},
 
 {"name":"x1pd","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd"},	
+{"name":"x1pd2.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd2.txt"},	
 {"name":"x_jable_c_17150.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x_jable_c_17150.txt"},	
 {"name":"xblue.txt","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xblue.txt"},	
 {"name":"xcar","url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/xcar"},	
