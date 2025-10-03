@@ -1,0 +1,37 @@
+日本,#genre#
+DMAX,P2p://starvod.xyz:19806/de347284653f4f82abd018e2dfe31b95.ts
+旅チャンネル,P2p://starvod.xyz:19806/92edeab4370843668d206347317d815c.ts
+NHK-G综合,P2p://starvod.xyz:19806/39cbc09cfd5e4dfb97b45e4d8b8d2365.ts
+NHK-E教育,P2p://starvod.xyz:19806/94f3f79234c14968ad7a64c78513e75a.ts
+日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
+TBSテレビ,P2p://starvod.xyz:19806/491496a7b9a04f67aa80335ae6297f31.ts
+テレビ东京,P2p://starvod.xyz:19806/48a714fb9207427ab736e06c55710711.ts
+フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
+读卖テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
+关西テレビ,P2p://starvod.xyz:19806/1a0b9141f72540f9ac69259b1b147175.ts
+テレビ大阪,P2p://starvod.xyz:19806/a8f44bac997a4f959151b0352f4116ad.ts
+KBS京都,P2p://starvod.xyz:19806/e9191a0df37a445daf5b4d9af04ea921.ts
+每日放送,P2p://starvod.xyz:19806/ec9283967d664659a4ac6ec92104c7bf.ts
+朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
+BS-1,P2p://starvod.xyz:19806/c3f16f1b4ce3463597111fc47b36dcde.ts
+BS日テレ,P2p://starvod.xyz:19806/2152ff7538344b9dae7e9e58384728b4.ts
+BS朝日,P2p://starvod.xyz:19806/1348fc652539480a9ac5067e6f174648.ts
+BS-TBS,P2p://starvod.xyz:19806/2e2050b637094b81ad79c7d4611960e2.ts
+BS11,P2p://starvod.xyz:19806/61b8fb8e2d664bd6a6069c375926ee3d.ts
+BSフジ,P2p://starvod.xyz:19806/735e3c5931d34acf8dd2f7bbbf3741d9.ts
+WOWOWプライム,P2p://starvod.xyz:19806/24258a88df1a461b98b74aa760ec6ba4.ts
+WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
+WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
+スター・チャンネル1,P2p://starvod.xyz:19806/b9c896468a754600babf1db6b18da8bd.ts
+BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
+J Sports 1,P2p://starvod.xyz:19806/fd040fbad8944c24bbc666c8523a9513.ts
+J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+J Sports 3,P2p://starvod.xyz:19806/e5535dae090d4e3abb7ffbe5cefcb0ac.ts
+J Sports 4,P2p://starvod.xyz:19806/30defe37bb3a4685bcc7ef470e3d38a2.ts
+Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
+ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
+时代剧专门チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
+Music Japan TV,P2p://starvod.xyz:19806/2212b2b9e6ed4ce9a5339edeeefac6a4.ts
+キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
+ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
+スポーツチャンネル,P2p://starvod.xyz:19806/f5988307be5548108e2e081d8031ae7a.ts
