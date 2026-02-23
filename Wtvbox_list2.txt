@@ -28,7 +28,7 @@
         { name: "🍀核桃|影視", "api": "https://www.hetaozy.com/api.php/provide/vod/" },
         { name: "🌈彩虹|採集", "api": "https://www.caihongzy.com/api.php/provide/vod/" },
         { name: "🎞️光速|資源", "api": "https://api.guangsuapi.com/api.php/provide/vod/" },
-        { name: "📡訊雷|影視", "api": "https://www.xunleizy.com/api.php/provide/vod/" }
+        { name: "📡訊雷|影視", "api": "https://www.xunleizy.com/api.php/provide/vod/" },
 		{ name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
 		{ name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
 		{ name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
