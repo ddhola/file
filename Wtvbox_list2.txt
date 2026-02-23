@@ -14,7 +14,7 @@
 		{ name: "卧龙资源(切)", api: "https://collect.wolongzyw.com/api.php/provide/vod/" },
 		{ name: "光速资源(切)", api: "https://api.guangsuapi.com/api.php/provide/vod/" },
 		{ name: "新浪资源(切)", api: "http://api.xinlangapi.com/xinlangapi.php/provide/vod/" },
-		{ name: "百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" }
+		{ name: "百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" },
 		{ name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
 		{ name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
 		{ name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
