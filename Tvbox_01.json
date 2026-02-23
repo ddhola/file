@@ -25,7 +25,7 @@
     { "key": "htzy", "name": "🍀核桃┃影視", "type": 1, "api": "https://www.hetaozy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "chzy", "name": "🌈彩虹┃採集", "type": 1, "api": "https://www.caihongzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "gszy", "name": "🎞️光速┃資源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "xlzy", "name": "📡訊雷┃影視", "type": 1, "api": "https://www.xunleizy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    { "key": "xlzy", "name": "📡訊雷┃影視", "type": 1, "api": "https://www.xunleizy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "lbzy", "name": "🔞樂播資源", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "fhzy", "name": "🔞番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hsck", "name": "🔞黄色仓库(旧)", "type": 1, "api": "https://hsckzy.vip/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
