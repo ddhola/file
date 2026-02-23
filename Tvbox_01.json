@@ -1,7 +1,7 @@
 {
   "version": "1",
   "sites": [
-    { "name": "闪电资源(切)", "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "name": "闪电资源1(切)", "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "name": "🥣爱坤┃影视", "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "name": "🦄如意┃追剧", "api": "https://cj.rycjapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "name": "🎊索尼1┃资源", "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
