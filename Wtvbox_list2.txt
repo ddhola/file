@@ -2,7 +2,6 @@
 { name: "🆕非凡┃资源", api: "http://cj.ffzyapi.com/api.php/provide/vod/" },
 { name: "🎬艾旦影视(聚)", api: "https://lovedan.net/api.php/provide/vod/" },
 { name: "🎀极速┃采集", api: "https://jszyapi.com/api.php/provide/vod/" },
-{ name: "🚀极速┃带草", api: "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/" },
 { name: "🎦百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" },
 { name: "👆卧龙资源(切)", api: "https://collect.wolongzyw.com/api.php/provide/vod/" },
 { name: "🔰金鹰┃影视", api: "https://jyzyapi.com/provide/vod/" },
