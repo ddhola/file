@@ -1,7 +1,8 @@
 新聞臺,#genre#
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
-TVBS新聞HD,http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS新聞HD,http://59.124.81.19:8574/http/59.124.81.19:888/hls/75/817/ch59.m3u8
+TVBS新聞HD,http://116.30.160.204:8574/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
 東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 年代新聞臺,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
@@ -11,7 +12,7 @@ TVBS新聞HD,http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新闻台YT,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森新闻台,https://www.youtube.com/watch?v=V1p33hqPrUk
 东森财经新闻台,https://www.youtube.com/watch?v=AEBeWMM1atA
 东森财经新闻台,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -27,7 +28,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-公视,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公视YT,https://www.youtube.com/watch?v=C6gYqSHLRw4
 
 
 體育,#genre#
