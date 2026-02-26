@@ -18,7 +18,7 @@
 { name: "🌀飘零影院(聚)", api: "https://p2100.net/api.php/provide/vod/" },
 { name: "🍿櫻花|採集", api: "https://m3u8.apiyhzy.com/api.php/provide/vod/" },
 
-# { name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
+// { name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
 # { name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
 # { name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
 # { name: "🔞桃花资源", api: "https://thzy1.me/api.php/provide/vod/" },
