@@ -1,6 +1,7 @@
-新聞臺,#genre#
+FM,#genre#
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
+新聞臺,#genre#
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
