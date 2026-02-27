@@ -1,25 +1,13 @@
 FM,#genre#
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
-AsiaFM HD音樂,http://asiafm.hk:8000/asiahd
+飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
 AsiaFM 亞洲天空,http://funradio.cn:8000/funradio
-AsiaFM 亞洲音樂,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲粵語台,http://yyt.asiafm.net:8000/asiafm
-AsiaFM 亞洲經典,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲熱歌台,http://hot.asiafm.net:8000/asiafm
-AsiaFM亞太電臺,http://stream.rcs.revma.com/kydend74hv8uv
 AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
-AsiaFM亞洲電臺,http://stream.rcs.revma.com/xpgtqc74hv8uv
 AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv
-CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
-CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
-CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
-CityFM臺北健康,http://fm901.cityfm.tw:8080/901.mp3
-FlyRadio飛揚調頻,http://stream.rcs.revma.com/e0tdah74hv8uv
 FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
 HitFM 聯播網,https://stream.rcs.revma.com/ypqt40u0x1zuv
 M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv
-M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
@@ -30,8 +18,6 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 古典音樂台 FM97.7,https://onair.family977.com.tw:8977/live.mp3
 台灣古典音樂台,http://59.120.88.155:8000/live.mp3
 城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
-飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
-清晨音樂台|0.75,http://live.xmcdn.com:80/live/1011/64.m3u8
 愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
 臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
 警廣全國交通網,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
@@ -46,7 +32,6 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-
 體育,#genre#
 momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 MoMo綜合臺,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
