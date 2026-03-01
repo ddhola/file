@@ -1,3 +1,31 @@
+風雲試看臺灣頻道,#genre#
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
+東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
+
 新聞臺,#genre#
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
@@ -103,79 +131,5 @@ DE Blue Hustler,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/20023/index.m3u8
 XXX : Hustler HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19509
 XXX : Hustler TV (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
 Sex With Muslims,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6252/index.m3u8
-新聞臺SMART,#genre#
-東森新聞 ETTV News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvnews/playlist.m3u8
-中視新聞臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshinews_twn/playlist.m3u8
-年代新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=niandainews_twn/playlist.m3u8
-中天新聞 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctinews/playlist.m3u8
-寰宇新聞臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=huanyuxinwen_twn/playlist.m3u8
-非凡新聞臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=feifannews_twn/playlist.m3u8
-壹新聞臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yinews/playlist.m3u8
-體育,#genre#
-緯來體育臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandsport/playlist.m3u8
-愛爾達體育1臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eltasport1_twn/playlist.m3u8
-愛爾達體育2臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eltasport2_twn/playlist.m3u8
-愛爾達體育3臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eltasport3_twn/playlist.m3u8
-博斯高球1 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf1_twn/playlist.m3u8
-博斯高球2 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf2_twn/playlist.m3u8
-博斯無限,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosiunlimited_twn/playlist.m3u8
-博斯運動 1,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport1_twn/playlist.m3u8
-博斯運動 2,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport2_twn/playlist.m3u8
-博斯網球 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bositennis_twn/playlist.m3u8
-四臺,#genre#
-華視 CTS HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctshd_twn/playlist.m3u8
-中視 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshihd_twn/playlist.m3u8
-民視 HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvhd_taiwan/playlist.m3u8
-民視臺灣臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvtaiwan_twn/playlist.m3u8
-公視 PTS xs,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=pts3_twn/playlist.m3u8
-公視 CTV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctv_taiwan/playlist.m3u8
-臺視 TTV HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ttv_taiwan/playlist.m3u8
-臺視綜合臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ttvzhonghe/playlist.m3u8
-綜合臺1,#genre#
-Momo TV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=momo1_twn/playlist.m3u8
-緯來日本臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandjapan/playlist.m3u8
-緯來綜合臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandzonghe/playlist.m3u8
-TVBS 歡樂臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbshuanle_twn/playlist.m3u8
-TVBS HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs/playlist.m3u8
-東森綜合 ETTV Metro,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvzhonghe/playlist.m3u8
-中天綜合 CTI Metro,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctizhonghe/playlist.m3u8
-三立綜合 Sanli Metro,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlizhonghe/playlist.m3u8
-綜合臺2,#genre#
-八大第一 GTV First,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=badafirst/playlist.m3u8
-三立都會臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlidouhui_twn/playlist.m3u8
-三立臺灣 Sanli Taiwan,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlitaiwan/playlist.m3u8
-中天亞洲臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctiasia_twn/playlist.m3u8
-中天娛樂 CTI Entertaiment,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctient/playlist.m3u8
-衛視中文臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=weishichinese_twn/playlist.m3u8
-AXN Taiwan,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=axn_twn/playlist.m3u8
-戲劇,#genre#
-八大戲劇 GTV Drama,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=badadrama/playlist.m3u8
-三立戲劇臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlixiju_twn/playlist.m3u8
-東森戲劇 ETTV Drama,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvdrama/playlist.m3u8
-電影,#genre#
-東森洋片,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvwestern/playlist.m3u8
-東森電影 ETTV Movie,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvmovie/playlist.m3u8
-緯來電影臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandmovie/playlist.m3u8
-Cinemax,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Cinemax/playlist.m3u8
-Cinemax,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Cinemax/playlist.m3u8/playlist.m3u8
-CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8
-CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8/playlist.m3u8
-HBO Family,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hbofamily/playlist.m3u8
-HBO HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hbo/playlist.m3u8
-HBO Signature,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbosignature_twn/playlist.m3u8
-HBO Signature,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hbosignature/playlist.m3u8
-HBO_HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohd_twn/playlist.m3u8
-HBO_HITS,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohits_twn/playlist.m3u8
-Hits,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hits/playlist.m3u8
-Hits Movie,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hitsmovie/playlist.m3u8
-Hollywood Movies,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hollywoodmovies_twn/playlist.m3u8
-兒童,#genre#
-東森幼幼 Yoyo TV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yoyo_twn/playlist.m3u8
-靖天卡通臺,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=jingtiancartoon_twn/playlist.m3u8
-Animax,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Animax/playlist.m3u8
-音樂旅遊生活,#genre#
-BBC Earth Lifestyle,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbclifestyle_twn/playlist.m3u8
-MTV Live,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=mtvhd_twn/playlist.m3u8
-探索,#genre#
-BBC Earth HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbcearth_twn/playlist.m3u8
+
 
