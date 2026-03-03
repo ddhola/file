@@ -1,8 +1,9 @@
-{ name: "🌀飘零影院(聚)", api: "https://p2100.net/api.php/provide/vod/" },
+
 { name: "🥣爱坤┃影视", api: "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json" },
 { name: "🎬艾旦影视(聚)", api: "https://lovedan.net/api.php/provide/vod/" },
 { name: "🎀极速┃采集", api: "https://jszyapi.com/api.php/provide/vod/" },
 { name: "🎦百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" },
+{ name: "🌀飘零影院(聚)", api: "https://p2100.net/api.php/provide/vod/" },
 { name: "🦄量子影视｜追剧", api: "http://cj.lziapi.com/api.php/provide/vod/" },
 { name: "👆卧龙资源(切)", api: "https://collect.wolongzyw.com/api.php/provide/vod/" },
 { name: "🔰金鹰┃影视", api: "https://jyzyapi.com/provide/vod/" },
