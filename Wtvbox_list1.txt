@@ -9,6 +9,8 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+中天新闻,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
+TVBS,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 體育,#genre#
 ELTA1,https://livetvmax.com/channels/elta-sports1/
 momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
