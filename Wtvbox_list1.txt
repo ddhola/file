@@ -141,24 +141,7 @@ CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-北京卫视4K,http://119.112.29.239:40004/stream/channelid/1953033683?profile=pass
-北京卫视4K超高清,http://119.112.29.239:40004/stream/channelid/44666108?profile=pass
-东方卫视4K,http://119.112.29.239:40004/stream/channelid/1752165306?profile=pass
-东方卫视4K超高清,http://119.112.29.239:40004/stream/channelid/1844751753?profile=pass
-湖南卫视4K,http://119.112.29.239:40004/stream/channelid/2002510707?profile=pass
-湖南卫视4K超高清,http://119.112.29.239:40004/stream/channelid/1379587438?profile=pass
-浙江卫视4K,http://119.112.29.239:40004/stream/channelid/1012843338?profile=pass
-浙江卫视4K超高清,http://119.112.29.239:40004/stream/channelid/4851036?profile=pass
-江苏卫视4K,http://119.112.29.239:40004/stream/channelid/1436537239?profile=pass
-江苏卫视4K超高清,http://119.112.29.239:40004/stream/channelid/1105633824?profile=pass
-山东卫视4K,http://119.112.29.239:40004/stream/channelid/214687304?profile=pass
-山东卫视4K超高清,http://119.112.29.239:40004/stream/channelid/1396926786?profile=pass
-广东卫视4K,http://119.112.29.239:40004/stream/channelid/219594021?profile=pass
-广东卫视4K超高清,http://119.112.29.239:40004/stream/channelid/87351029?profile=pass
-四川卫视4K,http://119.112.29.239:40004/stream/channelid/1800691462?profile=pass
-四川卫视4K超高清,http://119.112.29.239:40004/stream/channelid/1267072582?profile=pass
-深圳卫视4K,http://119.112.29.239:40004/stream/channelid/914894014?profile=pass
-深圳卫视4K超高清,http://119.112.29.239:40004/stream/channelid/859807528?profile=pass
+
 FM,#genre#
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
