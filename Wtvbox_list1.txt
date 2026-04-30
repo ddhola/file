@@ -25,6 +25,18 @@
 公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
 臺視,http://74.91.26.218:82/live/ttv.m3u8
 臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+本地音樂檔案,
+江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
+中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
+警廣全國交通網,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+HitFM 聯播網,https://stream.rcs.revma.com/ypqt40u0x1zuv
+飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
+News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
+城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
+
 18,#genre#
 松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
