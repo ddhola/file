@@ -1,247 +1,30 @@
-
-數位頻道,#genre#
-中視,http://211.23.95.147:18881/live/dtv1_h265.ts
-中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
-中視經典,http://211.23.95.147:18881/live/dtv3_h265.ts
-中視箐采,http://211.23.95.147:18881/live/dtv4_h265.ts
-公視,http://211.23.95.147:18881/live/dtv5_h265.ts
-公視台語,http://211.23.95.147:18881/live/dtv6_h265.ts
-民視,http://211.23.95.147:18881/live/dtv7_h265.ts
-民視新聞,http://211.23.95.147:18881/live/dtv8_h265.ts
-民視台灣,http://211.23.95.147:18881/live/dtv9_h265.ts
-公視3台,http://211.23.95.147:18881/live/dtv10_h265.ts
-客家電視,http://211.23.95.147:18881/live/dtv11_h265.ts
-原住民台,http://211.23.95.147:18881/live/dtv12_h265.ts
-台視,http://211.23.95.147:18881/live/dtv13_h265.ts
-台視新聞,http://211.23.95.147:18881/live/dtv14_h265.ts
-台視綜合,http://211.23.95.147:18881/live/dtv15_h265.ts
-華視,http://211.23.95.147:18881/live/dtv16_h265.ts
-華視教育,http://211.23.95.147:18881/live/dtv17_h265.ts
-華視新聞,http://211.23.95.147:18881/live/dtv18_h265.ts
-
-兒童,http://211.23.95.147#genre#
-東森幼幼,http://211.23.95.147:18881/live/25_h265.ts
-
-綜合,#genre#
-緯來綜合,http://211.23.95.147:18881/live/26_h265.ts
-GTV第一,http://211.23.95.147:18881/live/27_h265.ts
-GTV綜合,http://211.23.95.147:18881/live/28_h265.ts
-三立台灣,http://211.23.95.147:18881/live/29_h265.ts
-三立都會,http://211.23.95.147:18881/live/30_h265.ts
-華藝BNC,http://211.23.95.147:18881/live/31_h265.ts
-東森綜合,http://211.23.95.147:18881/live/32_h265.ts
-東森超視,http://211.23.95.147:18881/live/33_h265.ts
-中天綜合,http://211.23.95.147:18881/live/36_h265.ts
-東風衛視,http://211.23.95.147:18881/live/37_h265.ts
-年代MUCH,http://211.23.95.147:18881/live/38_h265.ts
-中天娛樂,http://211.23.95.147:18881/live/39_h265.ts
-東森戲劇,http://211.23.95.147:18881/live/40_h265.ts
-GTV戲劇,http://211.23.95.147:18881/live/41_h265.ts
-TVBS-G,http://211.23.95.147:18881/live/42_h265.ts
-緯來戲劇,http://211.23.95.147:18881/live/43_h265.ts
-JET綜合,http://211.23.95.147:18881/live/45_h265.ts
-
-新聞,#genre#
-壹電視新聞,http://211.23.95.147:18881/live/49_h265.ts
-年代新聞,http://211.23.95.147:18881/live/50_h265.ts
-東森新聞,http://211.23.95.147:18881/live/51_h265.ts
-三立新聞,http://211.23.95.147:18881/live/54_h265.ts
-TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
-TVBS-N,http://211.23.95.147:18881/live/56_h265.ts
-東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
-非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
-
-電影,#genre#
-緯來電影,http://211.23.95.147:18881/live/63_h265.ts
-HBO,http://211.23.95.147:18881/live/65_h265.ts
-AXN,http://211.23.95.147:18881/live/67_h265.ts
-好萊塢電影,http://211.23.95.147:18881/live/68_h265.ts
-AMC電影,http://211.23.95.147:18881/live/69_h265.ts
-緯來育樂,http://211.23.95.147:18881/live/70_h265.ts
-CINEMAX,http://211.23.95.147:18881/live/71_h265.ts
-
-體育,#genre#
-緯來體育,http://211.23.95.147:18881/live/72_h265.ts
-ELEVEN1,http://211.23.95.147:18881/live/73_h265.ts
-ELEVEN2,http://211.23.95.147:18881/live/74_h265.ts
-緯來日本,http://211.23.95.147:18881/live/77_h265.ts
-國興衛視,http://211.23.95.147:18881/live/78_h265.ts
-鏡電視新聞,http://211.23.95.147:18881/live/86_h265.ts
-非凡商業,http://211.23.95.147:18881/live/89_h265.ts
-NHK,http://211.23.95.147:18881/live/95_h265.ts
-壹電影,http://211.23.95.147:18881/live/102_h265.ts
-壹綜合,http://211.23.95.147:18881/live/104_h265.ts
-
-
 新聞臺,#genre#
-TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
-東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
-年代新聞臺,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
-三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
-中天新聞_SDI,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
-寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
-非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
-非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-中天新闻,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
-TVBS,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
-
-f13h,#genre#
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-民视,rtmp://f13h.mine.nu/sat/tv051
-纬来体育,http://mtw.so/5yqGDH
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-體育,#genre#
-ELTA1,https://livetvmax.com/channels/elta-sports1/
-momo綜合臺,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
-MoMo綜合臺,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
-緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-四臺,#genre#
-華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
-中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
-中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
-台視HD 1080P,http://74.91.26.218:82/live/ttv.m3u8
-民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
-民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
-華視,http://74.91.26.218:82/live/cts.m3u8
-中視,http://74.91.26.218:82/live/ctv.m3u8
-臺視,http://74.91.26.218:82/live/ttv.m3u8
-民視,http://74.91.26.218:82/live/ftv.m3u8
-公視,http://74.91.26.218:82/live/pts.m3u8
-綜合臺1,#genre#
-國興衛視,http://211.23.114.106:8523/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
-緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-緯來育樂HD,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-緯來育樂HD,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
-緯來綜合HD,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
-東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
-超視HD,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
-MUCH TV,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
-中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
-八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
-八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-綜合臺2,#genre#
-八大第一HD,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
-三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
-三立臺灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
-中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
-中天娛樂HD,http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-戲劇,#genre#
-東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
-東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
-緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
-電影,#genre#
-緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
-AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
-AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
-CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
-CINEMAX HD,http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
-HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
-749126,#genre#
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
+中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+四臺,#genre#
+華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
 華視,http://74.91.26.218:82/live/cts.m3u8
+中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視菁採臺,http://74.91.26.218:82/live/ctvjc.m3u8
 中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
 民視臺灣台,http://74.91.26.218:82/live/ftvtw.m3u8
 民視第一臺,http://74.91.26.218:82/live/ftvdy.m3u8
-民視,http://74.91.26.218:82/live/ftv.m3u8
 公視,http://74.91.26.218:82/live/pts.m3u8
 公視臺語臺,http://74.91.26.218:82/live/ptsty.m3u8
 公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
 臺視,http://74.91.26.218:82/live/ttv.m3u8
 臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-
-21123114,#genre#
-民視新聞臺,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-年代新聞臺,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞臺,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-
-華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-臺視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-
-國興衛視,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-
-八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-三立臺灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-衛視中文,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-龍華日韓,http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-龍華戲劇,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
-
-緯來電影臺,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-
-龍華卡通,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-
-亞洲旅遊,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-
-CCTV,#genre#
-
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-
-FM,#genre#
-江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
-飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
-AsiaFM 亞洲天空,http://funradio.cn:8000/funradio
-AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
-AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv
-FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
-HitFM 聯播網,https://stream.rcs.revma.com/ypqt40u0x1zuv
-M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv
-News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
-中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
-中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-中廣音樂網 iRadio,http://stream.rcs.revma.com/ks4vsmg3qtzuv
-中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
-中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
-天籟古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-古典音樂台 FM97.7,https://onair.family977.com.tw:8977/live.mp3
-台灣古典音樂台,http://59.120.88.155:8000/live.mp3
-城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
-愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
-臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
-警廣全國交通網,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
 18,#genre#
 松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
@@ -249,29 +32,3 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 香蕉臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 驚豔臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
-花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-nuart,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
-Public Agent,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
-Playboy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
-Playboy,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
-SexArt,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
-MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
-Banana Fever,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12168/index.m3u8
-Japan HDV,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
-Cherry Pimps,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
-Club 17,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6186/index.m3u8
-Blue Hustler,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1064/index.m3u8
-Hustler HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9065/index.m3u8
-Blue Hustler,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/1064/index.m3u8
-DE Blue Hustler,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/20023/index.m3u8
-XXX : Hustler HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19509
-XXX : Hustler TV (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
-Sex With Muslims,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6252/index.m3u8
-
-
-
-大陸頻道,#genre#
-海峽衛視,http://211.23.95.147:18881/live/105_h265.ts
-CCTV-4,http://211.23.95.147:18881/live/106_h265.ts
-廈門衛視,ttp://211.23.95.147:18881/live/107_h265.ts
