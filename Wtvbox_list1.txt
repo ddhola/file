@@ -25,7 +25,7 @@
 公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
 臺視,http://74.91.26.218:82/live/ttv.m3u8
 臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-本地音樂檔案,
+本地音樂檔案,#genre#
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
 中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
