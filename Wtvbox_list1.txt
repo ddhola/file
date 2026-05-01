@@ -37,6 +37,29 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
 城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
 
+新聞臺,#genre#
+華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+四臺,#genre#
+華視,http://74.91.26.218:82/live/cts.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視菁採臺,http://74.91.26.218:82/live/ctvjc.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+民視臺灣台,http://74.91.26.218:82/live/ftvtw.m3u8
+民視第一臺,http://74.91.26.218:82/live/ftvdy.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視臺語臺,http://74.91.26.218:82/live/ptsty.m3u8
+公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
+臺視,http://74.91.26.218:82/live/ttv.m3u8
+臺視,http://107.150.50.82:81/live/ttv.m3u8
+臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+
+
 18,#genre#
 松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
