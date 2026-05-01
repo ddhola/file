@@ -1,42 +1,3 @@
-新聞臺,#genre#
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
-臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
-中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
-中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
-華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-四臺,#genre#
-華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
-華視,http://74.91.26.218:82/live/cts.m3u8
-中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
-中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
-中視,http://74.91.26.218:82/live/ctv.m3u8
-中視菁採臺,http://74.91.26.218:82/live/ctvjc.m3u8
-中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
-民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
-民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
-民視,http://74.91.26.218:82/live/ftv.m3u8
-民視臺灣台,http://74.91.26.218:82/live/ftvtw.m3u8
-民視第一臺,http://74.91.26.218:82/live/ftvdy.m3u8
-公視,http://74.91.26.218:82/live/pts.m3u8
-公視臺語臺,http://74.91.26.218:82/live/ptsty.m3u8
-公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
-臺視,http://74.91.26.218:82/live/ttv.m3u8
-臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-本地音樂檔案,#genre#
-江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
-中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
-中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
-警廣全國交通網,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-HitFM 聯播網,https://stream.rcs.revma.com/ypqt40u0x1zuv
-飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
-News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
-愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
-城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
-
 新聞臺7491,#genre#
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -58,6 +19,37 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 臺視,http://74.91.26.218:82/live/ttv.m3u8
 臺視,http://107.150.50.82:81/live/ttv.m3u8
 臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+四臺,#genre#
+華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
+中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+FM,#genre#
+江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
+飛碟電臺,http://n08.rcs.revma.com/em90w4aeewzuv
+AsiaFM 亞洲天空,http://funradio.cn:8000/funradio
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+HitFM 聯播網,https://stream.rcs.revma.com/ypqt40u0x1zuv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv
+News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中廣音樂網 iRadio,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+天籟古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+古典音樂台 FM97.7,https://onair.family977.com.tw:8977/live.mp3
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
+愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+警廣全國交通網,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+
+
 
 
 18,#genre#
@@ -67,6 +59,25 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 香蕉臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 驚豔臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
+花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+nuart,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
+Public Agent,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
+Playboy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+Playboy,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
+SexArt,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
+MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
+Banana Fever,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12168/index.m3u8
+Japan HDV,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
+Cherry Pimps,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
+Club 17,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6186/index.m3u8
+Blue Hustler,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1064/index.m3u8
+Hustler HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9065/index.m3u8
+Blue Hustler,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/1064/index.m3u8
+DE Blue Hustler,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/20023/index.m3u8
+XXX : Hustler HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19509
+XXX : Hustler TV (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
+Sex With Muslims,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6252/index.m3u8
 
 OTT,#genre#
 
