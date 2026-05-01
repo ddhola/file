@@ -37,14 +37,14 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 愛樂電臺 (Philharmonic),https://onair.family977.com.tw:8977/live.mp3
 城市廣播網 (CityFM),http://fm929.cityfm.tw:8080/929.mp3
 
-新聞臺,#genre#
+新聞臺7491,#genre#
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-四臺,#genre#
+四臺7491,#genre#
 華視,http://74.91.26.218:82/live/cts.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視菁採臺,http://74.91.26.218:82/live/ctvjc.m3u8
