@@ -53,15 +53,8 @@
     { "key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hlxzy", "name": "🔞黑料X", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "xjzyw", "name": "🔞香蕉", "type": 1, "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "bwzy", "name": "🔞百万", "type": 1, "api": "https://api.bwzyz.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "采集C(黄瓜)", "name": "🔞黄瓜", "type": 1, "api": "https://www.avre06.com/api.php/Prodao/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "采集E(甜蜜)", "name": "🔞甜蜜", "type": 1, "api": "https://timizy10.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "采集E(草榴)", "name": "🔞草榴", "type": 1, "api": "https://www.caoliuzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "采集F(老鸭)", "name": "🔞老鸭", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "apittzy.com", "name": "🔞芒果", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "hghhh.com", "name": "🔞柠檬", "type": 1, "api": "https://hghhh.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "api.maozyapi.com", "name": "🔞蜜橘", "type": 1, "api": "https://api.maozyapi.com/inc/apijson_vod.php", "searchable": 1, "quickSearch": 1, "filterable": 1 }
-  ],
+    { "key": "bwzy", "name": "🔞百万", "type": 1, "api": "https://api.bwzyz.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+ ],
   "lives": [
     {
       "name": "我的直播頻道",
