@@ -77,6 +77,6 @@
   { "name": "🔞色猫", "api": "http://caiji.semaozy.net/inc/apijson_vod.php" },
   { "name": "🔞黑料X", "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list" },
   { "name": "🔞香蕉", "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list" },
-  { "name": "🔞百万", "api": "https://api.bwzyz.com/api.php/provide/vod/at/json" }
+  { "name": "🔞百万", "api": "https://api.bwzyz.com/api.php/provide/vod/at/json" },
 
 
