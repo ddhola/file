@@ -23,14 +23,16 @@
 
 
 { name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
+{ name: "🔞桃花资源", api: "https://thzy1.me/api.php/provide/vod/" },
+{ name: "🔞精品X", api: "https://www.jingpinx.com/api.php/provide/vod" },
 { name: "🔞辣椒", api: "http://lajiaozy.com/api.php/provide/vod" },
-{ name: "🔞桃花", api: "https://thzy1.me/api.php/provide/vod/?ac=list" },
+
 { name: "🔞鲨鱼", api: "https://shayuapi.com/api.php/provide/vod" },
 
 { name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
 { name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
 { name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
-{ name: "🔞桃花资源", api: "https://thzy1.me/api.php/provide/vod/" },
+
 { name: "🔞国产资源", api: "https://fqzy.me/api.php/provide/vod/?ac=list" },
 { name: "🔞lsb资源", api: "https://apilsbzy1.com/api.php/provide/vod/" },
 { name: "🔞性细胞", api: "https://www.xxibaozyw.com/api.php/provide/vod/" },
@@ -39,6 +41,7 @@
 
 
 { name: "✈️关注裤佬TG频道@stymei", api: "https://19q.cc/api.php/provide/vod" },
+{ name: "🔞桃花", api: "https://thzy1.me/api.php/provide/vod/?ac=list" },
 { name: "🔞TG资源", api: "https://tgzyz.pp.ua/api.php/provide/vod" },
 { name: "🔞越南", api: "https://vnzyz.com/api.php/provide/vod" },
 { name: "🔞奥斯卡", api: "https://aosikazy4.com/api.php/provide/vod" },
@@ -51,7 +54,7 @@
 { name: "🔞鸡坤", api: "https://jkunzyapi.com/api.php/provide/vod" },
 { name: "🔞淫水机", api: "https://www.xrbsp.com/api/json.php" },
 { name: "🔞香奶儿", api: "https://www.gdlsp.com/api/json.php" },
-{ name: "🔞精品X", api: "https://www.jingpinx.com/api.php/provide/vod" },
+
 { name: "🔞老色p", api: "https://apilsbzy1.com/api.php/provide/vod" },
 { name: "🔞番号", api: "http://fhapi9.com/api.php/provide/vod" },
 { name: "🔞黄色仓库", api: "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json" },
