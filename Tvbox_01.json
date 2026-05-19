@@ -23,6 +23,8 @@
     { "key": "bdzy", "name": "🎈百度┃資源", "type": 1, "api": "https://api.apibdzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "wlzy", "name": "🎬臥龍┃資源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "gszy", "name": "🎞️光速┃資源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+   
+    { "key": "ckbh", "name": "🔞CK百货", "type": 1, "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "lbzy", "name": "🔞樂播資源", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "fhzy", "name": "🔞番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hsck", "name": "🔞黄色仓库(旧)", "type": 1, "api": "https://hsckzy.vip/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -71,7 +73,7 @@
   { "key": "shayu", "name": "🔞鲨鱼", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "91md", "name": "🔞91麻豆", "type": 1, "api": "http://91md.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "xzyzy", "name": "🔞幸资源", "type": 1, "api": "https://xzybb1.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-  { "key": "ckbh", "name": "🔞CK百货", "type": 1, "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+ 
   { "key": "thzy", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "swzy", "name": "🔞丝袜", "type": 1, "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
