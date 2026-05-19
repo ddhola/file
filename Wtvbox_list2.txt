@@ -1,6 +1,7 @@
 
-{ name: "🥣爱坤┃影视", api: "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json" },
+
 { name: "📅天天┃影视", api: "https://api.1080zyku.com/inc/apijson.php" },
+{ name: "🥣爱坤┃影视", api: "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json" },
 { name: "🎬艾旦影视(聚)", api: "https://lovedan.net/api.php/provide/vod/" },
 { name: "🎀极速┃采集", api: "https://jszyapi.com/api.php/provide/vod/" },
 { name: "🎦百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" },
@@ -32,6 +33,7 @@
 { name: "🔞麻豆视频2", api: "https://madouse.la/api.php/provide/vod/" },
 { name: "🎆1080资源库(切)", api: "https://api.1080zyku.com/inc/api_mac10.php" },
 
+{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
 { name: "✈️关注裤佬TG频道@stymei", api: "https://19q.cc/api.php/provide/vod" },
 { name: "🔞TG资源", api: "https://tgzyz.pp.ua/api.php/provide/vod" },
 { name: "🔞越南", api: "https://vnzyz.com/api.php/provide/vod" },
@@ -69,7 +71,6 @@
 { name: "🔞鲨鱼", api: "https://shayuapi.com/api.php/provide/vod" },
 { name: "🔞91麻豆", api: "http://91md.me/api.php/provide/vod" },
 { name: "🔞幸资源", api: "https://xzybb1.com/api.php/provide/vod" },
-{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
 { name: "🔞桃花", api: "https://thzy1.me/api.php/provide/vod/?ac=list" },
 { name: "🔞丝袜", api: "https://www.siwazyw.tv/api.php/provide/vod/at/json" },
 { name: "🔞豆豆", api: "https://doudouzy.com/api.php/provide/vod/?ac=list" },
