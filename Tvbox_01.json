@@ -77,7 +77,7 @@
   { "key": "jkunzy", "name": "🔞jkun", "type": 1, "api": "https://www.jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "slapibf", "name": "🔞樱桃", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "semaozy", "name": "🔞苹果", "type": 1, "api": "https://caiji.semaozy.net/inc/apijson_vod.php/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-  { "key": "jkunzyap", "name": "🔞花生", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+  { "key": "jkunzyap", "name": "🔞花生", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 }
     
   ],
   "lives": [
