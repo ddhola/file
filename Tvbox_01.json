@@ -20,16 +20,19 @@
     { "key": "gszy", "name": "🎞️光速┃資源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "lzzy", "name": "💎量子┃資源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "ckbh", "name": "🔞CK百货", "type": 1, "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-     { "key": "ljzy", "name": "🔞辣椒", "type": 1, "api": "http://lajiaozy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "ljzy", "name": "🔞辣椒", "type": 1, "api": "http://lajiaozy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "thzy", "name": "🔞桃花资源", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "shayu", "name": "🔞鲨鱼资源", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+  
     { "key": "lbzy", "name": "🔞樂播資源", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "fhzy", "name": "🔞番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hsck", "name": "🔞黄色仓库(旧)", "type": 1, "api": "https://hsckzy.vip/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "thzy", "name": "🔞桃花资源", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+   
     { "key": "fqzy", "name": "🔞国产资源", "type": 1, "api": "https://fqzy.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "lsb", "name": "🔞lsb资源", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "xxibao", "name": "🔞性細胞", "type": 1, "api": "https://www.xxibaozyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "mdouse", "name": "🔞麻豆视频2", "type": 1, "api": "https://madouse.la/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "shayu", "name": "🔞鲨鱼资源", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+   
     { "key": "cmjh", "name": "✈️关注裤佬TG频道@stymei", "type": 1, "api": "https://19q.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "ynzy", "name": "🔞越南", "type": 1, "api": "https://vnzyz.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "askzy", "name": "🔞奥斯卡", "type": 1, "api": "https://aosikazy4.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
