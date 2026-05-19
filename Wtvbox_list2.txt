@@ -22,7 +22,7 @@
 { name: "🆕非凡┃资源", api: "http://cj.ffzyapi.com/api.php/provide/vod/" },
 
 
-
+{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
 { name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
 { name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
 { name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
@@ -33,7 +33,7 @@
 { name: "🔞麻豆视频2", api: "https://madouse.la/api.php/provide/vod/" },
 { name: "🎆1080资源库(切)", api: "https://api.1080zyku.com/inc/api_mac10.php" },
 
-{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
+
 { name: "✈️关注裤佬TG频道@stymei", api: "https://19q.cc/api.php/provide/vod" },
 { name: "🔞TG资源", api: "https://tgzyz.pp.ua/api.php/provide/vod" },
 { name: "🔞越南", api: "https://vnzyz.com/api.php/provide/vod" },
