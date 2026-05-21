@@ -23,6 +23,21 @@
 
 
 
+{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
+{ name: "🔞桃花资源", api: "https://thzy1.me/api.php/provide/vod/" },
+{ name: "🔞精品X", api: "https://www.jingpinx.com/api.php/provide/vod" },
+{ name: "🔞辣椒", api: "http://lajiaozy.com/api.php/provide/vod" },
+
+{ name: "🔞鲨鱼", api: "https://shayuapi.com/api.php/provide/vod" },
+
+{ name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
+{ name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
+{ name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
+
+{ name: "🔞国产资源", api: "https://fqzy.me/api.php/provide/vod/?ac=list" },
+{ name: "🔞lsb资源", api: "https://apilsbzy1.com/api.php/provide/vod/" },
+{ name: "🔞性细胞", api: "https://www.xxibaozyw.com/api.php/provide/vod/" },
+{ name: "🔞麻豆视频2", api: "https://madouse.la/api.php/provide/vod/" },
 
 
 
