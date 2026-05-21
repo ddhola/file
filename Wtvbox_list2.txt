@@ -22,69 +22,7 @@
 { name: "🆕非凡┃资源", api: "http://cj.ffzyapi.com/api.php/provide/vod/" },
 
 
-{ name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
-{ name: "🔞桃花资源", api: "https://thzy1.me/api.php/provide/vod/" },
-{ name: "🔞精品X", api: "https://www.jingpinx.com/api.php/provide/vod" },
-{ name: "🔞辣椒", api: "http://lajiaozy.com/api.php/provide/vod" },
 
-{ name: "🔞鲨鱼", api: "https://shayuapi.com/api.php/provide/vod" },
-
-{ name: "🔞樂播資源", api: "https://lbapi9.com/api.php/provide/vod/" },
-{ name: "🔞番号资源", api: "http://fhapi9.com/api.php/provide/vod/" },
-{ name: "🔞黄色仓库(旧)", api: "https://hsckzy.vip/api.php/provide/vod/" },
-
-{ name: "🔞国产资源", api: "https://fqzy.me/api.php/provide/vod/?ac=list" },
-{ name: "🔞lsb资源", api: "https://apilsbzy1.com/api.php/provide/vod/" },
-{ name: "🔞性细胞", api: "https://www.xxibaozyw.com/api.php/provide/vod/" },
-{ name: "🔞麻豆视频2", api: "https://madouse.la/api.php/provide/vod/" },
-{ name: "🎆1080资源库(切)", api: "https://api.1080zyku.com/inc/api_mac10.php" },
-
-
-{ name: "✈️关注裤佬TG频道@stymei", api: "https://19q.cc/api.php/provide/vod" },
-{ name: "🔞桃花", api: "https://thzy1.me/api.php/provide/vod/?ac=list" },
-{ name: "🔞TG资源", api: "https://tgzyz.pp.ua/api.php/provide/vod" },
-{ name: "🔞越南", api: "https://vnzyz.com/api.php/provide/vod" },
-{ name: "🔞奥斯卡", api: "https://aosikazy4.com/api.php/provide/vod" },
-{ name: "🔞X细胞", api: "https://www.xxibaozyw.com/api.php/provide/vod" },
-{ name: "🔞91AV", api: "https://91av.cyou/api.php/provide/vod" },
-{ name: "🔞91精品", api: "https://91jpzyw.com/api.php/provide/vod/at/json" },
-{ name: "🔞小鸡", api: "https://api.xiaojizy.live/provide/vod" },
-{ name: "🔞大奶子", api: "https://apidanaizi.com/api.php/provide/vod" },
-{ name: "🔞滴滴", api: "https://api.ddapi.cc/api.php/provide/vod" },
-{ name: "🔞鸡坤", api: "https://jkunzyapi.com/api.php/provide/vod" },
-{ name: "🔞淫水机", api: "https://www.xrbsp.com/api/json.php" },
-{ name: "🔞香奶儿", api: "https://www.gdlsp.com/api/json.php" },
-
-{ name: "🔞老色p", api: "https://apilsbzy1.com/api.php/provide/vod" },
-{ name: "🔞番号", api: "http://fhapi9.com/api.php/provide/vod" },
-{ name: "🔞黄色仓库", api: "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json" },
-{ name: "🔞百花", api: "https://bhziyuan.com/api.php/provide/vod/?ac=list" },
-{ name: "🔞优异", api: "https://a.uezy.pw/api.php/provide/vod" },
-
-{ name: "🔞白嫖", api: "https://www.kxgav.com/api/json.php" },
-{ name: "🔞美少女", api: "https://www.msnii.com/api/xml.php" },
-{ name: "🔞155", api: "https://155api.com/api.php/provide/vod" },
-{ name: "🔞杏吧", api: "https://xingba111.com/api.php/provide/vod/?ac=list" },
-{ name: "🔞大地", api: "https://dadiapi.com/api.php" },
-{ name: "🔞玉兔", api: "https://apiyutu.com/api.php/provide/vod" },
-{ name: "🔞AIvin", api: "http://lbapiby.com/api.php/provide/vod/at/json" },
-{ name: "🔞湿乐园", api: "https://xxavs.com/api.php/provide/vod" },
-{ name: "🔞乐播", api: "https://lbapi9.com/api.php/provide/vod" },
-{ name: "🔞奶香香", api: "https://naixxzy.com/api.php/provide/vod" },
-{ name: "🔞黄AV", api: "https://www.pgxdy.com/api/xml.php" },
-{ name: "🔞森林", api: "http://slapibf.com/api.php/provide/vod" },
-{ name: "🔞番茄", api: "https://fqzy.me//api.php/provide/vod/?ac=list" },
-{ name: "🔞souav", api: "https://souavzy7.com/api.php/provide/vod" },
-
-{ name: "🔞91麻豆", api: "http://91md.me/api.php/provide/vod" },
-{ name: "🔞幸资源", api: "https://xzybb1.com/api.php/provide/vod" },
-
-{ name: "🔞丝袜", api: "https://www.siwazyw.tv/api.php/provide/vod/at/json" },
-{ name: "🔞豆豆", api: "https://doudouzy.com/api.php/provide/vod/?ac=list" },
-{ name: "🔞色猫", api: "http://caiji.semaozy.net/inc/apijson_vod.php" },
-{ name: "🔞黑料X", api: "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list" },
-{ name: "🔞香蕉", api: "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list" },
-{ name: "🔞百万", api: "https://api.bwzyz.com/api.php/provide/vod/at/json" },
 
 
 
