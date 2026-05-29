@@ -20,7 +20,7 @@
 { name: "👍U酷资源(优)", api: "https://api.ukuapi.com/api.php/provide/vod/" },
 { name: "🍿櫻花|採集", api: "https://m3u8.apiyhzy.com/api.php/provide/vod/" },
 { name: "🆕非凡┃资源", api: "http://cj.ffzyapi.com/api.php/provide/vod/" },
-
+{ name: "🆕爱看┃刺桐", api: "https://ikunzyapi.com/api.php/provide/vod/" },
 
 
 { name: "🔞CK百货", api: "https://ckbh1.xyz/api.php/provide/vod/?ac=list" },
