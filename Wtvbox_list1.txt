@@ -164,7 +164,6 @@ TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
 滾動力rollor,https://ha.msbot.dpdns.org/4gtv_api.php?id=249
 影迷數位紀實臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
-18,#genre#
 香蕉直擊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=94
 ROCK Xstream搖滾極限頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=485
 
