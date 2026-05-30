@@ -4,6 +4,7 @@
     { "key": "ttzy", "name": "📅天天┃影视", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "sdzy", "name": "闪电资源(切)", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "ikun", "name": "🥣爱坤┃影视", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "U酷資源", "name": "U酷資源🔪", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     { "key": "rycj", "name": "🦄如意┃追剧", "type": 1, "api": "https://cj.rycjapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "aidan", "name": "🎬艾旦影视(聚)", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "snzy1", "name": "🎊索尼1┃资源", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
