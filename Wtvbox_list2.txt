@@ -2,6 +2,7 @@
 
 { name: "📅天天┃影视", api: "https://api.1080zyku.com/inc/apijson.php" },
 { name: "🥣爱坤┃影视", api: "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json" },
+{ name: "U酷資源🔪", api: "https://api.ukuapi.com/api.php/provide/vod/" },
 { name: "🎬艾旦影视(聚)", api: "https://lovedan.net/api.php/provide/vod/" },
 { name: "🎀极速┃采集", api: "https://jszyapi.com/api.php/provide/vod/" },
 { name: "🎦百度资源(切)", api: "https://api.apibdzy.com/api.php/provide/vod/" },
