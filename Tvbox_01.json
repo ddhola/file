@@ -60,8 +60,19 @@
     { "key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hlxzy", "name": "🔞黑料X", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "xjzyw", "name": "🔞香蕉", "type": 1, "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "bwzy", "name": "🔞百万", "type": 1, "api": "https://api.bwzyz.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
- ],
+    { "key": "bwzy", "name": "🔞百万", "type": 1, "api": "https://api.bwzyz.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    {"key": "小猫咪", "name": "小猫咪", "type": 1, "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "速博资源", "name": "速博资源", "type": 1, "api": "https://subocaiji.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "虎牙资源", "name": "虎牙资源", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "步步高资源", "name": "步步高资源", "type": 1, "api": "https://api.yparse.com/api/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "樱花资源", "name": "樱花资源", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "无尽资源", "name": "无尽资源", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "橘猫影视", "name": "橘猫影视(聚)", "type": 1, "api": "http://www.zitv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1}
+
+ 
+  
+  
+  ],
   "lives": [
     {
       "name": "我的直播頻道",
