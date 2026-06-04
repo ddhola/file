@@ -21,12 +21,12 @@
 {"key": "bdzy", "name": "🎈百度┃資源", "type": 1, "api": "https://api.apibdzy.com/api.php/provide/vod/"},
 {"key": "gszy", "name": "🎞️光速┃資源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/"},
 {"key": "lzzy", "name": "💎量子┃資源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/"},
-{"key": "kxgjx", "name": "开心果解析", "type": 1, "url": "http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="},
-{"key": "yynbjx", "name": "YYNB解析", "type": 1, "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="},
-{"key": "yynbjx2", "name": "YYNB解析2", "type": 1, "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="},
-{"key": "tuijian", "name": "推荐", "type": 1, "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
-{"key": "zhenxiang", "name": "臻享", "type": 1, "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
-{"key": "youxuan", "name": "优选", "type": 1, "url": "http://1.94.221.189:88/algorithm.php?url="},
+{"key": "kxgjx", "name": "开心果解析", "type": 1, "api": "http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="},
+{"key": "yynbjx", "name": "YYNB解析", "type": 1, "api": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="},
+{"key": "yynbjx2", "name": "YYNB解析2", "type": 1, "api": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="},
+{"key": "tuijian", "name": "推荐", "type": 1, "api": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
+{"key": "zhenxiang", "name": "臻享", "type": 1, "api": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
+{"key": "youxuan", "name": "优选", "type": 1, "api": "http://1.94.221.189:88/algorithm.php?url="},
 {"key": "猫眼", "name": "猫眼｜采集", "type": 1, "api": "https://api.maoyanapi.top/api.php/provide/vod/"},
 {"key": "暴风", "name": "暴风｜采集", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/"},
 {"key": "天堂", "name": "天堂｜采集", "type": 1, "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/"},
@@ -74,7 +74,7 @@
 {"key": "hlxzy", "name": "🔞黑料X", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"},
 {"key": "xjzyw", "name": "🔞香蕉", "type": 1, "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"},
 {"key": "bwzy", "name": "🔞百万", "type": 1, "api": "https://api.bwzyz.com/api.php/provide/vod/at/json"},
-{"key": "mrmjx", "name": "默認解析", "type": 1, "url": "https://jx.jsonplayer.com/player/?url="}
+{"key": "mrmjx", "name": "默認解析", "type": 1, "api": "https://jx.jsonplayer.com/player/?url="}
 
  
   
