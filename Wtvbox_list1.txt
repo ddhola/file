@@ -54,6 +54,7 @@ TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
 公視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=337
 綜合臺1,#genre#
+緯來日本「Relay」,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
 TVBS精采臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
