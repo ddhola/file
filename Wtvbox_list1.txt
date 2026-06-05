@@ -134,7 +134,7 @@ TLC,http://kaniptv.com/xz/xz_ae24e8364f/wwkds.php?id=tlc
 探索,#genre#
 視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
 影迷數位紀實臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
-
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
 
 
