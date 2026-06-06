@@ -1,4 +1,8 @@
 新聞臺,#genre#
+
+國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
+國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
+
 纬来体育,https://kafeizhibo.cc/pc/room/6666
 东森戏剧,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
 好莱坞电影台,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
