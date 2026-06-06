@@ -1,4 +1,5 @@
 新聞臺,#genre#
+纬来体育,https://kafeizhibo.cc/pc/room/6666
 东森戏剧,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
 好莱坞电影台,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
