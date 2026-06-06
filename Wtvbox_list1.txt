@@ -292,6 +292,30 @@ JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.1
 靖天資訊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
 KLT-靖天國際臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
 Nice TV 靖天歡樂臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+中天综合,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=ztzh
+中天新闻,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=ztxw
+中天娱乐,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=ztyl
+中天亚洲,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=ztyz
+东森综合,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=dszh
+东森戏剧台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=dsxj
+TVBS欢乐台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=tvbshl
+EYE TV旅游台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=eyely
+EYE TV戏剧台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=eyexj
+纬来综合台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wlzh
+纬来育乐台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wlyl
+纬来戏剧台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wlxj
+纬来体育台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wlty
+纬来日本台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wljp
+纬来精采台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=wljc
+三立综合台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=slzh
+三立台湾台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=sltw
+三立戏剧台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=slxj
+三立都会台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=sldh
+八大综合台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=bdzh
+八大第一台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=bddy
+八大戏剧台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=bdxj
+八大娱乐台,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=bdyl
+ELTA综合,http://kaniptv.com/xz/xz_b7a5a4e9f6/wwkds.php?id=elta
 戲劇,#genre#
 八大戲劇,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1057.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
