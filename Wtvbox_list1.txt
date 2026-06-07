@@ -2,11 +2,13 @@
 
 新聞臺4G,#genre#
 民视新闻,http://211.72.174.95:8117/0.ts
-台视,http://211.72.174.95:8112/0.ts
-中视,http://211.72.174.95:8113/0.ts
 华视,http://211.72.174.95:8114/0.ts
-公视,http://211.72.174.95:8116/0.ts
+中视,http://211.72.174.95:8113/0.ts
+台视,http://211.72.174.95:8112/0.ts
 民视,http://211.72.174.95:8115/0.ts
+公视,http://211.72.174.95:8116/0.ts
+
+
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 東森新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
