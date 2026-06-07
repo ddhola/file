@@ -555,4 +555,54 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 
 
 
+未整理,#genre#
 
+
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
+CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
+CCTV5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
+CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
+CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
+CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
+CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
+CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
+CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
+CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
+CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
+CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+重温经典,https://cdn16.163189.xyz/163189/cwjd
+广州综合,https://cdn16.163189.xyz/163189/gzzh
+广州新闻,https://cdn16.163189.xyz/163189/gzxw
+广州南国都市,https://cdn15.163189.xyz/163189/ngds
+五星体育,https://cdn15.163189.xyz/163189/wxty
+民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
+纬来电影台,https://smt.1678520.xyz/163189/wldy
+纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+纬来体育台,https://smt.1678520.xyz/163189/wlty
+龙祥时代,https://smt.1678520.xyz/163189/lxsd
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森戏剧,https://smt.1678520.xyz/163189/dsxj
+东森洋片,https://smt.1678520.xyz/163189/dsyp
