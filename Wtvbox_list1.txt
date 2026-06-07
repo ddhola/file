@@ -229,6 +229,10 @@ TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 公視少兒,http://74.91.26.218:82/live/ptsse.m3u8
 臺視,http://74.91.26.218:82/live/ttv.m3u8
 臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+
+华视,http://211.72.174.95:8114/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://211.72.174.95:8116/0.ts
 綜合臺1,#genre#
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
