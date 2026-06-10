@@ -598,3 +598,7 @@ CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+纬来电影,http://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+​纬来体育,http://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+​​纬来戏剧,http://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+​​​纬来日本,http://cdn.19891230.eu.org/api/​VL-Japa/index.m3u8
