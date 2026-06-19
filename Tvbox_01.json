@@ -4,7 +4,7 @@
         {"key": "ttzy", "name": "📅天天┃影视", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php"},
         {"key": "无水印", "name": "水印｜采集", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod/"},
         {"key": "sdzy", "name": "闪电资源(切)", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/"},
-        {"key": "ikun", "name": "🥣爱坤┃影视", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
+        {"key": "ikun", "name": "🥣爱坤┃影视x", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
         {"key": "U酷資源", "name": "U酷資源🔪", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/"},
         {"key": "rycj", "name": "🦄如意┃追剧", "type": 1, "api": "https://cj.rycjapi.com/api.php/provide/vod"},
         {"key": "aidan", "name": "🎬艾旦影视(聚)", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/"},
