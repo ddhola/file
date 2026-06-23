@@ -381,6 +381,8 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 松視1臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+松视3台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6453215e79f4b53d09b519a8eab50ac9.flv
+
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
