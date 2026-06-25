@@ -495,6 +495,15 @@ TLC,http://211.23.95.147:18881/live/21_h265.ts
 
 
 FM,#genre#
+
+怀集音乐,http://live.xmcdn.com/live/966/64.m3u8
+高清音乐,http://live.xmcdn.com/live/1427/64.m3u8
+清晨音乐,http://live.xmcdn.com/live/1011/64.m3u8
+AsiaFM经典,http://live.xmcdn.com/live/1005/64.m3u8
+年代音乐,http://live.xmcdn.com/live/2628/64.m3u8
+
+
+
 怀集音乐之声,http://live.xmcdn.com/live/1205/64.m3u8
 江蘇經典流行音樂廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 亞太之聲 (純音樂),https://stream.rcs.revma.com/kydend74hv8uv
