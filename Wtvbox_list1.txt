@@ -521,48 +521,51 @@ News98 新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 
 未整理,#genre#
 
-公视,http://211.72.174.95:8116/0.ts
-公视,http://220.135.241.47:8305/0.ts
-公视台语台,http://220.135.241.47:8306/0.ts
-小公视,http://220.135.241.47:8312/0.ts
-华视,http://211.72.174.95:8114/0.ts
-华视,http://220.135.241.47:8317/0.ts
-华视教育体育文化,http://220.135.241.47:8318/0.ts
+
+
 华视新闻资讯,http://220.135.241.47:8319/0.ts
-台视,http://211.72.174.95:8112/0.ts
-台视,http://220.135.241.47:8313/0.ts
-台视财经,http://220.135.241.47:8315/0.ts
-台视新闻,http://220.135.241.47:8314/0.ts
-台视综合,http://220.135.241.47:8316/0.ts
-中视,http://211.72.174.95:8113/0.ts
-中视,http://220.135.241.47:8301/0.ts
 中视新闻,http://220.135.241.47:8302/0.ts
-中视经典,http://220.135.241.47:8321/0.ts
-中视菁彩,http://220.135.241.47:8322/0.ts
-民视,http://211.72.174.95:8115/0.ts
-民视,http://220.135.241.47:8308/0.ts
-民视第一台,http://220.135.241.47:8309/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
+华视教育体育文化,http://220.135.241.47:8318/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
 民视新闻台,http://211.72.174.95:8117/0.ts
 民视新闻台,http://220.135.241.47:8310/0.ts
+
+华视,http://211.72.174.95:8114/0.ts
+华视,http://220.135.241.47:8317/0.ts
+中视,http://211.72.174.95:8113/0.ts
+中视,http://220.135.241.47:8301/0.ts
+台视,http://211.72.174.95:8112/0.ts
+台视,http://220.135.241.47:8313/0.ts
+民视,http://211.72.174.95:8115/0.ts
+民视,http://220.135.241.47:8308/0.ts
+公视,http://211.72.174.95:8116/0.ts
+公视,http://220.135.241.47:8305/0.ts
+
+中视经典,http://220.135.241.47:8321/0.ts
+中视菁彩,http://220.135.241.47:8322/0.ts
+台视综合,http://220.135.241.47:8316/0.ts
+民视第一台,http://220.135.241.47:8309/0.ts
 民视台湾台,http://220.135.241.47:8311/0.ts
-原住民电视,http://220.135.241.47:8303/0.ts
-客家电视,http://220.135.241.47:8307/0.ts
-CNBC,http://211.72.174.95:8133/0.ts
-彭博财经,http://211.72.174.95:8131/0.ts
-东森新闻,http://211.72.174.95:8138/0.ts
-翡翠台,http://qingyi.7766.org:9004/0.ts
-TVB Plus,https://smt.1678520.xyz/163189/tvbp
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
-纬来体育台,https://smt.1678520.xyz/163189/wlty
-龙祥时代,https://smt.1678520.xyz/163189/lxsd
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
+公视台语台,http://220.135.241.47:8306/0.ts
+小公视,http://220.135.241.47:8312/0.ts
+民视影剧台,https://cdn12.178.indevs.in/163189/msyj
+公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
+
 纬来电影,http://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 ​纬来体育,http://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 ​​纬来戏剧,http://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
 ​​​纬来日本,http://cdn.19891230.eu.org/api/​VL-Japa/index.m3u8
+纬来电影台,https://smt.1678520.xyz/163189/wldy
+纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+纬来体育台,https://smt.1678520.xyz/163189/wlty
+
+
+东森新闻,http://211.72.174.95:8138/0.ts
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森戏剧,https://smt.1678520.xyz/163189/dsxj
+东森洋片,https://smt.1678520.xyz/163189/dsyp
+
 
 
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -572,18 +575,28 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,https://cdn8.163189.xyz/163189/lhyp
 龙华卡通,https://cdn8.163189.xyz/163189/lhkt
-重温经典,https://cdn16.163189.xyz/163189/cwjd
-广州综合,https://cdn16.163189.xyz/163189/gzzh
-广州新闻,https://cdn16.163189.xyz/163189/gzxw
-广州南国都市,https://cdn15.163189.xyz/163189/ngds
-五星体育,https://cdn15.163189.xyz/163189/wxty
-民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
+龙祥时代,https://smt.1678520.xyz/163189/lxsd
+
 靖天映画,https://cdn12.178.indevs.in/163189/jtyh
 靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
 靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
 靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
+
+
+原住民电视,http://220.135.241.47:8303/0.ts
+客家电视,http://220.135.241.47:8307/0.ts
+CNBC,http://211.72.174.95:8133/0.ts
+彭博财经,http://211.72.174.95:8131/0.ts
+
+翡翠台,http://qingyi.7766.org:9004/0.ts
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
+
+
+
+
+
+
+
 影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
 amc电影台,https://cdn12.178.indevs.in/163189/amc
 CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
@@ -594,13 +607,9 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
 精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
-纬来体育台,https://smt.1678520.xyz/163189/wlty
+
 龙祥时代,https://smt.1678520.xyz/163189/lxsd
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
+
 
 
 
