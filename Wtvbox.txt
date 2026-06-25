@@ -1,0 +1,252 @@
+新聞臺,#genre#
+TVBS新聞,http://4t.537224.xyz/live/media-live072#http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新聞,http://rihou.cc:555/tv/[FY]tvbS新聞
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS 新聞 HD,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0c4OEthamotTmx6cTJab3Q0aUtXbFFNckF1ekx5VzFnd3VQWmRad2dTY3p1X2xZY3llTmp5NW1VdEJUblduNl9SUmpXMXlTdk9UcWVJUmpkUTRSQ1JVWnZCa3Y5Q01wU1hyQlhLWU1PbVNUaW90Zy12blp2TUQ3eExFbEhDMTNQaHVoZDRDNzJNWWZsUnBwTkNTTXBkLWt4T2NGRVRyb21ZMVIySmtmOTQwMlBDM2t0OEdxTEVyY2V3ZXBzVW16cV9WcE1rWlg1SWY5UzN3OVBHcVJvenVnLm0zdTg/dT0xNzU3MTIzODE5
+TVBS 新聞,https://stream1.freetv.fun/tvbs-news-1.m3u8
+TVBS新聞,http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true
+東森新聞,http://rihou.cc:555/tv/東森新聞
+東森新聞,http://208.87.242.79/livehttpplay?channel_id=20082
+東森新聞,http://211.72.174.95:8138/0.ts
+東森財經新聞,http://211.23.125.95:50007/4gtv-4gtv153/index.m3u8?proxy=true
+東森新聞,http://211.23.125.95:50007/4gtv-4gtv152/index.m3u8?proxy=true
+華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
+華視新聞 HD,http://123.51.136.80:8319/0.ts
+華視新聞資訊,http://211.23.125.95:50007/4gtv-4gtv052/index.m3u8?proxy=true
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視新聞HD,http://211.23.125.95:50007/4gtv-4gtv074/index.m3u8?proxy=true
+中視新聞,http://123.51.136.80:8302/0.ts
+臺視新聞,http://rihou.cc:555/tv/臺視新聞
+臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+臺視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
+臺視新聞 HD,http://123.51.136.80:8314/0.ts
+臺視財經 HD,http://123.51.136.80:8315/0.ts
+臺視財經,http://211.23.125.95:50007/4gtv-4gtv056/index.m3u8?proxy=true
+臺視新聞,http://211.23.125.95:50007/4gtv-4gtv051/index.m3u8?proxy=true
+民視新聞,http://rihou.cc:555/tv/民視新聞
+民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
+民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://123.51.136.80:8310/0.ts
+民視新聞,http://211.72.174.95:8117/0.ts
+年代新聞臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
+三立新聞,http://208.87.242.79/livehttpplay?channel_id=10126
+中天新聞,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
+中天新聞,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+中天新聞臺,http://222.128.55.152:9080/live/fc.m3u8
+中天新聞,http://211.23.125.95:50007/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://rihou.cc:555/tv/寰宇新聞
+寰宇新聞臺灣,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rvx6mPFYFBkkZvn9WFnIWrnrmw-PJg94VdaIFjhKLLslS3hVgt8K1Gxhccp_R67ZRq_HQNtWBy3po4j7bv2IwqnZT9T8D5Ef3z7y9ybvoYR_r9iPLH8ejARDMhF9S1XKesCvpRSuc2dxQIegka38FuTXru3e7plTyOLICLjP8wL2__-kVV5BF8U8VV7BewaGHGdqMycRKCnq0nX0iQk4S_Kk.m3u8?u=1756878715
+寰宇新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
+寰宇新聞臺灣,http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
+非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新聞,http://211.23.125.95:50007/4gtv-4gtv010/index.m3u8?proxy=true
+非凡商業,http://211.23.125.95:50007/4gtv-4gtv048/index.m3u8?proxy=true
+壹電視新聞,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0d0cXZhWFhidGE5NS1xWDZSVEJOek5kWE15NlBZWVBWR2I3d0pFc19JX2Y1VXBkS05Ua2ZReU5xYmVIM2RERXE3RnlIamxhTTkxZTYtUGpiYzRBSnZYbGlaa05TeWstVkZ1NXV2NjZwaWtQc1NDTW1MeVJzN3lsbHlJWTBFNmVwZ2ViYmhBQUJ5WFFzcTdRRk1rVmN1QlBmSWl2WG9HbV9TT1ZUTTBfZ2ZxSG1kdTk1V3pza0JKcElCdlphdTdwZkVRMXA1WnZzMFJJcVo1OXhqNUF4TV9BLm0zdTg/dT0xNzU3MTIzODE5
+鏡新聞,http://rihou.cc:555/tv/鏡新聞
+鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+鏡新聞,http://211.23.125.95:50007/4gtv-4gtv075/index.m3u8?proxy=true
+體育,#genre#
+DAZN2,http://208.87.242.79/livehttpplay?channel_id=10105
+愛爾達體育1,http://208.87.242.79/livehttpplay?channel_id=20129
+愛爾達體育2,http://208.87.242.79/livehttpplay?channel_id=20107
+愛爾達體育3,http://208.87.242.79/livehttpplay?channel_id=21422
+博斯運動1,http://208.87.242.79/livehttpplay?channel_id=10131
+智林體育臺,http://211.23.125.95:50007/4gtv-4gtv101/index.m3u8?proxy=true
+華視體育,http://74.91.26.218:82/live/ctsjy.m3u8
+四臺,#genre#
+華視,http://211.72.174.95:8114/0.ts$原生解碼最佳
+華視,http://ip1.xiaomidadi.cn:8088/live/CDxbMv91QQHTPqkb/hls.m3u8
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視,http://xtvantsc.xyz/Smart.php?id=ctshd_twn
+臺灣華視 HD,http://123.51.136.80:8317/0.ts
+華視教育 HD,http://123.51.136.80:8318/0.ts
+華視,http://211.72.174.95:8114/0.ts
+華視,http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
+中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+中視菁採,http://74.91.26.218:82/live/ctvjc.m3u8
+中視,http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視箐採臺 HD,http://123.51.136.80:8322/0.ts
+中視經典臺 HD,http://123.51.136.80:8321/0.ts
+臺灣中視 HD,http://123.51.136.80:8301/0.ts
+中視,http://211.72.174.95:8113/0.ts
+中視,http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
+中視菁採,http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
+中視經典,http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
+民視臺灣,https://4gtv.158.qzz.io/163189/e75ce7b6-beac-42b9-bb54-798f21e20a00/
+民視,http://211.72.174.95:8115/0.ts$原生解碼最佳
+民視影劇,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
+民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
+民視臺灣,http://74.91.26.218:82/live/ftvtw.m3u8
+民視臺灣,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
+民視第一,http://ip1.xiaomidadi.cn:8088/live/vnr8miLNxI7tlvjD/hls.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視臺灣,http://211.23.125.95:50007/4gtv-4gtv001/index.m3u8?proxy=true
+民視,http://211.23.125.95:50007/4gtv-4gtv002/index.m3u8?proxy=true
+民視第一,http://211.23.125.95:50007/4gtv-4gtv003/index.m3u8?proxy=true
+民視臺灣,http://123.51.136.80:8311/0.ts
+民視第一,http://123.51.136.80:8309/0.ts
+民視,http://123.51.136.80:8308/0.ts
+民視,http://211.72.174.95:8115/0.ts
+民視,http://211.23.125.95:50007/4gtv-4gtv155/index.m3u8?proxy=true
+公視,http://211.72.174.95:8116/0.ts$原生解碼最佳
+公視戲劇,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+公視臺語,http://74.91.26.218:82/live/ptsty.m3u8
+公視,http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視–臺語 HD,http://123.51.136.80:8306/0.ts
+公視,http://123.51.136.80:8305/0.ts
+公視,http://211.72.174.95:8116/0.ts
+公視戲劇,http://211.23.125.95:50007/4gtv-4gtv042/index.m3u8?proxy=true
+臺視,http://211.72.174.95:8112/0.ts$原生解碼最佳
+臺視,http://ip1.xiaomidadi.cn:8088/live/7tZIx8OPUNwHPtqJ/hls.m3u8
+臺視,http://74.91.26.218:82/live/ttv.m3u8
+臺視,http://211.72.174.95:8112/0.ts
+臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
+臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+臺視綜合 HD,http://123.51.136.80:8316/0.ts
+臺視HD,http://211.23.125.95:50007/4gtv-4gtv066/index.m3u8?proxy=true
+綜合臺1,#genre#
+緯來精彩頻道,http://61.221.215.25:8800/hls/48/index.m3u8
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+TVBS臺劇,http://iptv.4666888.xyz/iptv2A.php?id=58
+TVBS,http://rihou.cc:555/tv/TVBS1
+TVBS HD,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGs8ZkpFx0ZzZqjEHuo2Itiv4FbhPO_a9MawRpjPFqO5rLG_M9KndZoq4pTwzN5YsgEJPtQiQvRftrRQv-970k7XxHRiAgRok3wpXwm44QOjCzi60kzyU72IA4XMGV3cpwLP3xveQPxQs8SaUOt3zoRLh8D8S5aZxUG9GDpjglkotL29bTkgAdSn-34M4Uk3vu3wSJU4wqvjtykbUdu1UOSQ.m3u8?u=1757123819
+TVBS G HD,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0czTWVrY2toLTNMYnh1TEZKMlhHWmFWNWZvam5vN3RkNVFQdEpfdmttY01CZ1hfZ1RHVXY4bXpWUjU1NkdkYnhpRDNwT1lqMzdTU00xNEFxUFpyQ2VmTS01YWRkQTh4V2Y0dF9NRXBoYVNjN3BRRnUyVUVMWnV3c2FCWjVMSWFCa29TYUUzVHZnZmcyRThLTWNyUFVQWWw5Sk1JclNkRFNKcDRvTVhOZ2c3YnAzV1JBRGhnZldfd29WdkJ0Y0U4M1o2ZlZOWXliM0ctV3otTk92RV9QSVZRLm0zdTg/dT0xNzU3MTIzODE5
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
+TVBS精彩,http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS歡樂,http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
+TVBSHD,http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
+東森綜合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
+中天綜合,http://rihou.cc:555/tv/中天綜合
+八大綜合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
+八大綜合臺,http://208.87.242.79/livehttpplay?channel_id=20068
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大精彩,http://211.23.125.95:50007/4gtv-4gtv034/index.m3u8?proxy=true
+八大綜合,http://211.23.125.95:50007/4gtv-4gtv039/index.m3u8?proxy=true
+靖天日本,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0diSnNRWkVESWVoTkpsUkFvTU9oR2g4MDdjRW9yb21Ta0dWUHhBckFTOHdRSWpPWkh1T3lyR21rUF8wTGpkcnB6eFpCUW5vU3pfZUZjbktVOGV4NGdlU29PTnExSFNxb3d6OUdZVjBsTFBQVnpuY2RaMWFHQzR2TDhjZE5jb2VNTDlsTDNVRW9TaGgxTC02WVgtRm5JZ3FjTmg1eHMzX3VQeEVSdGJBMGZ0SmN5VkFnb19wM0RmWmdYbWtlbUpnQmgtRVBRV0hlSFJqaWFLZUc2N3JMRktnLm0zdTg/dT0xNzU3MTIzODE5
+靖天綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dVMF9OMlFjeUdrdURKSlV3NE9BRkJ4Vk5IZm9CcnRkTk15THlybzNMM1NqUEhoTm8xU1RvTXBXSWZENUJiUG5ZOG44MlhfNWhobmF6ODctaEVLWWYzUGxOMmpXZU5TUEtvYzNMMDF6cmo3VTJ2VXhVSW4xMUU3OXEwMlJLV2tEdDcxM2dQclYyMG5TWHVZMjVEMlZyVDFIWldQRC15aks5M2M5TF9PX0VTdHdPX2k5UHRXS1N5WXB5X09KSXdTU29XZ3ZLQXY2c2FKMFZDbGJza3U4YlFnLm0zdTg/dT0xNzU3MTIzODE5
+靖天育樂,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dvUEoyOGw3U05ERTRZanZKTmNFMmM5R2FobkRQSnBxVHIxSWUyLW90aGc4Z1VFRzFkV2NMXzI0YVpqOTVOWUdObk9pS0FiTTVEdWwxMXp5OFpmM3laYU9RSnJ2VlhCVGJVMEd6OXhZTmZVb3IwSTd1blVodkc1VW5TYWpmTldhdDk4S1RidE1xejhNUWNhbFpFbUhZRTZJN2NlZXB5c2tCNGthSlJOZGZraW0ydzlVeUstdk96MVdzS1YtV2Y4THhRVTdOUUNHVEhuNjZyR3BadUoxNmpBLm0zdTg/dT0xNzU3MTIzODE5
+靖天綜合,http://211.23.125.95:50007/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://211.23.125.95:50007/4gtv-4gtv047/index.m3u8?proxy=true
+壹電視綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dEajZZYU15NUwxQVQzbnpBd080MzB3WEt4WXJTMU5WVThJa0Rud0Q1V2N1R2xkaThWWEIwUnNwNGN6TGM0X1duSjJhejNxYUZteEIzTjJzYmUya3g3eWxZcEQtQ0dvcVA2MlVGNkhFdGZLN3dvY2JyTjBYb0JfNlpKb3R3MDRhREY5UWdMaEtRVWZCWWI2YU5ZaDhJZFd2Rk80ODF1TFNqY3NRZ2ZQdWtQdkgtaWxLU3pMUkZyV1M3V1ZvWkItbHhELXJuZWotSFpqQk1sY0JUN3IzV3NBLm0zdTg/dT0xNzU3MTIzODE5
+愛爾達綜合,http://208.87.242.79/livehttpplay?channel_id=16076
+綜合臺2,#genre#
+八大第一,http://ip1.xiaomidadi.cn:8088/live/6b8CYVkZDFPCSqZI/hls.m3u8
+八大第一臺,http://208.87.242.79/livehttpplay?channel_id=20073
+三立臺灣台,http://208.87.242.79/livehttpplay?channel_id=16074
+中天亞洲,http://rihou.cc:555/tv/中天亞洲
+中天亞洲,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
+中天亞洲臺,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+中天娛樂頻道,http://61.221.215.25:8800/hls/47/index.m3u8
+天映經典,http://o11.163189.xyz/stream/live/ccm/
+天映經典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+天映經典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+天映經典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+天映經典頻道,http://php.jdshipin.com/smt.php?id=Celestial2
+金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
+金光布袋戲,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+靖天國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dobU5qYURLVFBISkkyb1lSdy1vZEFZR2FPemsyUkV6cnJmLXpRRmRKZlo0bHlKcG1FZG81TVVaUXZlb0ltSEh0bGI2RlZMenplWTU3bWZ6THAwdEZPNlJyM0k3TDl3ZGxtcTVnNlVBZ291cVJWNmtpMzdsZU9xOGRvaFFZSldRNEFVV0QxekVycnc2enZLTmpBUnlnVEpKeE5zRXpuX2hiVVZNZDJzcUZqaW1NMkt5YVF6czZ5eEFZRnVnSExZbkdrdzloY3VwYmxiZ3ZrbjFLWHo3N3lnLm0zdTg/dT0xNzU3MTIzODE5
+靖天國際,http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
+靖天資訊,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dNMnkzU2xVZjBKbjNSWXBET1UzM0plT21QQlZtSVhlXzN1QVhueFdyS1ptcGJzSWxQbkNSVHlwZHgycGVwNWUxN05udjNFcW56d2RkcUNLenQzWWpsVS1pTmpkdVlQWTlkZTFMc1BTams1c0RkaEQ3OHhiWkxGeDRWTlQtVldRYjlKN196VVNmcHY5TTBETXh5VEhxTzNjd05mT0t3WkJZRkZzR0pVaFBMYWdOdEpqZWcta3BYM0czLWxBZ1cxU1BwOUhtd2RTOWFPNVJleXcyb1htMGFnLm0zdTg/dT0xNzU3MTIzODE5
+靖天資訊,http://211.23.125.95:50007/4gtv-4gtv065/index.m3u8?proxy=true
+靖天歡樂,http://208.87.242.79/livehttpplay?channel_id=30021
+靖天歡樂,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0doMWJNMzYwWFcyZzFPcWhqamt1SjdtdHlwZ1cyLUVGaXNhTXBqbjh3OU5KQzVVbzlCRlRCQmxDR01haURQZ0VBWmNhSHVZcXN5V0M2OWRMdDg2TW43LXZuVldrcFlTWnpCeFp6ZjF4cmRJemxFRDVoRkRJS3h0WFh6Q3R5SW1rdGFDbzRVUC16dHQyN1JtdDlVUWNFc3hYdmR2RmhPNV9mU1ZoOV9OTVFGdERqRm1YV1oxSUNTMFVVUm1RQ3ZuYmQyOEF4LUdiUVRBUjVTaDhlS0toTS1RLm0zdTg/dT0xNzU3MTIzODE5
+靖天歡樂,http://211.23.125.95:50007/4gtv-4gtv054/index.m3u8?proxy=true
+龍華經典,http://cdn8.163189.xyz/163189/lhjd
+龍華經典,https://cdn8.163189.xyz/163189/lhjd
+龍華經典臺,http://xtvantsc.xyz/Smart.php?id=lunghuajingdian_twn
+ELTA娛樂,http://211.23.125.95:50007/4gtv-4gtv070/index.m3u8?proxy=true
+Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+戲劇,#genre#
+八大戲劇臺,http://208.87.242.79/livehttpplay?channel_id=20071
+三立戲劇臺,http://208.87.242.79/livehttpplay?channel_id=10125
+三立戲劇頻道,http://61.221.215.25:8800/hls/41/index.m3u8
+採昌影劇,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天戲劇,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天戲劇,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dTR2lEZUVQcUlFSlZ4M3VzMjZrbUxGYURtMEtDQzBxSXIxWHJvczh6R29FUE5IYUZ6WFFMQWlGQmxicjZxU3ZNTjVaN3l6R3FOd0VDT09hVm9YeHRnY19JZEhLclBiNEZHbWpwU2tzakU0WWlJQjR6U1NFeHZuSTg0MEZiQ2h2TTZudVg1ZlRFSnZITnpQVjJwQU1oLVFKRWZhc21wejVCM2x2aUNYOU1XTWRYYUFvOGxUMXBqWFlEOGJPckFFTDFhSklyYjYwRl9Wb2p0RjlDM2J0dkVRLm0zdTg/dT0xNzU3MTIzODE5
+靖天戲劇,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖洋戲劇,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+靖洋戲劇,http://211.23.125.95:50007/4gtv-4gtv045/index.m3u8?proxy=true
+龍華日韓,http://cdn8.163189.xyz/163189/lhrh
+龍華日韓,https://cdn8.163189.xyz/163189/lhrh
+龍華偶像,https://cdn8.163189.xyz/163189/lhox
+龍華偶像,http://cdn8.163189.xyz/163189/lhox
+龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
+龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
+電影,#genre#
+天映電影,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
+美亞電影-臺灣,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+靖天映畫,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映畫,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dEWHYxU2ZaMU1oaHRMRHZNZFp0U2lkcU8xWVBXdXUwMFphQXpfYjBJaGJiN1E1MU9reU5mczJEOE5FclFVQjUtWkRIVDZaa2tmNEh3MjhveGV1WFBRelhhYXlFMHpWY0E5YjRBY0JQUWd0MFlzTGs2NHdjdjkxU2EtR2swbkRURV9SUDNxZ1lNcFVOcFRUVExpVEdLT1hTZHllNVhtbElqYmlwYXRkMlFhVE0xeWx4THl0Tno3Yk1KUEMyaERhYkFIcWJ0TzlEWlotNER1TXZZZk1OR2JnLm0zdTg/dT0xNzU3MTIzODE5
+靖天映畫,http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
+靖天電影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖天電影,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dJVnlES1FvOFQxWjh4dEhwU2ZYQTRmQTR0Z0wtMXJGdU4tc25YUHg5WF9LRHJzZXZpaTE0aktETVMzWUFOWUlaOGloSm9wajI1aVhFVnJqaG1PWERxX19YRjU0T0lKdTFPMjJRWEdBcmRzRDRQYjlOdnAzZGpUVm1EWWdUamVlaWluSUJtS2VqaklrZFE4OVc3U2VCNzdoak1xbDhSbzFxaWtyVklsR3FaYkxGMXVNdjVQNmtQc1c0QkhqaFZiQ2Q3RXkzeVk2VEdidW9fdFJvc3FwWUFRLm0zdTg/dT0xNzU3MTIzODE5
+靖天電影,http://211.23.125.95:50007/4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影,http://iptv.4666888.xyz/iptv2A.php?id=54
+影迷數位電影,https://cdn12.178.indevs.in/163189/a643783ec587540e
+龍祥時代,http://ip1.xiaomidadi.cn:8088/live/qewgR4nMPb3lA3kV/hls.m3u8
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華電影,https://cdn8.163189.xyz/163189/lhdy
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+龍華電影臺,http://xtvantsc.xyz/Smart.php?id=xingwei_movie
+AMC 米高梅電影,http://148.113.160.49:14207/
+AMC East,https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+amc電影,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC電影-臺灣,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
+CATCHPLAY電影臺,http://208.87.242.79/livehttpplay?channel_id=10127
+CHC 影迷電影,http://nas.home.plugintool.top:2333/udp/239.76.252.242:9000
+CHC-動作電影,http://nas.home.plugintool.top:2333/udp/239.76.252.243:9000
+CHC動作電影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$荊州電信
+CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC動作電影,http://go.bkpcp.top/mg/dzdy
+CHC影迷電影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC影迷電影,http://go.bkpcp.top/mg/ymdy
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+CINEMAX,1905流金歲月 https://cdn.jdshipin.com/1905.php
+CINEMAX,http://148.113.160.49:14200/
+HBO +,http://148.113.160.49:14193/
+HBO family,http://208.87.242.79/livehttpplay?channel_id=20092
+HBO FANILY,http://148.113.160.49:14190/
+HBO HD,http://208.87.242.79/livehttpplay?channel_id=20093
+HBO HITS,http://208.87.242.79/livehttpplay?channel_id=20091
+HBO MUNDL,http://148.113.160.49:14183/
+HBO POP,http://148.113.160.49:14180/
+HBO XTREME,http://148.113.160.49:14175/
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+兒童,#genre#
+靖天卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dXSmxMUnQxYjRUMzdaUGYyMUhNNTZJY1JXVjBQeFdXSy1CNWNhU25jaGZZcTZSUFRGMUdOeUE0WFhhN1N0OHBad1ppZEVPMVB1OGh4Mi0zUjZaejc4UUJPd1pncXgyeE96T0NEajR0RmI4aVZCeFgycC1GRk5tVXRUU0hHVmZHTjctSmsxREVHR0lwMEloNXhtOERvQ3JIc3RJR0ZsYlNfRnNHLUExcHJDeWdqc1RaY1p6NUNRTnlOX1RzcU03QlJQSFhlQnFtS2N2T2dhU0d0SEluc1JBLm0zdTg/dT0xNzU3MTIzODE5
+靖天卡通,http://211.23.125.95:50007/4gtv-4gtv044/index.m3u8?proxy=true
+靖天卡通臺,http://xtvantsc.xyz/Smart.php?id=jingtiancartoon_twn
+龍華卡通,http://cdn8.163189.xyz/163189/lhkt
+DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
+音樂旅遊生活,#genre#
+生活時尚,http://nas.home.plugintool.top:2333/udp/239.76.254.73:9000
+亞洲旅遊,http://211.23.125.95:50007/4gtv-4gtv076/index.m3u8?proxy=true
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+探索,#genre#
+宇宙探索飛船,http://222.186.39.21:35466/douyu/9456028
+動物星球頻道,http://61.221.215.25:8800/hls/57/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+18,#genre#
+彩虹,https://cfss.cc/api/kg/355.mp4
+極限挑戰專場,https://isus.cc/php/huya.php?id=29982632
