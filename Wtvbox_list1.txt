@@ -153,9 +153,7 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 
 新聞臺,#genre#
 TVBS新聞臺,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1080.m3u8
-TVBS新聞臺,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
-TVBS新聞臺,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS新聞臺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 東森財經新聞臺,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8
 東森財經新聞臺,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
