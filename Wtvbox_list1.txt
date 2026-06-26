@@ -1,6 +1,4 @@
-
-
-新聞臺4G,#genre#
+新聞臺4g,#genre#
 民视新闻,http://211.72.174.95:8117/0.ts
 华视,http://211.72.174.95:8114/0.ts
 中视,http://211.72.174.95:8113/0.ts
@@ -10,144 +8,118 @@
 午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
 艾尔体育1台,http://77.90.60.172:8889/h/1744|referer=https://hamivideo.hinet.net/
 艾尔体育1台,http://77.90.60.172:8889/h/1744
-新聞臺4G,#genre#
-TVBS 新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
-東森新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
-東森財經「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
-華視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
-中視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
-民視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv13/index.m3u8
-年代新聞「Relay」,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
-三立新聞iNEWS「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
-三立新聞,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
-中天新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
-寰宇新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
-寰宇新聞臺灣「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
-中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
-體育4G,#genre#
-緯來體育「Relay」,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
-緯來體育,https://live12.xiazhix1.top/live/97353249.m3u8
-愛爾達寵物運動「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
-博斯高球 一「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang05/index.m3u8
-博斯高球 二「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang06/index.m3u8
-博斯無限 一「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
-博斯無限 二「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang13/index.m3u8
-博斯運動 一「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
-博斯運動 二「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
-博斯網球「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
-博斯魅力「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
-智林體育「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv101/index.m3u8
-華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-四臺4G,#genre#
-華視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv041/index.m3u8
-中視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv040/index.m3u8
-民視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
-民視臺灣「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
-民視影劇「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv09/index.m3u8
-民視旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
-民視第一「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
-民視綜藝「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
-民視臺灣,https://4gtv.158.qzz.io/163189/e75ce7b6-beac-42b9-bb54-798f21e20a00/
-公視戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
-公視臺語臺,http://74.91.26.218:82/live/ptsty.m3u8
-公視戲劇,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-臺視「Relay」,https://cdn.19891230.eu.org/api/TTV/index.m3u8
-綜合臺14G,#genre#
-緯來日本「Relay」,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
-緯來綜合「Relay」,https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
-緯來育樂「Relay」,https://cdn.19891230.eu.org/api/VL-E/index.m3u8
-TVBS「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
-TVBS 歡樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
-TVBS 精采「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
-東森綜合「Relay」,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
-中天綜合「Relay」,https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
-八大精彩「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv034/index.m3u8
-八大綜藝「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
-三立綜合「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
-靖天日本「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv047/index.m3u8
-靖天綜合「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv046/index.m3u8
-靖天育樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv062/index.m3u8
-綜合臺24G,#genre#
-中天亞洲「Relay」,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
-中天娛樂「Relay」,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
-天映經典,https://o11.163189.xyz/stream/live/ccm/
-天映經典頻道,http://o11.163189.xyz/stream/live/ccm/
-金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
-金光布袋戲,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-金光布袋戲「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live144/index.m3u8
-靖天國際「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv063/index.m3u8
-靖天資訊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv065/index.m3u8
-靖天歡樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv054/index.m3u8
-Cinemax經典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
-fun探索娛樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live011/index.m3u8
-戲劇4G,#genre#
-東森戲劇「Relay」,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
-採昌影劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv049/index.m3u8
-採昌影劇臺,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
-靖天戲劇,https://cdn12.178.indevs.in/163189/177d541552f78003
-靖天戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv058/index.m3u8
-靖洋戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv045/index.m3u8
-緯來戲劇「Relay」,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
-電影4G,#genre#
-東森洋片「Relay」,https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
-東森電影「Relay」,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
-靖天映畫,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映畫「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv055/index.m3u8
-靖天電影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
-靖天電影「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv061/index.m3u8
-影迷數位電影「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
-影迷數位電影臺,https://cdn12.178.indevs.in/163189/a643783ec587540e
-緯來電影「Relay」,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
-龍祥時代「Relay」,https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
-AMC電影臺,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-amc電影臺「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
-CHC動作電影,http://192.151.150.154/live/chcdz.m3u8
-CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷電影,http://124.223.82.228:89/952383261
-CHC影迷電影,http://192.151.150.154/live/chchd.m3u8
-CHC影迷電影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CI 罪案偵查頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live027/index.m3u8
-CinemaWorld「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live069/index.m3u8
-Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-CINEMAX「Relay」,https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
-Cinemax精選,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-HBO喜劇,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
-HBO精選,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-HITS頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live620/index.m3u8
-MCE 我的歐洲電影「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv10/index.m3u8
-My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
-兒童4G,#genre#
-尼克兒童頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
-東森幼幼「Relay」,https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
-靖天卡通「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv044/index.m3u8
-靖洋卡通「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv057/index.m3u8
-CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-DreamWorks 夢工廠動畫「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
-DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-MOMO親子「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8
-Nick Jr. 兒童頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live032/index.m3u8
-音樂旅遊生活4G,#genre#
-亞洲旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv076/index.m3u8
-愛爾達生活旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live120/index.m3u8
-臺灣古典音樂臺,http://59.120.88.155:8000/live.mp3
-CLASSICA 古典樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv059/index.m3u8
-ELTA生活英語「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
-History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-History 歷史頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live026/index.m3u8
-LiveABC互動英語頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live030/index.m3u8
-Mezzo Live「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv083/index.m3u8
-MTV Live「Relay」,https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
-TV5MONDE STYLE 生活時尚「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live122/index.m3u8
-探索4G,#genre#
-宇宙探索飛船,http://live.nctv.top/douyu1.php?id=9456028
-視納華仁紀實頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv013/index.m3u8
-滾動力rollor「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live012/index.m3u8
-影迷數位紀實「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv15/index.m3u8
-BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+東森新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+東森新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+東森財經新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+東森財經新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+民視新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+民視新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+民視新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+中天新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+中天新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+寰宇新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新聞臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+寰宇新聞臺灣臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+體育4g,#genre#
+愛爾達寵物運動臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+博斯高球二臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+博斯高球檯,https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+博斯高球檯,https://ha.msbot.dpdns.org/4gtv_api.php?id=264
+博斯無限二臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+博斯無限臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=266
+博斯無限臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+博斯運動一臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+博斯運動一臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+博斯運動二臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+博斯網球檯,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+博斯網球檯,https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+博斯魅力臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+智林體育臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+四臺4g,#genre#
+華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+華視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=330
+中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+民視第一臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=1
+民視第一臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=254
+民視第一臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=470
+民視臺灣臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=469
+民視臺灣臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=255
+民視臺灣臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=2
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=468
+民視綜藝臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+民視旅遊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+民視影劇臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
+民視健康美麗生活-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=376
+民視生活通-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=387
+公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
+公視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=337
+綜合臺14g,#genre#
+TVBS精采臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+TVBS歡樂臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+TVBS綜藝臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+TVBS臺劇臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+TVBS看板人物-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=394
+八大綜藝臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+八大綜藝臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+八大精彩臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+三立綜合臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+靖天綜合臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+靖天日本臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+靖天育樂臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+綜合臺24g,#genre#
+金光布袋戲,https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+金光布袋戲-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=339
+靖天資訊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
+fun探索娛樂臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=274
+KLT-靖天國際臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+Nice TV 靖天歡樂臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+戲劇4g,#genre#
+採昌影劇臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=25
+靖天戲劇臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
+靖洋戲劇臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+電影4g,#genre#
+靖天映畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
+靖天電影臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=82
+影迷數位電影臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+amc電影臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+CI 罪案偵查頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=215
+CinemaWorld,https://ha.msbot.dpdns.org/4gtv_api.php?id=225
+HITS頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=186
+My Cinema Europe HD 我的歐洲電影,https://ha.msbot.dpdns.org/4gtv_api.php?id=463
+兒童4g,#genre#
+尼克兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=185
+靖天卡通臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
+靖洋卡通Nice Bingo,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
+DreamWorks 夢工廠動畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+MOMO親子精選-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=484
+MOMO親子臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+Nick Jr. 兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=219
+音樂旅遊生活4g,#genre#
+亞洲旅遊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+亞洲旅遊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=261
+愛爾達生活旅遊臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+CLASSICA 古典樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=80
+ELTV生活英語臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=490
+History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
+LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
+Mezzo Live HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=79
+TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
+探索4g,#genre#
+視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
+滾動力rollor,https://ha.msbot.dpdns.org/4gtv_api.php?id=249
+影迷數位紀實臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
 
 
 
@@ -615,8 +587,6 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 龙祥时代,https://smt.1678520.xyz/163189/lxsd
-
-
 
 
 
