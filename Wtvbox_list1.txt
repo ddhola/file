@@ -584,10 +584,70 @@ My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
 CMusic,https://cdn12.178.indevs.in/163189/cmusic
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
 精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
+
+
+
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 龙祥时代,https://smt.1678520.xyz/163189/lxsd
+
+
+
+
+HOY TV,https://cdn.qd.je/163189.php?id=hoy
+HOY TV,https://cdn.qd.je/163189.php?id=hoy2
+HOY资讯台,https://cdn.qd.je/163189.php?id=hoy78
+HOY国际财经台,https://cdn.qd.je/163189.php?id=hoy76
+ViuTV,https://cdn.qd.je/163189.php?id=viu
+ViuTVsix,https://cdn.qd.je/163189.php?id=viu6
+NOW新闻台,https://cdn.qd.je/163189.php?id=now
+RTHK31,https://cdn.qd.je/163189.php?id=rthk31
+RTHK32,https://cdn.qd.je/163189.php?id=rthk32
+澳视澳门,https://cdn.qd.je/163189.php?id=asam
+澳视卫星,https://cdn.qd.je/163189.php?id=as
+澳门体育,https://cdn.qd.je/163189.php?id=amty
+澳门综艺,https://cdn.qd.je/163189.php?id=amzy
+澳门莲花,https://cdn.qd.je/163189.php?id=amlh
+重温经典,https://cdn.qd.je/163189.php?id=cwjd
+凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
+凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
+凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+TVB1,https://cdn.qd.je/163189.php?id=tvb1
+TVBj1,https://cdn.qd.je/163189.php?id=j1
+翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
+翡翠台,https://cdn.qd.je/163189.php?id=fct
+无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
+广东珠江,https://cdn.qd.je/163189.php?id=gdzj
+广东体育,https://cdn.qd.je/163189.php?id=gdty
+八度空间,https://cdn.qd.je/163189.php?id=8tv
+CH5,https://cdn.qd.je/163189.php?id=ch5
+CH8,https://cdn.qd.je/163189.php?id=ch8
+CHU,https://cdn.qd.je/163189.php?id=chu
+龙华电影,https://cdn.qd.je/163189.php?id=lhdy
+龙华经典,https://cdn.qd.je/163189.php?id=lhjd
+龙华偶像,https://cdn.qd.je/163189.php?id=lhox
+龙华日韩,https://cdn.qd.je/163189.php?id=lhrh
+龙华戏剧,https://cdn.qd.je/163189.php?id=lhxj
+龙华洋片,https://cdn.qd.je/163189.php?id=lhyp
+龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
+金光布袋戏,https://cdn.qd.je/163189.php?id=jgbdx
+亚洲武侠,https://cdn.qd.je/163189.php?id=yzwx
+TVB星河,https://cdn.qd.je/163189.php?id=xinghe
+天映频道(新加坡),https://cdn.qd.je/163189.php?id=typd
+天映经典,https://cdn.qd.je/163189.php?id=ccm
+海峡卫视,https://cdn.qd.je/163189.php?id=hxws
+海峡卫视,https://cdn.qd.je/163189.php?id=hxws2
+华丽翡翠台(硬字幕),https://cdn.qd.je/163189.php?id=jade
+CCTV5,https://cdn.qd.je/163189.php?id=cctv5
+CCTV5,https://cdn.qd.je/163189.php?id=cctv5-2
+CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
+CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p-2
+CCTV13,https://cdn.qd.je/163189.php?id=cctv13
+CCTV13,https://cdn.qd.je/163189.php?id=cctv13-2
+CCTV16,https://cdn.qd.je/163189.php?id=cctv16
+CCTV16,https://cdn.qd.je/163189.php?id=cctv16-2
+五星体育,https://cdn.qd.je/163189.php?id=wxty
 
 
 
