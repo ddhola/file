@@ -6,6 +6,16 @@
 民视,http://211.72.174.95:8115/0.ts
 公视,http://211.72.174.95:8116/0.ts
 
+ELTA体育1,http://flv-play.clouda.com/live/85dae7f671299359c22a1f13292f376d.flv
+ELTA体育2,http://flv-play.clouda.com/live/d78cac98f21ef2d817bfcc7ecfc4bc91.flv
+ELTA体育3,http://flv-play.clouda.com/live/5d8dadc58f32958a6ca04e3482833e48.flv
+ELTA体育4,http://flv-play.clouda.com/live/d1882b116fdf41204e2a27096ef7f56c.flv
+ELTA体育MAX1,http://flv-play.clouda.com/live/d466d27168510b59b64f327a54c1b28d.flv
+ELTA体育MAX2,http://flv-play.clouda.com/live/6d4fbcd3f514e7a5fc14fab5612e4e51.flv
+ELTA体育MAX3,http://flv-play.clouda.com/live/c78ac5315228451e3caf354badfe6dba.flv
+ELTA体育MAX4,http://flv-play.clouda.com/live/941f4f19776d786ce189748408354d80.flv
+
+
 
 
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
