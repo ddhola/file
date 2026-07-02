@@ -1,6 +1,6 @@
 电台FM,#genre#
 
-893音乐广播,https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
+福州893女主播電台,https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
 AI潮流音乐台,https://lhttp-hw.qtfm.cn/live/15318300/64k.mp3
 CBS파워라디오[MusicFM],https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
 EasyFm,https://lhttp-hw.qtfm.cn/live/5022391/64k.mp3
