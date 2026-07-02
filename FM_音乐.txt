@@ -1,5 +1,5 @@
 音乐电台FM,#genre#
-893音乐广播,https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
+福州893女主播電台,https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
 AI潮流音乐台,https://lhttp-hw.qtfm.cn/live/15318300/64k.mp3
 十堰交通音乐广播,https://lhttp-hw.qtfm.cn/live/20342/64k.mp3
 上海沸点100音乐广播,https://lhttp-hw.qtfm.cn/live/5022341/64k.mp3
