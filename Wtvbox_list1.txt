@@ -621,6 +621,10 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 金光布袋戏,https://cdn.qd.je/163189.php?id=jgbdx
 亚洲武侠,https://cdn.qd.je/163189.php?id=yzwx
 
+亞太電視綜合台,http://play2.one-tv.com/live/onetv.m3u8
+
+
+
 CCTV5,https://cdn.qd.je/163189.php?id=cctv5
 CCTV5,https://cdn.qd.je/163189.php?id=cctv5-2
 CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
