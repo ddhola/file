@@ -369,6 +369,8 @@ History,http://37.27.111.214:8080/live/27/hls.m3u8
 Mezzo Live HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=79
 TLC,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
 探索,#genre#
+BBC地球台,http://58.99.33.2:1935/liveedge2/NRPDJsoL_18_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+
 動物星球,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1004.m3u8
 動物星球,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1004.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
