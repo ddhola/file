@@ -623,6 +623,10 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 
 亞太電視綜合台,http://play2.one-tv.com/live/onetv.m3u8
 
+
+BBC earth, https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+翡翠台, http://mytv.cdn.loc.cc/o12.php?id=BBC
+
 五星体育,http://82.156.243.185:54321/kk.php?id=10&smg=1
 
 广东体育,https://cdn.qd.je/163189.php?id=gdty
@@ -632,6 +636,17 @@ CCTV5,https://cdn.qd.je/163189.php?id=cctv5-2
 CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
 
 五星体育,https://cdn.qd.je/163189.php?id=wxty
+
+
+
+
+
+
+
+
+
+
+
 
 
 
