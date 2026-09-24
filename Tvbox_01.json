@@ -3,7 +3,7 @@
   "sites": [
         {"key": "ttzy", "name": "📅天天┃影视", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php"},
         {"key": "无水印", "name": "水印｜采集", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod/"},
-    {"key": "hongguo", "name": "🍎紅果┃短劇", "type": 3, "api": "py_hongguo", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/phu889/kjh998/main/py/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py"},
+    {"key": "hongguo", "name": "🍎紅果┃短劇", "type": 3, "api": "py_hongguo", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/phu889/kjh998/main/py/4K影视仓.py.py"},
         {"key": "sdzy", "name": "闪电资源(切)", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/"},
         {"key": "ikun", "name": "🥣爱坤┃影视x", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
         {"key": "U酷資源", "name": "U酷資源🔪", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/"},
