@@ -1,5 +1,6 @@
 新聞臺,#genre#
 
+BBC Earth 有字幕,https://migu.yang-1989.xyz/comp/ptva57.m3u8?token=5b5e4298aa59608a35d2c230a89494dcb414e0a4e3413b2e
 中視,http://49.232.143.177:80/pyxg/export.php?id=22&key=****
 華視,http://49.232.143.177:80/pyxg/export.php?id=23&key=****
 民視,http://49.232.143.177:80/pyxg/export.php?id=24&key=****
