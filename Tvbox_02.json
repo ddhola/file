@@ -154,7 +154,7 @@
     {
       "name": "我的直播頻道",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Wtvbox_list1.txt",
+      "url": "https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Wtvbox.txt",
       "ua": "okhttp/3.12.13"
     },
 
