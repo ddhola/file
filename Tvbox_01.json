@@ -2,6 +2,9 @@
   "version": "1",
   "sites": [
     {"key": "ttzy", "name": "📅天天┃影视", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php"},
+    {"key": "茅台资源", "name": "茅台┃采四", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"},
+    {"key": "API_442", "name": "茅台資源_442", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod"},
+    {"key": "API_451", "name": "豆瓣資源_451", "type": 1, "api": "https://dbzy.tv/api.php/provide/vod"},
     {"key": "dytt", "name": "🎬电影天堂", "type": 1, "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json"},
     {"key": "无水印", "name": "水印｜采集", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod/"},
     {"key": "追剧达人", "name": "🐬[追剧]追剧达人", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py"},
@@ -34,7 +37,7 @@
     {"key": "金鹰采集", "name": "金鹰┃采一", "type": 1, "api": "https://jyzyapi.com/provide/vod/"},
     {"key": "暴风采集", "name": "暴风┃采二", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/"},
     {"key": "豪华资源", "name": "豪华┃采三", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod"},
-    {"key": "茅台资源", "name": "茅台┃采四", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"},
+
     {"key": "极速资源", "name": "极速┃采五", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/at/json"},
     {"key": "新浪影视", "name": "新浪┃采八", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
     {"key": "360zy", "name": "三六┃采九", "type": 1, "api": "https://360zy.com/api.php/provide/vod?"},
@@ -83,8 +86,8 @@
     {"key": "API_406", "name": "櫻花資源_406", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod"},
     {"key": "API_424", "name": "牛牛資源_424", "type": 1, "api": "https://api.niuniuzy.me/api.php/provide/vod"},
     {"key": "API_433", "name": "索尼資源_433", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod"},
-    {"key": "API_442", "name": "茅台資源_442", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod"},
-    {"key": "API_451", "name": "豆瓣資源_451", "type": 1, "api": "https://dbzy.tv/api.php/provide/vod"},
+
+
     {"key": "API_460", "name": "速播資源_460", "type": 1, "api": "https://subocaiji.com/api.php/provide/vod"},
     {"key": "API_469", "name": "金鷹資源_469", "type": 1, "api": "https://jinyingzy.com/api.php/provide/vod"},
     {"key": "API_478", "name": "閃電資源_478", "type": 1, "api": "https://sdzyapi.com/api.php/provide/vod"},
